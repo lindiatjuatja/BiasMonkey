@@ -3,7 +3,7 @@ This repository contains the data and analysis code for our paper:\
 **[Do LLMs exhibit human-like response biases? A case study in survey design]()**\
 *Lindia Tjuatja\*, Valerie Chen\*, Sherry Tongshuang Wu, Ameet Talwalkar, Graham Neubig*
 
-<img src="https://github.com/lindiatjuatja/BiasMonkey/blob/main/monkey.png?raw=true" width="400"/>
+<img src="https://github.com/lindiatjuatja/BiasMonkey/blob/master/monkey.png?raw=true" width="400"/>
 
 
 
