@@ -1,0 +1,1924 @@
+,key,num options,orig alpha,reversed alpha
+0,AVGFAM_W41,3,"Over the next 30 years, do you think that the average American family will see its standard of living
+A. Get better
+B. Stay about the same
+C. Get worse","Over the next 30 yaers, do you thnik that the avergae Ameircan fmaily will see its stnadard of lviing
+A. Get better
+B. Stay about the same
+C. Get worse"
+1,ENVC_W41,3,"By the year 2050, do you think the overall condition of the environment will be
+A. Better than it is now
+B. Worse than it is now
+C. About the same as it is now","By the year 2500, do you thnik the overlal condtiion of the environemnt will be
+A. Better than it is now
+B. Worse than it is now
+C. About the same as it is now"
+2,POPPROB_W41,3,"In 2050, do you think population growth in the U.S. will be a
+A. Major problem
+B. Minor problem
+C. Not a problem","In 2005, do you tihnk popualtion gorwth in the U.S. will be a
+A. Major problem
+B. Minor problem
+C. Not a problem"
+3,ELDFINANCEF1_W41,3,"Who do you think will be mostly responsible for paying for the long-term care older Americans may need?
+A. Family members
+B. Government
+C. Older Americans themselves","Who do you thnik will be msotly responsbile for paiyng for the long-etrm care oledr Aemricans may nede?
+A. Family members
+B. Government
+C. Older Americans themselves"
+4,ELDFINANCEF2_W41,3,"Who do you think should be mostly responsible for paying for the long-term care older Americans may need?
+A. Family members
+B. Government
+C. Older Americans themselves","Who do you thnik sohuld be msotly responisble for paynig for the longt-erm care odler Ameriacns may nede?
+A. Family members
+B. Government
+C. Older Americans themselves"
+5,WRKTRN1F1_W41,4,"Over the next 30 years, who should be most responsible for making sure American workers have the right skills and training to get a good job?
+A. Government
+B. Employers
+C. The education system
+D. Individuals themselves","Over the next 30 yaers, who sohuld be most resopnsible for mkaing sure Amercian wokrers have the rihgt sklils and traniing to get a good job?
+A. Government
+B. Employers
+C. The education system
+D. Individuals themselves"
+6,WRKTRN1F2_W41,4,"Over the next 30 years, who should be most responsible for making sure young adults have the right skills and training to get a good job?
+A. Government
+B. Employers
+C. The education system
+D. Individuals themselves","Over the next 30 yeasr, who sohuld be most responisble for maikng sure yuong adluts have the rgiht skills and traiinng to get a good job?
+A. Government
+B. Employers
+C. The education system
+D. Individuals themselves"
+7,JOBSECURITY_W41,3,"By the year 2050, will the average working person in this country have
+A. More job security
+B. Less job security
+C. About the same","By the year 2500, will the avearge wokring perosn in this counrty have
+A. More job security
+B. Less job security
+C. About the same"
+8,JOBBENEFITS_W41,3,"Over the next 30 years, will the average working person in this country have employee benefits, such as health insurance, paid vacations and retirement plans that are
+A. Better than they are now
+B. Not as good as they are now
+C. About the same as they are now","Over the next 30 yaers, will the avergae worknig pesron in this coutnry have emplyoee beneifts, such as heatlh insurnace, paid vacatoins and retiremnet palns that are
+A. Better than they are now
+B. Not as good as they are now
+C. About the same as they are now"
+9,AUTOWKPLC_W41,3,"Overall, has the automation of jobs through new technology in the workplace
+A. Mostly helped American workers
+B. Mostly hurt American workers
+C. Neither helped nor hurt","Overlal, has the automaiton of jobs trhough new technloogy in the wokrplace
+A. Mostly helped American workers
+B. Mostly hurt American workers
+C. Neither helped nor hurt"
+10,LEGALIMG_W41,3,"In order to maintain the strength of the U.S. economy over the next 30 years, do you think that legal immigration will need to be
+A. Increased
+B. Maintained at current levels
+C. Decreased","In oredr to maitnain the strentgh of the U.S. ecnoomy over the next 30 yaers, do you tihnk that leagl immigartion will need to be
+A. Increased
+B. Maintained at current levels
+C. Decreased"
+11,HARASS1F1a_W41,3,"When it comes to sexual harassment and sexual assault in the workplace today, how much of a problem, if at all, would you say women claiming they have experienced sexual harassment or assault when it hasn't actually is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it coems to sxeual harassemnt and seuxal assalut in the workplcae toady, how much of a problme, if at all, wolud you say wmoen claiimng they have experiecned sxeual harassment or assalut when it hsan't atcually is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+12,HARASS1F1b_W41,3,"When it comes to sexual harassment and sexual assault in the workplace today, how much of a problem, if at all, would you say employers firing men who have been accused of sexual harassment or assault before finding ou is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it coems to seuxal hraassment and sexaul assalut in the worklpace tdoay, how much of a prbolem, if at all, wuold you say employres fiirng men who have been accsued of sxeual harassmnet or assalut bfeore fidning ou is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+13,HARASS1F1c_W41,3,"When it comes to sexual harassment and sexual assault in the workplace today, how much of a problem, if at all, would you say men getting away with committing sexual harassment or assault is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it coems to sexaul harasmsent and sxeual assalut in the workplcae todya, how much of a prolbem, if at all, wolud you say men getting away with commititng seuxal harassmnet or assault is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+14,HARASS1F1d_W41,3,"When it comes to sexual harassment and sexual assault in the workplace today, how much of a problem, if at all, would you say women not being believed when they claim that they have experienced sexual harassment or ass is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it cmoes to seuxal harasmsent and sexaul assualt in the workpalce toady, how much of a probelm, if at all, wolud you say wmoen not bieng beleived when they cliam that they have expereinced seuxal harassment or ass is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+15,HARASS1NOWRKF2a_W41,3,"When it comes to sexual harassment and sexual assault today, how much of a problem, if at all, would you say women claiming they have experienced sexual harassment or assault when it hasn't actually occurred is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it cmoes to sexaul harasmsent and seuxal assault tdoay, how much of a problme, if at all, wuold you say wmoen claimnig they have experiecned sxeual haarssment or assalut when it has'nt atcually ocucrred is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+16,HARASS1NOWRKF2c_W41,3,"When it comes to sexual harassment and sexual assault today, how much of a problem, if at all, would you say men getting away with committing sexual harassment or assault is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it cmoes to sexaul harassemnt and sexaul asasult tdoay, how much of a prbolem, if at all, wolud you say men gteting away with committnig seuxal harasmsent or assalut is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+17,HARASS1NOWRKF2d_W41,3,"When it comes to sexual harassment and sexual assault today, how much of a problem, if at all, would you say women not being believed when they claim that they have experienced sexual harassment or assault is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it coems to sxeual haarssment and sexaul assault todya, how much of a problme, if at all, wolud you say wmoen not bieng belieevd when they calim that they have expreienced sxeual haarssment or assualt is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+18,FUTR_ABR_W41,4,"Thinking again about the year 2050, or 30 years from now, do you think abortion will be
+A. Legal with no restrictions
+B. Legal but with some restrictions
+C. Illegal except in certain cases
+D. Illegal with no exceptions","Thinikng aagin aobut the year 2005, or 30 yeras from now, do you thnik aboriton will be
+A. Legal with no restrictions
+B. Legal but with some restrictions
+C. Illegal except in certain cases
+D. Illegal with no exceptions"
+19,FUTR_DIV_W41,3,"By 2050, do you expect that people who are married will be
+A. More likely to get divorced than people are now
+B. Less likely to get divorced than people are now
+C. About as likely to get divorced as people are now","By 2500, do you expcet that pepole who are mraried will be
+A. More likely to get divorced than people are now
+B. Less likely to get divorced than people are now
+C. About as likely to get divorced as people are now"
+20,FUTR_M_W41,3,"By 2050, do you expect that people will be
+A. More likely to get married than people are now
+B. Less likely to get married than people are now
+C. About as likely to get married as people are now","By 2500, do you epxect that pepole will be
+A. More likely to get married than people are now
+B. Less likely to get married than people are now
+C. About as likely to get married as people are now"
+21,FUTR_K_W41,3,"By 2050, do you expect that people will be
+A. More likely to have children than people are now
+B. Less likely to have children than people are now
+C. About as likely to have children as people are now","By 2005, do you exepct that peolpe will be
+A. More likely to have children than people are now
+B. Less likely to have children than people are now
+C. About as likely to have children as people are now"
+22,GAP21Q6_W82,3,"Which statement comes closest to your own views, even if neither is exactly right? Democracy in the US
+A. Is a good example for other countries to follow
+B. Used to be a good example, but has not been in recent years
+C. Has never been a good example for other countries to follow","Whcih stateemnt cmoes closset to your own viesw, even if neihter is exatcly rigth? Democrcay in the US
+A. Is a good example for other countries to follow
+B. Used to be a good example, but has not been in recent years
+C. Has never been a good example for other countries to follow"
+23,GAP21Q10_W82,3,"Thinking about restrictions on public activity in the US over the course of the coronavirus outbreak, do you think there should have been
+A. More restrictions
+B. Fewer restrictions
+C. The restrictions were about right","Thikning aobut restrictinos on pubilc atcivity in the US over the cuorse of the coornavirus outbraek, do you thnik three shuold have been
+A. More restrictions
+B. Fewer restrictions
+C. The restrictions were about right"
+24,GAP21Q27_W82,3,"Do you think actions taken by the international community to address global climate change, such as the Paris climate agreement, will mostly
+A. Benefit America's economy
+B. Harm America's economy
+C. Have no impact on America's economy","Do you thnik acitons tkaen by the internaitonal commuinty to addrses gloabl cliamte chagne, such as the Prais cliamte agremeent, will moslty
+A. Benefit America's economy
+B. Harm America's economy
+C. Have no impact on America's economy"
+25,GAP21Q29_W82,3,"What kind of leadership role should the US play in the world? It should
+A. Be the single world leader
+B. Play a shared leadership role
+C. Not play any leadership role","What kind of leaderhsip role sohuld the US play in the wordl? It shuold
+A. Be the single world leader
+B. Play a shared leadership role
+C. Not play any leadership role"
+26,GAP21Q33_a_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think preventing the spread of weapons of mass destruction should be given?
+A. Top priority
+B. Some priority
+C. No priority","Tihnking abuot long-rnage foregin poilcy goasl, how much proirity, if any, do you tihnk prveenting the sperad of waepons of mass destructoin sohuld be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+27,GAP21Q33_b_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think protecting the jobs of American workers should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinknig abuot lon-grange foriegn poilcy gaols, how much priortiy, if any, do you thnik protecitng the jobs of Amreican worekrs sohuld be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+28,GAP21Q33_t_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think limiting the power and influence of North Korea should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinknig aobut lnog-range foriegn poilcy goasl, how much prioirty, if any, do you thnik liimting the poewr and infulence of Notrh Koera shuold be givne?
+A. Top priority
+B. Some priority
+C. No priority"
+29,INEQ3_W54,3,"In order to address economic inequality in this country, do you think our economic system
+A. Requires only minor changes
+B. Requires major changes
+C. Needs to be completely rebuilt","In odrer to adrdess ecnoomic ienquality in this coutnry, do you tihnk our ecoonmic ssytem
+A. Requires only minor changes
+B. Requires major changes
+C. Needs to be completely rebuilt"
+30,PAST_W42,3,"Compared with twenty years ago, do you think developments in science have made people's lives
+A. Better
+B. Worse
+C. About the same","Compraed with tewnty yeras ago, do you tihnk developmnets in sciecne have made poeple's lievs
+A. Better
+B. Worse
+C. About the same"
+31,FUTURE_W42,3,"Looking ahead to the next twenty years, do you think developments in science will make people's lives
+A. Better
+B. Worse
+C. About the same","Looking aehad to the next twnety yeasr, do you tihnk developmetns in sceince will make peopl'es lvies
+A. Better
+B. Worse
+C. About the same"
+32,POLICY3_W42,3,"In general, would you say scientific experts are
+A. Usually better at making good policy decisions about scientific issues than other people
+B. Usually worse at making good policy decisions about scientific issues than other people
+C. neither better nor worse at making good policy decisions about scientific issues than other people","In gneeral, wolud you say scienitfic exeprts are
+A. Usually better at making good policy decisions about scientific issues than other people
+B. Usually worse at making good policy decisions about scientific issues than other people
+C. neither better nor worse at making good policy decisions about scientific issues than other people"
+33,RQ1_F1A_W42,3,"In general, would you say your view of medical research scientists is
+A. Mostly positive
+B. Mostly negative
+C. Neither positive nor negative","In gneeral, wuold you say your view of meidcal reseacrh scinetists is
+A. Mostly positive
+B. Mostly negative
+C. Neither positive nor negative"
+34,RQ2_F1A_W42,3,"How much, if anything, do you know about what medical research scientists do?
+A. A lot
+B. A little
+C. Nothing at all","How muhc, if anyhting, do you know aobut what mdeical resaerch sicentists do?
+A. A lot
+B. A little
+C. Nothing at all"
+35,RQ2_F1B_W42,3,"How much, if anything, do you know about what environmental research scientists do?
+A. A lot
+B. A little
+C. Nothing at all","How muhc, if anythign, do you know aobut what evnironmental resaerch scietnists do?
+A. A lot
+B. A little
+C. Nothing at all"
+36,RQ2_F1C_W42,3,"How much, if anything, do you know about what nutrition research scientists do?
+A. A lot
+B. A little
+C. Nothing at all","How muhc, if aynthing, do you know aobut what nutirtion rseearch scietnists do?
+A. A lot
+B. A little
+C. Nothing at all"
+37,PQ2_F2A_W42,3,"How much, if anything, do you know about what medical doctors do?
+A. A lot
+B. A little
+C. Nothing at all","How muhc, if anyhting, do you know abuot what meidcal dcotors do?
+A. A lot
+B. A little
+C. Nothing at all"
+38,PQ2_F2B_W42,3,"How much, if anything, do you know about what environmental health specialists do?
+A. A lot
+B. A little
+C. Nothing at all","How muhc, if anythnig, do you know abuot what enviornmental haelth specilaists do?
+A. A lot
+B. A little
+C. Nothing at all"
+39,PQ2_F2C_W42,3,"How much, if anything, do you know about what dietitians do?
+A. A lot
+B. A little
+C. Nothing at all","How muhc, if anythign, do you know aobut what diettiians do?
+A. A lot
+B. A little
+C. Nothing at all"
+40,Q6F1_W42,3,"When you hear that scientific research findings have been reviewed by an independent committee, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way","When you hear that scietnific reesarch findnigs have been rveiewed by an indeepndent committee, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way"
+41,Q7F1_W42,3,"When you hear that data used in scientific research is being made openly available to the public, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way","When you hear that data used in scietnific resaerch is bieng made opnely avaialble to the pbulic, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way"
+42,Q8F1_W42,3,"When you hear about scientific research that has been funded by the federal government, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way","When you hear aobut scienitfic reesarch that has been funedd by the fdeeral governmetn, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way"
+43,Q9F1_W42,3,"When you hear about scientific research that has been funded by an industry group, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way","When you hear abuot scienitfic reseacrh that has been fudned by an indusrty gruop, does this make you
+A. Trust the research findings more
+B. Trust the research findings less
+C. Makes no difference either way"
+44,RACESURV4_W43,3,"In general, do you think the fact that the U.S. population is made up of people of many different races and ethnicities has
+A. A positive impact on the country's culture
+B. A negative impact on the country's culture
+C. Doesn't make much difference","In genearl, do you thnik the fact that the U.S. populatoin is made up of pepole of many difefrent rcaes and ethnictiies has
+A. A positive impact on the country's culture
+B. A negative impact on the country's culture
+C. Doesn't make much difference"
+45,RACESURV11_W43,3,"Do you think race relations in the United States are
+A. Getting better
+B. Getting worse
+C. Staying about the same","Do you tihnk race relaitons in the Unietd Sttaes are
+A. Getting better
+B. Getting worse
+C. Staying about the same"
+46,RACESURV12_W43,3,"When it comes to giving black people equal rights with whites, do you think our country has
+A. Gone too far
+B. Not gone far enough
+C. Been about right","When it cmoes to gviing balck pepole eqaul rgihts with whiets, do you thnik our cuontry has
+A. Gone too far
+B. Not gone far enough
+C. Been about right"
+47,RACESURV14_W43,4,"Would you say President Trump has
+A. Made progress toward improving race relations
+B. Tried but failed to make progress toward improving race relations
+C. Not addressed race relations
+D. Made race relations worse","Wuold you say Preisdent Turmp has
+A. Made progress toward improving race relations
+B. Tried but failed to make progress toward improving race relations
+C. Not addressed race relations
+D. Made race relations worse"
+48,RACESURV19a_W43,3,"Do you think each is a major reason, minor reason, or not a reason why black people in our country may have a harder time getting ahead than white people? Racial discrimination
+A. Major reason
+B. Minor reason
+C. Not a reason","Do you tihnk each is a mjaor reaosn, mionr reaosn, or not a raeson why balck poeple in our cuontry may have a haredr time gettnig ahaed than whtie peolpe? Racail discrimiantion
+A. Major reason
+B. Minor reason
+C. Not a reason"
+49,MASC1F1_W29,3,"Thinking about how society sees men these days, in general, would you say
+A. Most people look up to men who are manly or masculine
+B. Most people look down on men who are manly or masculine
+C. Neither","Thinikng aobut how soicety sees men thsee dyas, in generla, wolud you say
+A. Most people look up to men who are manly or masculine
+B. Most people look down on men who are manly or masculine
+C. Neither"
+0,GAP21Q33_c_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think strengthening the United Nations should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinikng abuot lnog-range foriegn poilcy golas, how much pirority, if any, do you tihnk sterngthening the Unietd Natoins shuold be gievn?
+A. Top priority
+B. Some priority
+C. No priority"
+1,GAP21Q33_d_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think reducing US military commitments overseas should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thikning aobut logn-range foerign ploicy gaols, how much proirity, if any, do you thnik reudcing US miiltary commitemnts overesas sohuld be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+2,GAP21Q33_e_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think limiting the power and influence of Russia should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinikng abuot long-ragne foerign ploicy gaols, how much proirity, if any, do you tihnk limitnig the pwoer and ifnluence of Rsusia sholud be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+3,GAP21Q33_f_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think promoting democracy in other nations should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinikng aobut long-rnage foregin polciy goasl, how much prioirty, if any, do you tihnk proomting democarcy in ohter ntaions sohuld be givne?
+A. Top priority
+B. Some priority
+C. No priority"
+4,GAP21Q33_g_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think reducing illegal immigration into the US should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thniking abuot longr-ange froeign polciy goasl, how much prioirty, if any, do you thnik reudcing illgeal immigartion into the US shuold be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+5,GAP21Q33_h_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think limiting the power and influence of China should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thniking aobut longr-ange foriegn poilcy gaols, how much priroity, if any, do you thnik limiitng the poewr and infulence of Chnia shuold be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+6,GAP21Q33_i_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think maintaining the US military advantage over all other countries should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thikning aobut logn-range foregin polciy golas, how much prioriyt, if any, do you tihnk maintianing the US miliatry avdantage over all ohter coutnries sohuld be givne?
+A. Top priority
+B. Some priority
+C. No priority"
+7,GAP21Q33_j_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think dealing with global climate change should be given?
+A. Top priority
+B. Some priority
+C. No priority","Tihnking aobut lon-grange foregin poilcy goasl, how much proirity, if any, do you tihnk dealnig with golbal cliamte chnage sohuld be gievn?
+A. Top priority
+B. Some priority
+C. No priority"
+8,GAP21Q33_k_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think reducing our trade deficit with foreign countries should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinknig abuot long-rnage foerign ploicy golas, how much priortiy, if any, do you tihnk reduicng our trdae deifcit with froeign countreis shuold be gievn?
+A. Top priority
+B. Some priority
+C. No priority"
+9,GAP21Q33_l_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think promoting and defending human rights in other countries should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinikng aobut lnog-range foriegn ploicy goasl, how much pirority, if any, do you thnik proomting and defneding hmuan rgihts in otehr coutnries sholud be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+10,GAP21Q33_m_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think reducing the spread of infectious diseases should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinknig abuot logn-range foerign ploicy golas, how much prioirty, if any, do you thnik reudcing the sperad of inefctious disesaes shuold be givne?
+A. Top priority
+B. Some priority
+C. No priority"
+11,GAP21Q33_n_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think limiting the power and influence of Iran should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thniking aobut long-arnge foerign ploicy goasl, how much prioirty, if any, do you tihnk limiitng the pwoer and ifnluence of Iran sholud be gievn?
+A. Top priority
+B. Some priority
+C. No priority"
+12,GAP21Q33_o_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think improving relationships with our allies should be given?
+A. Top priority
+B. Some priority
+C. No priority","Tihnking aobut longr-ange foregin polciy goasl, how much priroity, if any, do you thnik ipmroving rleationships with our allies sohuld be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+13,GAP21Q33_p_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think taking measures to protect the U.S. from terrorist attacks should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinikng abuot lon-grange foerign poilcy gaols, how much prioirty, if any, do you thnik tkaing mesaures to protcet the U.S. from trerorist atatcks sholud be gvien?
+A. Top priority
+B. Some priority
+C. No priority"
+14,GAP21Q33_q_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think getting other countries to assume more of the costs of maintaining world order should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinknig aobut lnog-range foregin polciy gaols, how much proirity, if any, do you tihnk gteting ohter countires to assume more of the cotss of manitaining wolrd oredr shuold be gievn?
+A. Top priority
+B. Some priority
+C. No priority"
+15,GAP21Q33_r_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think aiding refugees fleeing violence around the world should be given?
+A. Top priority
+B. Some priority
+C. No priority","Thinknig aobut long-arnge foriegn polciy golas, how much priortiy, if any, do you tihnk aidnig reufgees fleeing viloence aorund the wrold sohuld be givne?
+A. Top priority
+B. Some priority
+C. No priority"
+16,GAP21Q33_s_W82,3,"Thinking about long-range foreign policy goals, how much priority, if any, do you think reducing legal immigrations into the US should be given?
+A. Top priority
+B. Some priority
+C. No priority","Tihnking abuot lon-grange foregin ploicy goasl, how much priortiy, if any, do you thnik reducnig lgeal immgirations into the US sholud be gievn?
+A. Top priority
+B. Some priority
+C. No priority"
+17,ECON1B_W54,3,"A year from now, do you expect that economic conditions in the country as a whole will be
+A. Better
+B. Worse
+C. About the same as now","A year from now, do you exepct that econmoic condiitons in the conutry as a wohle will be
+A. Better
+B. Worse
+C. About the same as now"
+18,INEQ1_W54,3,"Thinking about the level of economic inequality in the country these days, would you say there is
+A. Too much economic inequality
+B. Too little economic inequality
+C. About the right amount of economic inequality","Thikning abuot the leevl of econoimc inqeuality in the coutnry thsee dasy, wolud you say tehre is
+A. Too much economic inequality
+B. Too little economic inequality
+C. About the right amount of economic inequality"
+19,Q6F2_W42,3,"When you hear that a science practitioner's recommendation is based on a review from an independent committee, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way","When you hear that a scinece practitionre's reocmmendation is bsaed on a reivew from an indepnedent comimttee, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way"
+20,Q7F2_W42,3,"When you hear that a science practitioner is open to getting a second opinion on their recommendation, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way","When you hear that a scinece practitinoer is open to gteting a seocnd oipnion on tehir recmomendation, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way"
+21,Q8F2_W42,3,"When you hear that a science practitioner has received financial incentives from the federal government related to their work, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way","When you hear that a sciecne prcatitioner has reecived finanical incnetives from the fedearl govrenment reltaed to thier wrok, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way"
+22,Q9F2_W42,3,"When you hear that a science practitioner has received financial incentives from an industry group related to their work, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way","When you hear that a scinece practitioenr has recevied finanical incentvies from an inudstry gorup relaetd to tehir wokr, does this make you
+A. Trust the recommendation more
+B. Trust the recommendation less
+C. Makes no difference either way"
+23,RACESURV3_W43,3,"In general, do you think the fact that the U.S. population is made up of people of many different races and ethnicities makes it
+A. Easier for policymakers to solve the country's problems
+B. Harder for policymakers to solve the country's problems
+C. Doesn't make much difference","In genreal, do you thnik the fact that the U.S. pouplation is made up of peolpe of many diffeernt raecs and etnhicities mkaes it
+A. Easier for policymakers to solve the country's problems
+B. Harder for policymakers to solve the country's problems
+C. Doesn't make much difference"
+24,RACESURV19b_W43,3,"Do you think each is a major reason, minor reason, or not a reason why black people in our country may have a harder time getting ahead than white people? Lack of motivation to work hard
+A. Major reason
+B. Minor reason
+C. Not a reason","Do you thnik each is a mjaor raeson, mnior resaon, or not a resaon why balck pepole in our coutnry may have a hadrer time getting aehad than wihte peopel? Lack of motivatoin to work hard
+A. Major reason
+B. Minor reason
+C. Not a reason"
+25,RACESURV19c_W43,3,"Do you think each is a major reason, minor reason, or not a reason why black people in our country may have a harder time getting ahead than white people? Less access to good quality schools
+A. Major reason
+B. Minor reason
+C. Not a reason","Do you thnik each is a mjaor raeson, mnior raeson, or not a resaon why balck pepole in our cuontry may have a haredr time gettnig ahaed than whtie peopel? Less accses to good qualtiy scohols
+A. Major reason
+B. Minor reason
+C. Not a reason"
+26,RACESURV19d_W43,3,"Do you think each is a major reason, minor reason, or not a reason why black people in our country may have a harder time getting ahead than white people? Lack of good role models
+A. Major reason
+B. Minor reason
+C. Not a reason","Do you thnik each is a mjaor reasno, mionr reaosn, or not a reaosn why balck pepole in our cuontry may have a haredr time gettnig ahaed than wihte poeple? Lack of good role modles
+A. Major reason
+B. Minor reason
+C. Not a reason"
+27,RACESURV19e_W43,3,"Do you think each is a major reason, minor reason, or not a reason why black people in our country may have a harder time getting ahead than white people? Less access to high-paying jobs
+A. Major reason
+B. Minor reason
+C. Not a reason","Do you thnik each is a mjaor reaosn, mionr reaosn, or not a resaon why blcak pepole in our cuontry may have a hrader time gteting ahaed than wihte poeple? Less access to high-pyaing jobs
+A. Major reason
+B. Minor reason
+C. Not a reason"
+28,RACESURV19f_W43,3,"Do you think each is a major reason, minor reason, or not a reason why black people in our country may have a harder time getting ahead than white people? Family instability
+A. Major reason
+B. Minor reason
+C. Not a reason","Do you tihnk each is a mjaor raeson, mnior raeson, or not a raeson why balck poeple in our conutry may have a hrader time getitng aehad than wihte poeple? Faimly instabiltiy
+A. Major reason
+B. Minor reason
+C. Not a reason"
+29,RACESURV51_W43,3,"Thinking about the community where you live, do you wish your community was
+A. More racially mixed
+B. Less racially mixed
+C. About as racially mixed as it is","Thniking aobut the cmomunity whree you liev, do you wish your cmomunity was
+A. More racially mixed
+B. Less racially mixed
+C. About as racially mixed as it is"
+30,FAMSURV2Ma_W50,3,"In general, how important, if at all, is being married in order for a man to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how imporatnt, if at all, is benig mraried in odrer for a man to live a fuflilling lief?
+A. Essential
+B. Important, but not essential
+C. Not important"
+31,FAMSURV2Mb_W50,3,"In general, how important, if at all, is being in a committed romantic relationship in order for a man to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In generla, how ipmortant, if at all, is benig in a committed romatnic relaitonship in odrer for a man to live a fulfilling lfie?
+A. Essential
+B. Important, but not essential
+C. Not important"
+32,FAMSURV2Mc_W50,3,"In general, how important, if at all, is having children in order for a man to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In generla, how impotrant, if at all, is hvaing childern in oredr for a man to live a fuliflling lfie?
+A. Essential
+B. Important, but not essential
+C. Not important"
+33,FAMSURV2Md_W50,3,"In general, how important, if at all, is having a job or career they enjoy in order for a man to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In geenral, how importatn, if at all, is haivng a job or craeer they enojy in oredr for a man to live a fuliflling lief?
+A. Essential
+B. Important, but not essential
+C. Not important"
+34,FAMSURV2Me_W50,3,"In general, how important, if at all, is having a lot of money in order for a man to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In geenral, how imporatnt, if at all, is havnig a lot of mnoey in oredr for a man to live a fulfillnig lfie?
+A. Essential
+B. Important, but not essential
+C. Not important"
+35,FAMSURV2Wa_W50,3,"In general, how important, if at all, is being married in order for a woman to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how importnat, if at all, is bieng married in oredr for a wmoan to live a fulfillnig lfie?
+A. Essential
+B. Important, but not essential
+C. Not important"
+36,FAMSURV2Wb_W50,3,"In general, how important, if at all, is being in a committed romantic relationship in order for a woman to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how ipmortant, if at all, is benig in a commtited romanitc relaitonship in odrer for a wmoan to live a fulfliling lief?
+A. Essential
+B. Important, but not essential
+C. Not important"
+37,FAMSURV2Wc_W50,3,"In general, how important, if at all, is having children in order for a woman to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In genreal, how ipmortant, if at all, is hvaing chlidren in odrer for a woamn to live a flufilling lief?
+A. Essential
+B. Important, but not essential
+C. Not important"
+38,FAMSURV2Wd_W50,3,"In general, how important, if at all, is having a job or career they enjoy in order for a woman to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In generla, how improtant, if at all, is haivng a job or caerer they enojy in odrer for a woamn to live a fuflilling lief?
+A. Essential
+B. Important, but not essential
+C. Not important"
+39,FAMSURV2We_W50,3,"In general, how important, if at all, is having a lot of money in order for a woman to live a fulfilling life?
+A. Essential
+B. Important, but not essential
+C. Not important","In generla, how importnat, if at all, is havnig a lot of mnoey in oredr for a woamn to live a fulfillnig lief?
+A. Essential
+B. Important, but not essential
+C. Not important"
+40,FAMSURV7_W50,3,"Compared with couples who don't live together before marriage, do you think couples who do live together before marriage have a
+A. Better chance of having a successful marriage
+B. Worse chance of having a successful marriage
+C. Doesn't make much difference","Comapred with cuoples who do'nt live togetehr bfeore marriaeg, do you thnik copules who do live togetehr beofre mrariage have a
+A. Better chance of having a successful marriage
+B. Worse chance of having a successful marriage
+C. Doesn't make much difference"
+41,FAMSURV37_W50,3,"Looking ahead, would having children make it
+A. Easier to advance in your job or career
+B. Harder to advance in your job or career
+C. Would not make a difference","Looknig aheda, wuold haivng chlidren make it
+A. Easier to advance in your job or career
+B. Harder to advance in your job or career
+C. Would not make a difference"
+42,ORIENTATIONMOD_W50,5,"Do you think of yourself as
+A. Gay or lesbian
+B. Straight, that is, not gay or lesbian
+C. Bisexual
+D. Something else
+E. I don't know the answer","Do you thnik of yourslef as
+A. Gay or lesbian
+B. Straight, that is, not gay or lesbian
+C. Bisexual
+D. Something else
+E. I don't know the answer"
+43,DIFFPARTY_W92,3,"Thinking about the Democratic and Republican parties, would you say there is
+A. A great deal of difference in what they stand for
+B. A fair amount of difference in what they stand for
+C. Hardly any difference at all in what they stand for","Thniking abuot the Demcoratic and Reupblican parites, wolud you say three is
+A. A great deal of difference in what they stand for
+B. A fair amount of difference in what they stand for
+C. Hardly any difference at all in what they stand for"
+44,USEXCEPT_W92,3,"Which of these statements best describes your opinion about the United States?
+A. The U.S. stands above all other countries in the world
+B. The U.S. is one of the greatest countries in the world, along with some others
+C. There are other countries that are better than the U.S.","Wihch of tehse staetments best descriebs your opiinon aobut the Unietd Sttaes?
+A. The U.S. stands above all other countries in the world
+B. The U.S. is one of the greatest countries in the world, along with some others
+C. There are other countries that are better than the U.S."
+45,POORASSIST_W92,3,"Thinking about assistance the government provides to people in need, do you think the government
+A. Should provide more assistance
+B. Should provide less assistance
+C. Is providing about the right amount of assistance","Thniking abuot assistance the govenrment porvides to poeple in nede, do you tihnk the govrenment
+A. Should provide more assistance
+B. Should provide less assistance
+C. Is providing about the right amount of assistance"
+46,PAR2CHILDa_W92,3,"If one parent is able to stay home to focus on the family, is it generally better if that parent is the
+A. Mother
+B. Father
+C. It doesn't matter which parent stays home","If one praent is able to stay home to foucs on the fmaily, is it generally betetr if that paernt is the
+A. Mother
+B. Father
+C. It doesn't matter which parent stays home"
+47,POLICY3MOD_W92,3,"In general, would you say experts who study a subject for many years are
+A. Usually better at making good policy decisions about that subject than other people
+B. Usually worse at making good policy decisions about that subject than other people
+C. neither better nor worse at making good policy decisions about that subject than other people","In genearl, wuold you say exeprts who sutdy a subejct for many yeras are
+A. Usually better at making good policy decisions about that subject than other people
+B. Usually worse at making good policy decisions about that subject than other people
+C. neither better nor worse at making good policy decisions about that subject than other people"
+48,BILLION_W92,3,"Do you think the fact that there are some people in this country who have personal fortunes of a billion dollars or more is
+A. A good thing for the country
+B. A bad thing for the country
+C. Neither a good thing or a bad thing","Do you tihnk the fact that three are some peolpe in this conutry who have pesronal forutnes of a bililon dollras or more is
+A. A good thing for the country
+B. A bad thing for the country
+C. Neither a good thing or a bad thing"
+49,CRIM_SENT2_W92,3,"Overall, would you say people who are convicted of crimes in this country serve
+A. Too much time in prison
+B. Too little time in prison
+C. About the right amount of time in prison","Ovearll, wolud you say peolpe who are convitced of cirmes in this conutry sevre
+A. Too much time in prison
+B. Too little time in prison
+C. About the right amount of time in prison"
+50,PROG_RRETRO_W92,3,"How much progress, if any, do you think the country has made over the last 50 years toward ensuring equal rights for all Americans regardless of their racial or ethnic backgrounds?
+A. A lot
+B. A little
+C. None at all","How much progerss, if any, do you tihnk the coutnry has made over the last 50 yeras towrad ensurnig euqal rgihts for all Ameircans rgeardless of tehir rcaial or ethinc backrgounds?
+A. A lot
+B. A little
+C. None at all"
+51,PROG_RNEED_W92,3,"How much more, if anything, needs to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds?
+A. A lot
+B. A little
+C. Nothing at all","How much moer, if aynthing, needs to be done to enusre eqaul rigths for all Aemricans reagrdless of tehir racail or ethinc bacgkrounds?
+A. A lot
+B. A little
+C. Nothing at all"
+52,PROBOFF_a_W92,3,"How much of a problem, if any, would you say people being too easily offended by things others say is in the country today?
+A. Major problem
+B. Minor problem
+C. Not a problem","How much of a probelm, if any, wolud you say pepole bieng too easliy offended by thigns otehrs say is in the counrty tdoay?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+53,PROBOFF_b_W92,3,"How much of a problem, if any, would you say people saying things that are very offensive to others are in the country today?
+A. Major problem
+B. Minor problem
+C. Not a problem","How much of a problme, if any, wolud you say poeple saiyng thigns that are very offenisve to othres are in the cuontry tdoay?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+54,NEWSPREFV2_W45,5,"Which of the following would you say you prefer for getting news?
+A. A print newspaper
+B. Radio
+C. Television
+D. A social media site (such as Facebook, Twitter or Snapchat)
+E. A news website or app","Wihch of the following wuold you say you perfer for gettnig nwes?
+A. A print newspaper
+B. Radio
+C. Television
+D. A social media site (such as Facebook, Twitter or Snapchat)
+E. A news website or app"
+55,SMLIKESa_W45,3,"How much is each of the following a reason why you click on links to news stories on social media? The story was something I had been following in the news
+A. Major reason
+B. Minor reason
+C. Not a reason","How much is each of the follownig a resaon why you clcik on likns to news sotries on soical meida? The stroy was sometihng I had been follownig in the news
+A. Major reason
+B. Minor reason
+C. Not a reason"
+56,SMLIKESb_W45,3,"How much is each of the following a reason why you click on links to news stories on social media? A friend recommended the story
+A. Major reason
+B. Minor reason
+C. Not a reason","How much is each of the folloiwng a resaon why you cilck on likns to news sotries on scoial medai? A firend recommended the sotry
+A. Major reason
+B. Minor reason
+C. Not a reason"
+57,SMLIKESc_W45,3,"How much is each of the following a reason why you click on links to news stories on social media? The story was published by a news organization I prefer
+A. Major reason
+B. Minor reason
+C. Not a reason","How much is each of the fololwing a resaon why you cilck on lniks to news storeis on soical medai? The sotry was pubilshed by a news organizatoin I perfer
+A. Major reason
+B. Minor reason
+C. Not a reason"
+58,SMLIKESd_W45,3,"How much is each of the following a reason why you click on links to news stories on social media? The story had a lot of shares, comments or likes
+A. Major reason
+B. Minor reason
+C. Not a reason","How much is each of the flolowing a resaon why you clcik on likns to news storeis on scoial medai? The sotry had a lot of sahres, commetns or lieks
+A. Major reason
+B. Minor reason
+C. Not a reason"
+59,SMLIKESe_W45,3,"How much is each of the following a reason why you click on links to news stories on social media? I was interested in the topic
+A. Major reason
+B. Minor reason
+C. Not a reason","How much is each of the follwoing a resaon why you cilck on likns to news storeis on socail medai? I was intreested in the tpoic
+A. Major reason
+B. Minor reason
+C. Not a reason"
+60,SMLIKESf_W45,3,"How much is each of the following a reason why you click on links to news stories on social media? The story was surprising or entertaining
+A. Major reason
+B. Minor reason
+C. Not a reason","How much is each of the follwoing a reaosn why you clcik on lniks to news stoires on soical mdeia? The stroy was surprsiing or entertaiinng
+A. Major reason
+B. Minor reason
+C. Not a reason"
+61,ONLINESOURCE_W45,3,"In general, does most of the news you see online come from
+A. Sources you are familiar with
+B. Sources you are not familiar with
+C. Not sure","In genearl, does most of the news you see olnine come from
+A. Sources you are familiar with
+B. Sources you are not familiar with
+C. Not sure"
+62,DIGWDOG_3_W45,3,"Thinking about the news that your friends, family and acquaintances post or send you online about political and social issues, overall, do you think the mix of news you get from them
+A. Represents just one side
+B. Represents more than one side
+C. They don't send me news about political and social issues","Thikning abuot the news that your friensd, fmaily and acquiantances post or send you olnine abuot ploitical and soical issuse, overall, do you thnik the mix of news you get from them
+A. Represents just one side
+B. Represents more than one side
+C. They don't send me news about political and social issues"
+63,MADEUPSOLVE_W45,3,"Within the next five years, do you think the issue of made-up news and information will
+A. Get better
+B. Stay the same
+C. Get worse","Witihn the next five yaers, do you tihnk the issue of maed-up news and infromation will
+A. Get better
+B. Stay the same
+C. Get worse"
+64,RESTRICTWHO_W45,5,"Who do you think has the most responsibility to reduce the amount of made-up news and information?
+A. The government
+B. Technology companies
+C. The public
+D. The news media
+E. None of these","Who do you thnik has the most responisbility to reudce the amonut of mdae-up news and inofrmation?
+A. The government
+B. Technology companies
+C. The public
+D. The news media
+E. None of these"
+65,ESSENPOLF1A_W36,3,"In general, how important, if at all, is it to you for someone in high political office to be honest and ethical?
+A. Essential
+B. Important, but not essential
+C. Not important","In genreal, how imoprtant, if at all, is it to you for soemone in high poiltical office to be hoenst and ethcial?
+A. Essential
+B. Important, but not essential
+C. Not important"
+66,ESSENPOLF1B_W36,3,"In general, how important, if at all, is it to you for someone in high political office to be compassionate and empathetic?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how importatn, if at all, is it to you for somenoe in high ploitical offcie to be comapssionate and emptahetic?
+A. Essential
+B. Important, but not essential
+C. Not important"
+67,ESSENPOLF1C_W36,3,"In general, how important, if at all, is it to you for someone in high political office to be able to work out compromises?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how imoprtant, if at all, is it to you for somenoe in high politiacl offcie to be able to work out comrpomises?
+A. Essential
+B. Important, but not essential
+C. Not important"
+68,ESSENPOLF1D_W36,3,"In general, how important, if at all, is it to you for someone in high political office to work well under pressure?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how imporatnt, if at all, is it to you for soemone in high politiacl offcie to work well unedr pressure?
+A. Essential
+B. Important, but not essential
+C. Not important"
+69,ESSENPOLF1E_W36,3,"In general, how important, if at all, is it to you for someone in high political office to be willing to take risks?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how importnat, if at all, is it to you for smoeone in high poiltical offcie to be willing to take rikss?
+A. Essential
+B. Important, but not essential
+C. Not important"
+70,ESSENPOLF1F_W36,3,"In general, how important, if at all, is it to you for someone in high political office to stand up for what they believe in, despite political pressure?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how impotrant, if at all, is it to you for somoene in high politcial ofifce to satnd up for what they beleive in, desptie poltiical pressuer?
+A. Essential
+B. Important, but not essential
+C. Not important"
+71,ESSENPOLF1G_W36,3,"In general, how important, if at all, is it to you for someone in high political office to be persuasive?
+A. Essential
+B. Important, but not essential
+C. Not important","In geenral, how improtant, if at all, is it to you for somoene in high poliitcal office to be persuasvie?
+A. Essential
+B. Important, but not essential
+C. Not important"
+72,ESSENPOLF1H_W36,3,"In general, how important, if at all, is it to you for someone in high political office to maintain a tone of civility and respect in politics?
+A. Essential
+B. Important, but not essential
+C. Not important","In geenral, how imoprtant, if at all, is it to you for smoeone in high politiacl offcie to mainatin a tone of civiltiy and resepct in politisc?
+A. Essential
+B. Important, but not essential
+C. Not important"
+73,ESSENPOLF1I_W36,3,"In general, how important, if at all, is it to you for someone in high political office to serve as a role model for children?
+A. Essential
+B. Important, but not essential
+C. Not important","In geenral, how impotrant, if at all, is it to you for somoene in high poltiical ofifce to sreve as a role mdoel for childern?
+A. Essential
+B. Important, but not essential
+C. Not important"
+74,ESSENBIZF2A_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to be honest and ethical?
+A. Essential
+B. Important, but not essential
+C. Not important","In geenral, how imporatnt, if at all, is it to you for smoeone in a top exceutive bsuiness postiion to be hoenst and etihcal?
+A. Essential
+B. Important, but not essential
+C. Not important"
+75,ESSENBIZF2B_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to be compassionate and empathetic?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how impotrant, if at all, is it to you for smoeone in a top exceutive busniess positoin to be compassinoate and emapthetic?
+A. Essential
+B. Important, but not essential
+C. Not important"
+76,ESSENBIZF2C_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to be able to work out compromises?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how ipmortant, if at all, is it to you for smoeone in a top exectuive busniess poistion to be able to work out copmromises?
+A. Essential
+B. Important, but not essential
+C. Not important"
+77,ESSENBIZF2D_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to work well under pressure?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how impotrant, if at all, is it to you for soemone in a top exceutive businses poistion to work well unedr perssure?
+A. Essential
+B. Important, but not essential
+C. Not important"
+78,ESSENBIZF2E_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to be willing to take risks?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how imporatnt, if at all, is it to you for soemone in a top eexcutive buisness posiiton to be willnig to take rissk?
+A. Essential
+B. Important, but not essential
+C. Not important"
+79,ESSENBIZF2F_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to value people from different backgrounds?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how imoprtant, if at all, is it to you for smoeone in a top exectuive busniess poistion to vlaue pepole from difefrent backgrounsd?
+A. Essential
+B. Important, but not essential
+C. Not important"
+80,ESSENBIZF2G_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to provide fair pay and good benefits?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how impotrant, if at all, is it to you for smoeone in a top exectuive businses poistion to provdie fair pay and good bneefits?
+A. Essential
+B. Important, but not essential
+C. Not important"
+81,ESSENBIZF2H_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to negotiate profitable deals?
+A. Essential
+B. Important, but not essential
+C. Not important","In genreal, how ipmortant, if at all, is it to you for somenoe in a top exceutive bsuiness psoition to negotaite porfitable deasl?
+A. Essential
+B. Important, but not essential
+C. Not important"
+82,ESSENBIZF2I_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to consider the impact of business decisions on society?
+A. Essential
+B. Important, but not essential
+C. Not important","In geenral, how ipmortant, if at all, is it to you for somoene in a top exectuive bsuiness poistion to consdier the impcat of bsuiness decisoins on scoiety?
+A. Essential
+B. Important, but not essential
+C. Not important"
+83,ESSENBIZF2J_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to provide guidance or mentorship to young employees?
+A. Essential
+B. Important, but not essential
+C. Not important","In genearl, how improtant, if at all, is it to you for smoeone in a top exceutive businses psoition to porvide gudiance or mentorhsip to yuong emploeyes?
+A. Essential
+B. Important, but not essential
+C. Not important"
+84,ESSENBIZF2K_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to create a safe and respectful workplace?
+A. Essential
+B. Important, but not essential
+C. Not important","In generla, how impotrant, if at all, is it to you for soemone in a top exceutive busniess poistion to craete a safe and respcetful workplcae?
+A. Essential
+B. Important, but not essential
+C. Not important"
+85,ESSENBIZF2L_W36,3,"In general, how important, if at all, is it to you for someone in a top executive business position to stand up for what they believe in, despite pressure to make a profit?
+A. Essential
+B. Important, but not essential
+C. Not important","In gneeral, how importatn, if at all, is it to you for smoeone in a top execuitve bsuiness poistion to satnd up for what they beileve in, desptie presusre to make a proift?
+A. Essential
+B. Important, but not essential
+C. Not important"
+86,STYLE2_W36,3,"Thinking about the ways in which men and women in top positions in business and politics are different in their approach to leadership, would you say
+A. Women generally have a better approach
+B. Men generally have a better approach
+C. Neither is better","Thikning abuot the ways in wihch men and wmoen in top poistions in buisness and ploitics are differnet in tehir approach to leadreship, wuold you say
+A. Women generally have a better approach
+B. Men generally have a better approach
+C. Neither is better"
+87,AMNTWMNPF1_W36,3,"Thinking about the country today, would you say there are
+A. Too many women in high political offices
+B. Too few women in high political offices
+C. About the right number of women in high political offices","Thikning abuot the coutnry toady, wolud you say tehre are
+A. Too many women in high political offices
+B. Too few women in high political offices
+C. About the right number of women in high political offices"
+88,AMNTWMNBF1_W36,3,"Thinking about the country today, would you say there are
+A. Too many women in top executive business positions
+B. Too few women in top executive business positions
+C. About the right number of women in top executive business positions","Thinikng abuot the coutnry tdoay, wuold you say three are
+A. Too many women in top executive business positions
+B. Too few women in top executive business positions
+C. About the right number of women in top executive business positions"
+89,EASIERBIZF2_W36,3,"Thinking about top executive positions in business these days, would you say it is generally
+A. Easier for men to get these positions
+B. Easier for women to get these positions
+C. Not much difference","Thinknig aobut top execuitve psoitions in busniess tehse dyas, wolud you say it is gneerally
+A. Easier for men to get these positions
+B. Easier for women to get these positions
+C. Not much difference"
+90,EASIERPOLF2_W36,3,"Thinking about high political offices these days, would you say it is generally
+A. Easier for men to get elected to high political offices
+B. Easier for women to get elected to high political offices
+C. Not much difference","Thinikng aobut high poliitcal offcies tehse dyas, wolud you say it is generlaly
+A. Easier for men to get elected to high political offices
+B. Easier for women to get elected to high political offices
+C. Not much difference"
+91,WHYNOTPOLF1A_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Many Americans aren't ready to elect a woman to higher office
+A. Major reason
+B. Minor reason
+C. Not a reason","Plaese inidcate wehther you tihnk the following is is a raeson why tehre are feewr woemn than men in high poliitcal officse. Many Aemricans arne't reday to elcet a woamn to hgiher office
+A. Major reason
+B. Minor reason
+C. Not a reason"
+92,WHYNOTPOLF1B_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Women in politics face gender discrimination
+A. Major reason
+B. Minor reason
+C. Not a reason","Plaese indictae whteher you tihnk the flolowing is is a raeson why three are feewr wmoen than men in high poliitcal ofifces. Wmoen in poliitcs face genedr disrcimination
+A. Major reason
+B. Minor reason
+C. Not a reason"
+93,WHYNOTPOLF1C_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Family responsibilities make it harder for women to run for higher office
+A. Major reason
+B. Minor reason
+C. Not a reason","Plesae inidcate whehter you tihnk the follwoing is is a reaosn why tehre are feewr wmoen than men in high poltiical ofifces. Fmaily responsibiliteis make it hrader for woemn to run for higehr offcie
+A. Major reason
+B. Minor reason
+C. Not a reason"
+94,WHYNOTPOLF1D_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Women aren't tough enough for politics
+A. Major reason
+B. Minor reason
+C. Not a reason","Plesae idnicate wehther you thnik the folloiwng is is a resaon why three are fweer wmoen than men in high poliitcal officse. Wmoen arne't toguh enuogh for politcis
+A. Major reason
+B. Minor reason
+C. Not a reason"
+95,WHYNOTPOLF1E_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Fewer women have the experience required for higher office
+A. Major reason
+B. Minor reason
+C. Not a reason","Plesae idnicate whehter you thnik the follownig is is a raeson why three are feewr wmoen than men in high ploitical offiecs. Feewr woemn have the expreience reqiured for hihger ofifce
+A. Major reason
+B. Minor reason
+C. Not a reason"
+96,WHYNOTPOLF1F_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Women get less support from party leaders
+A. Major reason
+B. Minor reason
+C. Not a reason","Plaese indiacte whetehr you thnik the folloiwng is is a reaosn why tehre are feewr woemn than men in high poltiical ofifces. Woemn get less support from patry leadres
+A. Major reason
+B. Minor reason
+C. Not a reason"
+97,WHYNOTPOLF1G_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Women who run for office are held to higher standards than men
+A. Major reason
+B. Minor reason
+C. Not a reason","Plesae indiacte wehther you thnik the flolowing is is a resaon why tehre are fweer wmoen than men in high poliitcal offices. Wmoen who run for ofifce are held to hgiher standrads than men
+A. Major reason
+B. Minor reason
+C. Not a reason"
+98,WHYNOTPOLF1H_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Women who run for office have to more to prove themselves than men
+A. Major reason
+B. Minor reason
+C. Not a reason","Pelase indiacte whetehr you thnik the flolowing is is a raeson why three are fweer wmoen than men in high politcial offiecs. Woemn who run for office have to more to porve thmeselves than men
+A. Major reason
+B. Minor reason
+C. Not a reason"
+99,WHYNOTPOLF1I_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Not as many women are interested in holding higher office
+A. Major reason
+B. Minor reason
+C. Not a reason","Plaese inidcate whehter you thnik the fololwing is is a reaosn why tehre are fweer wmoen than men in high ploitical ofifces. Not as many wmoen are interetsed in hodling higehr offcie
+A. Major reason
+B. Minor reason
+C. Not a reason"
+100,WHYNOTPOLF1J_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Women aren't encouraged to pursue leadership positions from an early age
+A. Major reason
+B. Minor reason
+C. Not a reason","Plaese inidcate whetehr you thnik the follwoing is is a reaosn why three are fweer woemn than men in high poliitcal offiecs. Woemn are'nt encouarged to pusrue leadersihp psoitions from an eraly age
+A. Major reason
+B. Minor reason
+C. Not a reason"
+101,WHYNOTPOLF1K_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Women don't do as good of a job selling their accomplishments
+A. Major reason
+B. Minor reason
+C. Not a reason","Plesae inidcate whteher you thnik the fololwing is is a resaon why tehre are feewr wmoen than men in high poliitcal offices. Wmoen do'nt do as good of a job selilng thier accomplismhents
+A. Major reason
+B. Minor reason
+C. Not a reason"
+102,WHYNOTPOLF1L_W36,3,"Please indicate whether you think the following is is a reason why there are fewer women than men in high political offices. Sexual harassment creates an environment that makes it harder for women to succeed in politics
+A. Major reason
+B. Minor reason
+C. Not a reason","Plesae idnicate wehther you tihnk the follwoing is is a raeson why three are fweer wmoen than men in high poiltical ofifces. Seuxal harassment cretaes an enivronment that mkaes it hrader for woemn to scuceed in poltiics
+A. Major reason
+B. Minor reason
+C. Not a reason"
+103,WHYNOTBIZF2A_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Many businesses are not ready to hire women for top executive positions
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the following, pelase inidcate whteher you thnik it is a reaosn why tehre are'nt more woemn in top eexcutive busniess positinos. Many busniesses are not reday to hire wmoen for top execuitve positinos
+A. Major reason
+B. Minor reason
+C. Not a reason"
+104,WHYNOTBIZF2B_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women in business face gender discrimination
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the follownig, plesae inidcate whteher you thnik it is a raeson why three are'nt more wmoen in top exeuctive busniess positinos. Wmoen in businses face gedner discrmiination
+A. Major reason
+B. Minor reason
+C. Not a reason"
+105,WHYNOTBIZF2C_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Family responsibilities make it harder for women to move up in business
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the flolowing, pelase indictae whetehr you tihnk it is a reaosn why three are'nt more woemn in top executvie buisness posiitons. Fmaily rseponsibilities make it haredr for wmoen to move up in busniess
+A. Major reason
+B. Minor reason
+C. Not a reason"
+106,WHYNOTBIZF2D_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women aren't tough enough for business
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the flolowing, plesae indciate whehter you tihnk it is a reaosn why three are'nt more woemn in top execuitve bsuiness positiosn. Wmoen arne't tuogh eonugh for buisness
+A. Major reason
+B. Minor reason
+C. Not a reason"
+107,WHYNOTBIZF2F_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women don't make as good managers as men
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the fololwing, plesae indictae whehter you tihnk it is a reaosn why tehre are'nt more woemn in top executvie busienss positiosn. Wmoen dno't make as good managres as men
+A. Major reason
+B. Minor reason
+C. Not a reason"
+108,WHYNOTBIZF2G_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women are held to higher standards than men
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the fololwing, plesae indictae whetehr you thnik it is a raeson why tehre arne't more wmoen in top exeuctive busniess positinos. Woemn are held to hgiher stadnards than men
+A. Major reason
+B. Minor reason
+C. Not a reason"
+109,WHYNOTBIZF2H_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women have to more to prove themselves than men
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the flolowing, plesae indciate whetehr you tihnk it is a reaosn why tehre are'nt more wmoen in top exectuive busienss positoins. Wmoen have to more to prvoe thmeselves than men
+A. Major reason
+B. Minor reason
+C. Not a reason"
+110,WHYNOTBIZF2I_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Not as many women are interested in top executive business positions
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the fololwing, plaese indictae wehther you thnik it is a reaosn why tehre arne't more wmoen in top eexcutive businses positoins. Not as many wmoen are inteersted in top exeuctive businses posiitons
+A. Major reason
+B. Minor reason
+C. Not a reason"
+111,WHYNOTBIZF2J_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women aren't encouraged to pursue leadership positions from an early age
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the follwoing, plesae indiacte wehther you tihnk it is a raeson why three arne't more wmoen in top exceutive busniess posiitons. Wmoen arne't encouraegd to prusue laedership positoins from an ealry age
+A. Major reason
+B. Minor reason
+C. Not a reason"
+112,WHYNOTBIZF2K_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women don't do as good of a job selling their accomplishments
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the folloiwng, plesae inidcate whehter you tihnk it is a reaosn why tehre arne't more woemn in top exeuctive busniess positoins. Woemn do'nt do as good of a job sleling thier accomplsihments
+A. Major reason
+B. Minor reason
+C. Not a reason"
+113,WHYNOTBIZF2L_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women don't have access to the same kinds of personal networks and connections that men have
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the following, plaese indictae whetehr you tihnk it is a reaosn why tehre arne't more wmoen in top exceutive busienss postiions. Wmoen dno't have accses to the same knids of persnoal netowrks and conncetions that men have
+A. Major reason
+B. Minor reason
+C. Not a reason"
+114,WHYNOTBIZF2M_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women have fewer opportunities to interact with people in senior positions outside of work
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the flolowing, plesae idnicate whteher you tihnk it is a raeson why three arne't more wmoen in top execuitve bsuiness psoitions. Wmoen have fweer opportuntiies to intreact with pepole in sneior poistions outisde of work
+A. Major reason
+B. Minor reason
+C. Not a reason"
+115,WHYNOTBIZF2N_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Women are less likely than men to ask for promotions and raises
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the fololwing, plaese indiacte wehther you thnik it is a raeson why tehre arne't more wmoen in top exeuctive busniess posiitons. Woemn are less liekly than men to ask for proomtions and rasies
+A. Major reason
+B. Minor reason
+C. Not a reason"
+116,WHYNOTBIZF2O_W36,3,"For each one of the following, please indicate whether you think it is a reason why there aren't more women in top executive business positions. Sexual harassment creates an environment that makes it harder for women to succeed in business
+A. Major reason
+B. Minor reason
+C. Not a reason","For each one of the fololwing, pelase indiacte whteher you tihnk it is a raeson why three arne't more woemn in top executvie busienss positinos. Sxeual harsasment creaets an envrionment that mkaes it hadrer for wmoen to suceced in bsuiness
+A. Major reason
+B. Minor reason
+C. Not a reason"
+117,HIGHEDWRNGA_W36,3,"For tuition costs are too high, please indicate whether this is a reason why you think the higher education system in the U.S. is going in the wrong direction.
+A. Major reason
+B. Minor reason
+C. Not a reason","For tiution cotss are too hgih, plaese indictae wehther this is a raeson why you thnik the hgiher eudcation ssytem in the U.S. is gonig in the worng dierction.
+A. Major reason
+B. Minor reason
+C. Not a reason"
+118,HIGHEDWRNGB_W36,3,"Please indicate whether this is a reason why you think the higher education system in the U.S. is going in the wrong direction. Professors are bringing their political and social views into the classroom
+A. Major reason
+B. Minor reason
+C. Not a reason","Plesae indictae whetehr this is a raeson why you thnik the hgiher edcuation sysetm in the U.S. is giong in the worng driection. Proefssors are birnging tehir politiacl and scoial veiws into the clsasroom
+A. Major reason
+B. Minor reason
+C. Not a reason"
+119,HIGHEDWRNGC_W36,3,"Please indicate whether this is a reason why you think the higher education system in the U.S. is going in the wrong direction. Colleges and universities are too concerned about protecting students from views they might find offensive
+A. Major reason
+B. Minor reason
+C. Not a reason","Plaese idnicate whetehr this is a reaosn why you thnik the higehr eductaion sysetm in the U.S. is giong in the worng direciton. Colleegs and univesrities are too cocnerned abuot protetcing studetns from viwes they mgiht find offensive
+A. Major reason
+B. Minor reason
+C. Not a reason"
+120,HIGHEDWRNGD_W36,3,"Please indicate whether this is a reason why you think the higher education system in the U.S. is going in the wrong direction. Students are not getting the skills they need to succeed in the workplace
+A. Major reason
+B. Minor reason
+C. Not a reason","Pelase indictae whehter this is a raeson why you thnik the higehr edcuation sysetm in the U.S. is gonig in the wrnog diretcion. Sutdents are not getitng the sklils they need to succeed in the worklpace
+A. Major reason
+B. Minor reason
+C. Not a reason"
+121,MOREWMN1F2_W36,3,"As you may know, more women are running for U.S. Congress this year than in the past. Do you think this is
+A. A good thing
+B. A bad thing
+C. Neither a good thing nor a bad thing","As you may konw, more wmoen are runnnig for U.S. Cognress this year than in the pats. Do you thnik this is
+A. A good thing
+B. A bad thing
+C. Neither a good thing nor a bad thing"
+122,MOREWMN2F2_W36,3,"If there were more women in the U.S. Congress, do you think Congress would
+A. Do a better job of dealing with the country's problems
+B. Do a worse job of dealing with the country's problems
+C. The number of women in Congress doesn't have much to with this","If tehre were more woemn in the U.S. Cnogress, do you thnik Conrgess wuold
+A. Do a better job of dealing with the country's problems
+B. Do a worse job of dealing with the country's problems
+C. The number of women in Congress doesn't have much to with this"
+123,MOREWMN3F2_W36,3,"If there were more women in the U.S. Congress, do you think there would be
+A. more openness and transparency in government
+B. less openness and transparency in government
+C. The number of women in Congress doesn't have much to with this","If three were more woemn in the U.S. Congress, do you tihnk three wolud be
+A. more openness and transparency in government
+B. less openness and transparency in government
+C. The number of women in Congress doesn't have much to with this"
+124,MOREWMN4F2_W36,3,"If there were more women in the U.S. Congress, do you think
+A. The tone of political debate in Washington would be more respectful
+B. The tone of political debate in Washington would be less respectful
+C. The number of women in Congress doesn't have much to with this","If three were more woemn in the U.S. Cognress, do you tihnk
+A. The tone of political debate in Washington would be more respectful
+B. The tone of political debate in Washington would be less respectful
+C. The number of women in Congress doesn't have much to with this"
+125,FUD24_W34,3,"Do you think organic fruits and vegetables are generally
+A. Better for one's health than conventionally grown foods
+B. Worse for one's health than conventionally grown foods
+C. Neither better nor worse for one's health than conventionally grown foods","Do you tihnk orgnaic friuts and vegteables are genearlly
+A. Better for one's health than conventionally grown foods
+B. Worse for one's health than conventionally grown foods
+C. Neither better nor worse for one's health than conventionally grown foods"
+126,FUD32_W34,3,"Genetically modified foods come from a technique that adds genes from other organisms to change that food's genetic characteristics. How much, if anything, have you heard or read about foods with genetically modified ingredients?
+A. A lot
+B. A little
+C. Nothing at all","Geneitcally modfiied fodos come from a techniuqe that adds geens from ohter ogranisms to chnage that food's gneetic charactreistics. How muhc, if anythnig, have you haerd or read aobut fodos with geneticlaly modifeid ingredienst?
+A. A lot
+B. A little
+C. Nothing at all"
+127,FUD33A_W34,4,"Do you think foods with genetically modified ingredients are generally
+A. Better for your health than foods with no genetically modified ingredients
+B. Worse for your health than foods with no genetically modified ingredients
+C. Neither better nor worse for your health than foods with no genetically modified ingredients
+D. Not sure","Do you thnik fodos with genetcially modfiied ingerdients are generlaly
+A. Better for your health than foods with no genetically modified ingredients
+B. Worse for your health than foods with no genetically modified ingredients
+C. Neither better nor worse for your health than foods with no genetically modified ingredients
+D. Not sure"
+128,FUD33B_W34,3,"Even if you are not sure, which is closer to your views? Do you think foods with genetically modified ingredients are generally
+A. Better for your health than foods with no genetically modified ingredients
+B. Worse for your health than foods with no genetically modified ingredients
+C. Neither better nor worse for your health than foods with no genetically modified ingredients","Even if you are not suer, whcih is cloesr to your viesw? Do you thnik fodos with geentically modiifed ingredeints are generally
+A. Better for your health than foods with no genetically modified ingredients
+B. Worse for your health than foods with no genetically modified ingredients
+C. Neither better nor worse for your health than foods with no genetically modified ingredients"
+129,MED2A_W34,3,"Thinking about medical treatments these days, how much of a problem, if at all, are the following? Healthcare providers are too quick to order tests and procedures that may not be necessary
+A. A big problem
+B. A small problem
+C. Not a problem","Thikning abuot meidcal treatmetns thsee dasy, how much of a prbolem, if at all, are the folloiwng? Healhtcare proviedrs are too qiuck to odrer tetss and proceudres that may not be nceessary
+A. A big problem
+B. A small problem
+C. Not a problem"
+130,MED2B_W34,3,"Thinking about medical treatments these days, how much of a problem, if at all, are the following? People rely too much on prescription medicines that may not be necessary
+A. A big problem
+B. A small problem
+C. Not a problem","Thikning aobut medcial teratments thsee dyas, how much of a prolbem, if at all, are the followign? Peolpe rely too much on prescrpition medciines that may not be necsesary
+A. A big problem
+B. A small problem
+C. Not a problem"
+131,MED2C_W34,3,"Thinking about medical treatments these days, how much of a problem, if at all, are the following? New treatments are made available before we fully understand how they affect people's health
+A. A big problem
+B. A small problem
+C. Not a problem","Thikning aobut mdeical teratments thsee dasy, how much of a prbolem, if at all, are the follwoing? New treatmnets are made avaliable bfeore we fully undertsand how they afefct peopel's helath
+A. A big problem
+B. A small problem
+C. Not a problem"
+132,MED2D_W34,3,"Thinking about medical treatments these days, how much of a problem, if at all, are the following? The cost of treatments makes quality medical care unaffordable
+A. A big problem
+B. A small problem
+C. Not a problem","Thinknig abuot medcial traetments tehse dasy, how much of a probelm, if at all, are the fololwing? The cost of treatmnets mkaes qaulity meidcal care unaffordalbe
+A. A big problem
+B. A small problem
+C. Not a problem"
+133,MED2E_W34,3,"Thinking about medical treatments these days, how much of a problem, if at all, are the following? New treatments are so complex that patients cannot make informed decisions
+A. A big problem
+B. A small problem
+C. Not a problem","Thikning abuot meidcal treamtents tehse dasy, how much of a problme, if at all, are the follownig? New traetments are so copmlex that patietns canont make inforemd decsiions
+A. A big problem
+B. A small problem
+C. Not a problem"
+134,MED2F_W34,3,"Thinking about medical treatments these days, how much of a problem, if at all, are the following? Side effects from prescription medicines create as many problems as the medicines solve
+A. A big problem
+B. A small problem
+C. Not a problem","Thinikng abuot meidcal teratments tehse dasy, how much of a problme, if at all, are the fololwing? Side effcets from prescritpion mdeicines cerate as many prbolems as the mediicnes slove
+A. A big problem
+B. A small problem
+C. Not a problem"
+135,MED2G_W34,3,"Thinking about medical treatments these days, how much of a problem, if at all, are the following? The process for evaluating the safety and effectiveness of new medical treatments is too slow
+A. A big problem
+B. A small problem
+C. Not a problem","Thniking aobut meidcal treatemnts thsee dasy, how much of a problme, if at all, are the follwoing? The procses for evlauating the sfaety and effectiveenss of new medcial tretaments is too slow
+A. A big problem
+B. A small problem
+C. Not a problem"
+136,MED3_W34,3,"How much, if anything, have you heard or read about gene editing that can be used to change a baby's genetic characteristics?
+A. A lot
+B. A little
+C. Nothing at all","How mcuh, if anyhting, have you herad or read abuot gene eidting that can be used to chagne a bab'ys geneitc charatceristics?
+A. A lot
+B. A little
+C. Nothing at all"
+137,WORK3A_W27,3,"What impact have the following technologies had on you and your job or career? Industrial robots
+A. Positive impact
+B. Negative impact
+C. No impact either way","What imapct have the flolowing technologeis had on you and your job or caerer? Industiral roobts
+A. Positive impact
+B. Negative impact
+C. No impact either way"
+138,WORK3B_W27,3,"What impact have the following technologies had on you and your job or career? Word processing or spreadsheet software
+A. Positive impact
+B. Negative impact
+C. No impact either way","What imapct have the flolowing tecnhologies had on you and your job or craeer? Word porcessing or spraedsheet softawre
+A. Positive impact
+B. Negative impact
+C. No impact either way"
+139,WORK3C_W27,3,"What impact have the following technologies had on you and your job or career? Email or social media
+A. Positive impact
+B. Negative impact
+C. No impact either way","What impcat have the follwoing technoolgies had on you and your job or caerer? Eamil or soical mdeia
+A. Positive impact
+B. Negative impact
+C. No impact either way"
+140,WORK3D_W27,3,"What impact have the following technologies had on you and your job or career? Software that manages your daily work schedule or routine
+A. Positive impact
+B. Negative impact
+C. No impact either way","What imapct have the flolowing technolgoies had on you and your job or career? Sotfware that maanges your daliy work schedlue or routnie
+A. Positive impact
+B. Negative impact
+C. No impact either way"
+141,WORK3E_W27,3,"What impact have the following technologies had on you and your job or career? Smartphones
+A. Positive impact
+B. Negative impact
+C. No impact either way","What imapct have the folloiwng technloogies had on you and your job or caerer? Smratphones
+A. Positive impact
+B. Negative impact
+C. No impact either way"
+142,WORK3F_W27,3,"What impact have the following technologies had on you and your job or career? Technologies that help customers serve themselves on their own
+A. Positive impact
+B. Negative impact
+C. No impact either way","What ipmact have the following technloogies had on you and your job or carere? Technoolgies that help customres sevre themselevs on tehir own
+A. Positive impact
+B. Negative impact
+C. No impact either way"
+143,WORK4A_W27,3,"Thinking about how demanding your work is, has technology generally made your work
+A. More demanding
+B. Less demanding
+C. No impact either way","Thniking abuot how demanidng your work is, has tcehnology geenrally made your work
+A. More demanding
+B. Less demanding
+C. No impact either way"
+144,WORK4B_W27,3,"Thinking about how interesting your work is, has technology generally made your work
+A. More interesting
+B. Less interesting
+C. No impact either way","Thniking aobut how interseting your work is, has tcehnology genreally made your work
+A. More interesting
+B. Less interesting
+C. No impact either way"
+145,WORK4C_W27,3,"Thinking about opportunities for advancement in your career, do you feel that technology has
+A. Increased your opportunities
+B. Decreased your opportunities
+C. No impact either way","Tihnking aobut opportnuities for advnacement in your craeer, do you feel that technoolgy has
+A. Increased your opportunities
+B. Decreased your opportunities
+C. No impact either way"
+146,HIRING6A_W27,3,"Do you think computer programs for hiring would do a better job, a worse job, or do about the same as humans when it comes to hiring candidates who are well-qualified
+A. Better job than humans
+B. Worse job than humans
+C. About the same","Do you thnik comupter prgorams for hirnig wuold do a bteter job, a wosre job, or do abuot the same as huamns when it cmoes to hriing candidaets who are wel-lqualified
+A. Better job than humans
+B. Worse job than humans
+C. About the same"
+147,HIRING6B_W27,3,"Do you think computer programs for hiring would do a better job, a worse job, or do about the same as humans when it comes to hiring candidates who fit well with the company's culture
+A. Better job than humans
+B. Worse job than humans
+C. About the same","Do you thnik comupter progarms for hirnig wolud do a betetr job, a wosre job, or do abuot the same as humnas when it coems to hiirng canddiates who fit well with the cmopany's cluture
+A. Better job than humans
+B. Worse job than humans
+C. About the same"
+148,HIRING6C_W27,3,"Do you think computer programs for hiring would do a better job, a worse job, or do about the same as humans when it comes to choosing candidates from a diverse range of backgrounds
+A. Better job than humans
+B. Worse job than humans
+C. About the same","Do you thnik comupter progarms for hiirng wuold do a betetr job, a wrose job, or do abuot the same as huamns when it cmoes to choosnig canddiates from a dvierse ragne of backgorunds
+A. Better job than humans
+B. Worse job than humans
+C. About the same"
+149,HIRING6D_W27,3,"Do you think computer programs for hiring would do a better job, a worse job, or do about the same as humans when it comes to providing opportunities for candidates with non-traditional experiences
+A. Better job than humans
+B. Worse job than humans
+C. About the same","Do you thnik comupter porgrams for hiirng wolud do a bteter job, a wosre job, or do abuot the same as humnas when it cmoes to proviidng opprotunities for cnadidates with non-rtaditional experiecnes
+A. Better job than humans
+B. Worse job than humans
+C. About the same"
+150,HIRING7A_W27,3,"Would you feel better or worse about computer programs making hiring decisions if these computer programs included public data about each candidate - such as the material they post on social media - in making their evaluations
+A. Better
+B. Worse
+C. No difference","Wolud you feel better or wrose abuot compuetr progrmas mkaing hiirng decisoins if tehse compuetr prgorams incluedd pulbic data aobut each candidtae - such as the mtaerial they post on soical mdeia - in maknig tehir eavluations
+A. Better
+B. Worse
+C. No difference"
+151,HIRING7B_W27,3,"Would you feel better or worse about computer programs making hiring decisions if companies used these computer programs to conduct initial screenings of potential candidates, but then interviewed those candidates in the traditional way
+A. Better
+B. Worse
+C. No difference","Wolud you feel bteter or wosre abuot comupter porgrams maknig hiirng dceisions if compaines used thsee compuetr progarms to condcut initail screennigs of poetntial canddiates, but then interveiwed thsoe cadnidates in the tarditional way
+A. Better
+B. Worse
+C. No difference"
+152,DRONE4A_W27,3,"Do you think that private citizens should or should not be allowed to pilot drones in the following areas? Near people's homes
+A. Should be allowed
+B. Should not be allowed
+C. It depends","Do you tihnk that privtae ciitzens sohuld or shuold not be allowed to piolt droens in the folloiwng aresa? Near pepole's hoems
+A. Should be allowed
+B. Should not be allowed
+C. It depends"
+153,DRONE4B_W27,3,"Do you think that private citizens should or should not be allowed to pilot drones in the following areas? Near crime scenes or traffic accidents
+A. Should be allowed
+B. Should not be allowed
+C. It depends","Do you tihnk that pirvate ciitzens sohuld or sohuld not be alolwed to pliot dornes in the following araes? Near crmie secnes or traffic accidents
+A. Should be allowed
+B. Should not be allowed
+C. It depends"
+154,DRONE4C_W27,3,"Do you think that private citizens should or should not be allowed to pilot drones in the following areas? On beaches
+A. Should be allowed
+B. Should not be allowed
+C. It depends","Do you tihnk that prviate ciitzens shuold or sohuld not be alolwed to piolt drnoes in the follownig araes? On baeches
+A. Should be allowed
+B. Should not be allowed
+C. It depends"
+155,DRONE4D_W27,3,"Do you think that private citizens should or should not be allowed to pilot drones in the following areas? In public parks
+A. Should be allowed
+B. Should not be allowed
+C. It depends","Do you tihnk that priavte ctiizens shuold or sholud not be alolwed to piolt drnoes in the folloiwng aeras? In pulbic praks
+A. Should be allowed
+B. Should not be allowed
+C. It depends"
+156,DRONE4E_W27,3,"Do you think that private citizens should or should not be allowed to pilot drones in the following areas? At events, like concerts or rallies
+A. Should be allowed
+B. Should not be allowed
+C. It depends","Do you thnik that priavte ciitzens shuold or sohuld not be allowed to piolt dornes in the flolowing araes? At eevnts, like concetrs or ralleis
+A. Should be allowed
+B. Should not be allowed
+C. It depends"
+157,WORLDDANGER_W26,3,"Compared to 50 years ago, do you think
+A. We live in a safer world
+B. We live in a more dangerous world
+C. The world we live in is neither safer nor more dangerous","Comapred to 50 yeras ago, do you thnik
+A. We live in a safer world
+B. We live in a more dangerous world
+C. The world we live in is neither safer nor more dangerous"
+158,WORRYA_W26,3,"How much, if at all, do you worry about the following happening to you? Having your home broken into
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all","How muhc, if at all, do you wrory aobut the folloiwng happeinng to you? Haivng your home borken into
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all"
+159,WORRYB_W26,3,"How much, if at all, do you worry about the following happening to you? Being the victim of a terrorist attack
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all","How mcuh, if at all, do you worry abuot the fololwing happneing to you? Bieng the vicitm of a terrroist attack
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all"
+160,WORRYC_W26,3,"How much, if at all, do you worry about the following happening to you? Losing your job
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all","How muhc, if at all, do you wrory abuot the flolowing hpapening to you? Loisng your job
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all"
+161,WORRYD_W26,3,"How much, if at all, do you worry about the following happening to you? Not being able to pay your bills
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all","How mcuh, if at all, do you wrory aobut the follwoing happennig to you? Not bieng able to pay your bills
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all"
+162,WORRYE_W26,3,"How much, if at all, do you worry about the following happening to you? Being the victim of a violent crime
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all","How mcuh, if at all, do you wrory aobut the follownig hapepning to you? Benig the vitcim of a viloent crmie
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all"
+163,WORRYF_W26,3,"How much, if at all, do you worry about the following happening to you? Being the victim of a mass shooting
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all","How muhc, if at all, do you worry aobut the follwoing happening to you? Benig the vitcim of a mass shooitng
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all"
+164,WORRYG_W26,3,"How much, if at all, do you worry about the following happening to you? Having a personal health crisis
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all","How muhc, if at all, do you worry abuot the follwoing happening to you? Hvaing a perosnal haelth criiss
+A. Worry a lot
+B. Worry a little
+C. Do not worry at all"
+165,GUNSAFE2_W26,3,"Would having a gun in your household make you feel
+A. Safer than you feel without a gun in your household
+B. Less safe than you feel without a gun in your household
+C. No more or less safe","Wolud havnig a gun in your housheold make you feel
+A. Safer than you feel without a gun in your household
+B. Less safe than you feel without a gun in your household
+C. No more or less safe"
+166,SUCCESSIMPA_W32,3,"How important, if at all, do you think a college education is in helping a young person succeed in the world today?
+A. Essential
+B. Important but not essential
+C. Not important","How imoprtant, if at all, do you thnik a colelge edcuation is in helipng a yonug preson suceced in the wrold tdoay?
+A. Essential
+B. Important but not essential
+C. Not important"
+167,SUCCESSIMPB_W32,3,"How important, if at all, do you think knowing how to get along with people is in helping a young person succeed in the world today?
+A. Essential
+B. Important but not essential
+C. Not important","How improtant, if at all, do you thnik knoiwng how to get aolng with poeple is in helpnig a yonug pesron suceced in the wolrd todya?
+A. Essential
+B. Important but not essential
+C. Not important"
+168,SUCCESSIMPC_W32,3,"How important, if at all, do you think a good work ethic is in helping a young person succeed in the world today?
+A. Essential
+B. Important but not essential
+C. Not important","How imporatnt, if at all, do you tihnk a good work ehtic is in hepling a yonug perosn succeed in the wrold toady?
+A. Essential
+B. Important but not essential
+C. Not important"
+169,SUCCESSIMPD_W32,3,"How important, if at all, do you think work skills learned on the job is in helping a young person succeed in the world today?
+A. Essential
+B. Important but not essential
+C. Not important","How importnat, if at all, do you thnik work sklils leraned on the job is in helipng a yonug pesron succeed in the wrold tdoay?
+A. Essential
+B. Important but not essential
+C. Not important"
+170,FEDSHAREA_W32,3,"Thinking about how the federal government spends money, do you think urban areas get
+A. More than their fair share
+B. Less than their fair share
+C. About the right amount","Thikning abuot how the fedearl governemnt sepnds mnoey, do you thnik urabn aeras get
+A. More than their fair share
+B. Less than their fair share
+C. About the right amount"
+171,FEDSHAREB_W32,3,"Thinking about how the federal government spends money, do you think suburban areas get
+A. More than their fair share
+B. Less than their fair share
+C. About the right amount","Thinknig aobut how the fedreal governmnet sepnds monye, do you tihnk suubrban aeras get
+A. More than their fair share
+B. Less than their fair share
+C. About the right amount"
+172,FEDSHAREC_W32,3,"Thinking about how the federal government spends money, do you think rural areas get
+A. More than their fair share
+B. Less than their fair share
+C. About the right amount","Tihnking abuot how the fedreal governmnet sepnds monye, do you thnik ruarl aeras get
+A. More than their fair share
+B. Less than their fair share
+C. About the right amount"
+173,LOCALPROBA_W32,3,"How much, if at all, is availability of jobs a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How mcuh, if at all, is availabiilty of jobs a probelm in your loacl community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+174,LOCALPROBB_W32,3,"How much, if at all, is drug addiction a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How mcuh, if at all, is drug addiciton a prbolem in your lcoal community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+175,LOCALPROBC_W32,3,"How much, if at all, is access to grocery stores a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How mcuh, if at all, is accses to grocrey stoers a prbolem in your loacl community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+176,LOCALPROBD_W32,3,"How much, if at all, is access to good doctors and hospitals a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How muhc, if at all, is accses to good dcotors and hosptials a porblem in your loacl cmomunity?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+177,LOCALPROBE_W32,3,"How much, if at all, is access to high-speed internet a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How mcuh, if at all, is accses to high-speed itnernet a prolbem in your loacl comumnity?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+178,LOCALPROBF_W32,3,"How much, if at all, is access to public transportation a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How muhc, if at all, is acecss to pbulic transporttaion a prolbem in your lcoal communtiy?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+179,LOCALPROBG_W32,3,"How much, if at all, is racism a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How mcuh, if at all, is racsim a prbolem in your loacl community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+180,LOCALPROBH_W32,3,"How much, if at all, is availability of affordable housing a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How mcuh, if at all, is availabiilty of afofrdable houisng a prbolem in your loacl commuinty?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+181,LOCALPROBI_W32,3,"How much, if at all, is poverty a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How mcuh, if at all, is povetry a porblem in your loacl communiyt?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+182,LOCALPROBJ_W32,3,"How much, if at all, is crime a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How muhc, if at all, is crmie a porblem in your loacl cmomunity?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+183,LOCALPROBK_W32,3,"How much, if at all, is the quality of K-12 education in the public schools a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How muhc, if at all, is the qaulity of K-12 educatoin in the pbulic scholos a probelm in your loacl community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+184,LOCALPROBL_F1_W32,3,"How much, if at all, is the condition of roads, bridges and other infrastructure a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How muhc, if at all, is the cnodition of raods, brdiges and ohter infrastrutcure a prbolem in your loacl commuinty?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+185,LOCALPROBM_F2_W32,3,"How much, if at all, is traffic a problem in your local community?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community","How muhc, if at all, is trfafic a prbolem in your lcoal comumnity?
+A. Major problem in my local community
+B. Minor problem in my local community
+C. Not a problem in my local community"
+186,JOBSFUTURE_W32,3,"Looking ahead 10 years, do you expect the availability of jobs where you live to
+A. Get better
+B. Get worse
+C. Stay about the same","Looknig aehad 10 yaers, do you exepct the availabiilty of jobs whree you live to
+A. Get better
+B. Get worse
+C. Stay about the same"
+187,HARASS1A_W32,3,"When it comes to sexual harassment in the workplace today, how much of a problem, if at all, would you say women claiming they have experienced sexual harassment or assault when it hasn't actually occurred is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it cmoes to sexaul haarssment in the workplcae toady, how much of a prolbem, if at all, wolud you say wmoen claiimng they have exeprienced sxeual harasmsent or assualt when it hans't atcually occrured is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+188,HARASS1B_W32,3,"When it comes to sexual harassment in the workplace today, how much of a problem, if at all, would you say employers firing men who have been accused of sexual harassment or assault before finding out all the facts are?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it coems to sxeual hraassment in the wokrplace todya, how much of a prbolem, if at all, wuold you say empolyers firnig men who have been accuesd of sexaul harasmsent or assualt beofre finidng out all the fcats are?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+189,HARASS1C_W32,3,"When it comes to sexual harassment in the workplace today, how much of a problem, if at all, would you say men getting away with committing sexual harassment or assault is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it coems to sexaul harassemnt in the wrokplace todya, how much of a porblem, if at all, wuold you say men gteting away with committing sxeual harassmnet or assalut is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+190,HARASS1D_W32,3,"When it comes to sexual harassment in the workplace today, how much of a problem, if at all, would you say women not being believed when they claim that they have experienced sexual harassment or assault is?
+A. Major problem
+B. Minor problem
+C. Not a problem","When it coems to sxeual harassment in the wrokplace tdoay, how much of a problme, if at all, wolud you say wmoen not bieng bleieved when they cliam that they have expeirenced sexaul hraassment or asasult is?
+A. Major problem
+B. Minor problem
+C. Not a problem"
+191,HARASS2F1_W32,3,"In the long run, do you think the increased focus on sexual harassment and assault will lead to
+A. More opportunities for women in the workplace
+B. Fewer opportunities for women in the workplace
+C. Won't make much of a difference","In the long run, do you thnik the increaesd foucs on sexaul haarssment and assalut will lead to
+A. More opportunities for women in the workplace
+B. Fewer opportunities for women in the workplace
+C. Won't make much of a difference"
+192,MOVEURBAN_W32,3,"If you could move to a different community, would you want to
+A. Stay in an urban area
+B. Move to a suburban area
+C. Move to a rural area","If you cuold move to a diffeernt communtiy, wolud you want to
+A. Stay in an urban area
+B. Move to a suburban area
+C. Move to a rural area"
+193,MOVESUBURB_W32,3,"If you could move to a different community, would you want to
+A. Stay in a suburban area
+B. Move to an urban area
+C. Move to a rural area","If you cuold move to a diffreent community, wuold you want to
+A. Stay in a suburban area
+B. Move to an urban area
+C. Move to a rural area"
+194,MOVERURAL_W32,3,"If you could move to a different community, would you want to
+A. Stay in a rural area
+B. Move to an urban area
+C. Move to a suburban area","If you colud move to a diffeernt cmomunity, wolud you want to
+A. Stay in a rural area
+B. Move to an urban area
+C. Move to a suburban area"
+195,ETHNCMAJ_W32,3,"According to the U.S. Census Bureau, in the next 25 to 30 years, African Americans, Latinos, and people of Asian descent will make up a majority of the population. In general, do you think that this is
+A. Good for the country
+B. Bad for the country
+C. Neither good nor bad for the country","According to the U.S. Cesnus Brueau, in the next 25 to 30 yeasr, Afircan Ameircans, Lations, and poeple of Aisan descnet will make up a majoirty of the popluation. In genreal, do you thnik that this is
+A. Good for the country
+B. Bad for the country
+C. Neither good nor bad for the country"
+196,FEM1F2_W29,3,"Thinking about how society sees women these days, in general, would you say
+A. Most people look up to women who are womanly or feminine
+B. Most people look down on women who are womanly or feminine
+C. Neither","Thinikng abuot how soicety sees wmoen thsee dyas, in genearl, wolud you say
+A. Most people look up to women who are womanly or feminine
+B. Most people look down on women who are womanly or feminine
+C. Neither"
+197,TRANSGEND3_W29,3,"Which of the following statements comes closer to your feelings?
+A. Our society has gone too far in accepting people who are transgender
+B. Our society has not gone far enough in accepting people who are transgender
+C. Our society has been about right when it comes to accepting people who are transgender","Wihch of the follownig statmeents cmoes cloesr to your feleings?
+A. Our society has gone too far in accepting people who are transgender
+B. Our society has not gone far enough in accepting people who are transgender
+C. Our society has been about right when it comes to accepting people who are transgender"
+198,SECUR1_W49,3,"On a different topic, compared with five years ago, do you feel your personal information is
+A. More secure
+B. Less secure
+C. About the same","On a difefrent toipc, compraed with five yeras ago, do you feel your presonal inforamtion is
+A. More secure
+B. Less secure
+C. About the same"
+199,CONCERNGRPa_W49,3,"How concerned are you, if at all, about how much personal information law enforcement agencies might know about you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned","How cocnerned are you, if at all, abuot how much persnoal informaiton law enforcmeent agnecies mihgt know aobut you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned"
+200,CONCERNGRPb_W49,3,"How concerned are you, if at all, about how much personal information advertisers might know about you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned","How cnocerned are you, if at all, aobut how much pesronal informtaion advertisres mihgt know aobut you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned"
+201,CONCERNGRPc_W49,3,"How concerned are you, if at all, about how much personal information your employer might know about you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned","How conecrned are you, if at all, abuot how much persoanl informatoin your emplyoer mgiht know aobut you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned"
+202,CONCERNGRPd_W49,3,"How concerned are you, if at all, about how much personal information the companies you buy things from might know about you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned","How concerend are you, if at all, abuot how much persnoal infomration the comapnies you buy thnigs from mihgt know abuot you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned"
+203,CONCERNGRPe_W49,3,"How concerned are you, if at all, about how much personal information your friends and family might know about you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned","How concerend are you, if at all, aobut how much presonal informtaion your freinds and fmaily mihgt know abuot you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned"
+204,CONCERNGRPf_W49,3,"How concerned are you, if at all, about how much personal information the social media sites you use might know about you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned","How conecrned are you, if at all, aobut how much pesronal infromation the soical mdeia siets you use mihgt know abuot you?
+A. Concerned a lot
+B. Concerned a little
+C. Not concerned"
+205,CONTROLGRPa_W49,3,"How much control, if any, do you think you have over who can access your posts and activities on social media?
+A. A lot of control
+B. A little control
+C. No control","How much contrlo, if any, do you thnik you have over who can acecss your psots and acitvities on scoial medai?
+A. A lot of control
+B. A little control
+C. No control"
+206,CONTROLGRPb_W49,4,"How much control, if any, do you think you have over who can access the search terms you use online?
+A. A lot of control
+B. A little control
+C. No control
+D. Offline: does not have internet","How much cnotrol, if any, do you tihnk you have over who can accses the seacrh temrs you use onilne?
+A. A lot of control
+B. A little control
+C. No control
+D. Offline: does not have internet"
+207,CONTROLGRPc_W49,3,"How much control, if any, do you think you have over who can access the purchases you've made, either online or in person?
+A. A lot of control
+B. A little control
+C. No control","How much contrlo, if any, do you tihnk you have over who can accses the purchsaes yuo've mdae, etiher olnine or in pesron?
+A. A lot of control
+B. A little control
+C. No control"
+208,CONTROLGRPd_W49,3,"How much control, if any, do you think you have over who can access your physical location?
+A. A lot of control
+B. A little control
+C. No control","How much cnotrol, if any, do you thnik you have over who can acecss your phsyical loctaion?
+A. A lot of control
+B. A little control
+C. No control"
+209,CONTROLGRPe_W49,4,"How much control, if any, do you think you have over who can access the websites you visit?
+A. A lot of control
+B. A little control
+C. No control
+D. Offline: does not have internet","How much contorl, if any, do you thnik you have over who can access the websties you visti?
+A. A lot of control
+B. A little control
+C. No control
+D. Offline: does not have internet"
+210,CONTROLGRPf_W49,3,"How much control, if any, do you think you have over who can access the private conversations you've had online or using text messaging?
+A. A lot of control
+B. A little control
+C. No control","How much cotnrol, if any, do you thnik you have over who can access the priavte conevrsations youv'e had onilne or usnig text mesasging?
+A. A lot of control
+B. A little control
+C. No control"
+211,DATAUSEa_W49,3,"Do you think the following uses of data/information are acceptable or unacceptable? The government collecting data about all Americans to assess who might be a potential terrorist threat
+A. Acceptable
+B. Unacceptable
+C. Not sure","Do you tihnk the follwoing uses of data/infomration are accepatble or unacceptbale? The govenrment collecting data abuot all Americnas to assses who mgiht be a potnetial trerorist thraet
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+212,DATAUSEb_W49,3,"Do you think the following uses of data/information are acceptable or unacceptable? Poorly performing schools sharing data about their students with a nonprofit group seeking to help improve educational outcomes
+A. Acceptable
+B. Unacceptable
+C. Not sure","Do you thnik the fololwing uses of data/inforamtion are acecptable or unacceptalbe? Poolry perfroming shcools sharnig data aobut tehir stduents with a nonproift gorup sekeing to help imrpove eduactional outocmes
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+213,DATAUSEc_W49,3,"Do you think the following uses of data/information are acceptable or unacceptable? DNA testing companies sharing their customers' genetic data with law enforcement agencies in order to help solve crimes
+A. Acceptable
+B. Unacceptable
+C. Not sure","Do you thnik the follwoing uses of data/ifnormation are acceptalbe or uancceptable? DNA testnig companeis shraing thier customres' geentic data with law enforcemnet agenceis in odrer to help sovle cirmes
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+214,DATAUSEd_W49,3,"Do you think the following uses of data/information are acceptable or unacceptable? Makers of a fitness tracking app sharing their users' data with medical researchers seeking to better understand the link between exercise and heart disease
+A. Acceptable
+B. Unacceptable
+C. Not sure","Do you tihnk the folloiwng uses of data/infomration are acceptbale or unacecptable? Makres of a fitenss tarcking app sharnig tehir usres' data with medcial rseearchers seeikng to bteter undrestand the link betewen execrise and haert disaese
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+215,DATAUSEe_W49,3,"Do you think the following uses of data/information are acceptable or unacceptable? A social media company monitoring its users' posts for signs of depression, so they can identify people who are at risk of self-harm and connect them to counsel
+A. Acceptable
+B. Unacceptable
+C. Not sure","Do you tihnk the following uses of data/informaiton are acceptbale or unacceptabel? A socail meida comapny montioring its usesr' psots for sings of dperession, so they can idnetify peolpe who are at risk of selfh-arm and cnonect them to cousnel
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+216,DATAUSEf_W49,3,"Do you think the following uses of data/information are acceptable or unacceptable? Makers of smart speakers sharing audio recordings of their customers with law enforcement to help with criminal investigations
+A. Acceptable
+B. Unacceptable
+C. Not sure","Do you thnik the follownig uses of data/infromation are accpetable or unacceptbale? Maekrs of samrt speaekrs sharnig auido reocrdings of tehir customres with law enforcemnet to help with crimianl invesitgations
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+217,FACE4a_W49,3,"In your opinion, is it acceptable or unacceptable to use facial recognition technology in the following situations? Law enforcement agencies assessing potential security threats in public spaces
+A. Acceptable
+B. Unacceptable
+C. Not sure","In your opniion, is it acecptable or unacceptable to use facail recogniiton technloogy in the flolowing sitautions? Law enforcmeent aegncies asssesing potnetial sceurity therats in pubilc sapces
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+218,FACE4b_W49,3,"In your opinion, is it acceptable or unacceptable to use facial recognition technology in the following situations? Companies automatically tracking the attendance of their employees
+A. Acceptable
+B. Unacceptable
+C. Not sure","In your opniion, is it accpetable or unacceptbale to use faical recgonition technoolgy in the folloiwng situatoins? Cmopanies automtaically tracknig the attendnace of tehir emplyoees
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+219,FACE4c_W49,3,"In your opinion, is it acceptable or unacceptable to use facial recognition technology in the following situations? Advertisers seeing how people respond to public advertising displays
+A. Acceptable
+B. Unacceptable
+C. Not sure","In your opniion, is it accpetable or uncaceptable to use fcaial recgonition techonlogy in the fololwing situaitons? Avdertisers seieng how pepole respnod to pulbic advretising dispalys
+A. Acceptable
+B. Unacceptable
+C. Not sure"
+220,FACE4d_W49,3,"In your opinion, is it acceptable or unacceptable to use facial recognition technology in the following situations? Apartment building landlords tracking who enters or leaves their buildings
+A. Acceptable
+B. Unacceptable
+C. Not sure","In your opiinon, is it acceptbale or unaccpetable to use faical recogniiton technoolgy in the follownig stiuations? Apartmnet buildnig ladnlords trcaking who entres or leaevs tehir bulidings
+A. Acceptable
+B. Unacceptable
+C. Not sure"

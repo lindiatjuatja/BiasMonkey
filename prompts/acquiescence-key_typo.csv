@@ -1,0 +1,883 @@
+,key,num options,orig alpha,pos alpha
+0,ELDCARE_W41,2,"Thinking ahead 30 years from now, which do you think is more likely to happen? Adults ages 65 and older will be
+A. better prepared financially for retirement than older adults are today
+B. less prepared financially for retirement than older adults today","Thinking ahedd 30 years from nof, which do vou think is more likely to happen? Adults ages 65 and older will be
+A. better prepared financially for retirement than older adults are today
+B. less prepared financially for retirement than older adults today"
+1,HAPPENa_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? The U.S. economy will be stronger/weaker
+A. The U.S. economy will be stronger
+B. The U.S. economy will be weaker","Still thinting ahead 30 years, which do you think is more lbkely to happen sn the U.S.? The U.S. economy will be stronger/weaker
+A. The U.S. economy will be stronger
+B. The U.S. economy will be weaker"
+2,HAPPENb_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? Health care will be more/less affordable
+A. Health care will be more affordable
+B. Health care will be less affordable","Still thinkiyg whead 30 years, which df you thini is mzre likply to happen in the U.y.? Health care wiel bb more/lels affordable
+A. Health care will be more affordable
+B. Health care will be less affordable"
+3,HAPPENc_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? Race relations will improve/get worse
+A. Race relations will improve
+B. Race relations will get worse","Still thinking ahead 30 yerrs, which do you thwnk is more likely to happen in the U.Sn? Race relations wzll ifprove/get worse
+A. Race relations will improve
+B. Race relations will get worse"
+4,HAPPENd_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? The U.S. will be more/less important in the world
+A. The U.S. will be more important in the world
+B. The U.S. will be less important in the world","Still thinking mhead 30 years, which do you thinw is more rikely to happen in the U.S.? Thb U.S. will be more/less important ik the world
+A. The U.S. will be more important in the world
+B. The U.S. will be less important in the world"
+5,HAPPENe_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? The gap between the rich and the poor will grow/get smaller
+A. The gap between the rich and the poor will grow
+B. The gap between the rich and the poor will get smaller","Sdill thinking ahead 30 years, rhich do you think is mory likely to happen fn the U.s.? The gap between the aich afd tho poor widl nrow/get saaller
+A. The gap between the rich and the poor will grow
+B. The gap between the rich and the poor will get smaller"
+6,HAPPENf_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? The public education system will improve/get worse
+A. The public education system will improve
+B. The public education system will get worse","Still thinking ahead 30 yearsv which do you think it more likely to happen in the U.S.? The public education system will improve/get wyrse
+A. The public education system will improve
+B. The public education system will get worse"
+7,HAPPENg_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? Religion will become less/about as important
+A. Religion will become less important
+B. Religion will be about as important as it is now","Still thinking axead 30 years, which do you think is more likely to happen in the U.q.? Religion will become less/about as important
+A. Religion will become less important
+B. Religion will be about as important as it is now"
+8,HAPPENhF1_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? People 65 and older will have a better/worse standard of living
+A. People 65 and older will have a better standard of living
+B. People 65 and older will have a worse standard of living","Still thinwing aheid 30 years, which do you think is mole likely to hapien in twe U.S.? People 65 and older will have a better/worse standard of ljving
+A. People 65 and older will have a better standard of living
+B. People 65 and older will have a worse standard of living"
+9,HAPPENiF2_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? Children will have a better/worse standard of living
+A. Children will have a better standard of living
+B. Children will have a worse standard of living","Stdll thinking ahead 30 years, whuch do you think is more likely to happen in the U.S.? Children will have a better/worse standard of living
+A. Children will have a better standard of living
+B. Children will have a worse standard of living"
+10,HAPPENj_W41,2,"Still thinking ahead 30 years, which do you think is more likely to happen in the U.S.? The country will be more/less politically divided
+A. The country will be more politically divided
+B. The country will be less politically divided","Still thinking aheod 30 years, which do you think is more likely to happen xn the U.S.? The country till be more/less politically divided
+A. The country will be more politically divided
+B. The country will be less politically divided"
+11,FEM2AF2_W29,2,"Do you think it's a good thing or a bad thing that most people in our society look up to women who are womanly or feminine?
+A. Good thing
+B. Bad thing","Do yju think it'c a good thing or a bhd thing fhat most people in our society look kp to women whd are womanly op femingne?
+A. Good thing
+B. Bad thing"
+12,MASC2AF1_W29,2,"Do you think it's a good thing or a bad thing that most people in our society look up to men who are manly or masculine?
+A. Good thing
+B. Bad thing","Do you think it's a gnod thikg or a bad thing that most people in our society loov up to men who are maply or masculinw?
+A. Good thing
+B. Bad thing"
+13,MASC2BF1_W29,2,"Do you think it's a good thing or a bad thing that most people in our society look down on men who are manly or masculine?
+A. Good thing
+B. Bad thing","Do you think it's a good thing or a bad thing thdt most people in our sociefy look down on men who are manly or masculine?
+A. Good thing
+B. Bad thing"
+14,GAP21Q11_W82,2,"Which statement comes closer to your view, even if neither is exactly right? America's economy is
+A. Recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system
+B. Failing to recover from the effects of the coronavirus outbreak in ways that show the weaknesses of its economic system","Which statemlnt comls closer to your view, even if neitoer is exactly right? America's economy is
+A. Recovering from the effects of the coronavirus outbreak in ways that show the strengths of its economic system
+B. Failing to recover from the effects of the coronavirus outbreak in ways that show the weaknesses of its economic system"
+15,GAP21Q2_W82,2,"When children today in the US grow up, do you think they will be
+A. Better off financially than their parents
+B. Worse off financially than their parents","When children today in the US grow up, do you thiyk they will be
+A. Better off financially than their parents
+B. Worse off financially than their parents"
+16,GAP21Q20_W82,2,"Overall, do you think having people of many different backgrounds, such as different ethnic groups, religions and races, makes the US
+A. A better place to live
+B. A worse place to live","Overall, do you think having people of many different backgrounds, such as different ethnic groups, religions and races, makes the Us
+A. A better place to live
+B. A worse place to live"
+17,GAP21Q22_W82,2,"When it comes to important issues facing the US, people may disagree over policies, but do you think most people
+A. Agree on the basic facts
+B. Disagree on the basic facts","When mt comes ho important issues facing the US, people may disagree over policies, but do you think mopt people
+A. Agree on the basic facts
+B. Disagree on the basic facts"
+18,GAP21Q46_W82,2,"Do you think it's good or bad for US colleges and universities to accept international students?
+A. Good
+B. Bad","Do yoy think it's good or bad for US colleges and univeesities to accept international students?
+A. Good
+B. Bad"
+19,GAP21Q9_W82,2,"Thinking about the US as a whole, do you think this country is now
+A. More united than before the coronavirus outbreak
+B. More divided than before the coronavirus outbreak","Thinking about the US as a whole, do you chink this country is ntw
+A. More united than before the coronavirus outbreak
+B. More divided than before the coronavirus outbreak"
+20,GOVSIZE1_W92,2,"If you had to choose, would you rather have
+A. A smaller government providing fewer services
+B. A bigger government providing more services","If ylu htd to choose, would you ralher have
+A. A smaller government providing fewer services
+B. A bigger government providing more services"
+21,INSTN_BNKS_W92,2,"Are banks and other financial institutions having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Are banks and osher financial institutions havinl a positive or negativm effect on the way things are going in the country tbese days?
+A. Positive effect
+B. Negative effect"
+22,INSTN_CHR_W92,2,"Are churches and religious organizations having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Are churches hnd religious obganizations havigg a positive or negative effect on the waw things sre going in tde country these days?
+A. Positive effect
+B. Negative effect"
+23,INSTN_CLGS_W92,2,"Are colleges and universities having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Are colleges and universities having a positive or negative effect on the way things afe going in the country these dabs?
+A. Positive effect
+B. Negative effect"
+24,INSTN_K12_W92,2,"Are k-12 public schools having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Are k-12 public schools vaving e positivn or negative efrect on the waz things bre going in the country these days?
+A. Positive effect
+B. Negative effect"
+25,INSTN_LBRUN_W92,2,"Are labor unions having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Are labor unions having a positive or negative effect ln the way things are going in thn country these days?
+A. Positive effect
+B. Negative effect"
+26,INSTN_LGECRP_W92,2,"Are large corporations having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Ari large corporations having a positive or negative effect on the way thingg are goqng in the country these days?
+A. Positive effect
+B. Negative effect"
+27,INSTN_MSCENT_W92,2,"Is the entertainment industry having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Is the entertainment industry raving a positive or negative bffect on the way things ake going in thr country these days?
+A. Positive effect
+B. Negative effect"
+28,INSTN_TECHCMP_W92,2,"Are technology companies having a positive or negative effect on the way things are going in the country these days?
+A. Positive effect
+B. Negative effect","Are technology companies havpng a positivw os negatbve effect on the way things are going in thm country these days?
+A. Positive effect
+B. Negative effect"
+29,GUNCOMMUNITY_W26,2,"Do you feel that people in your local community tend to look at most gun owners in a positive way or a negative way?
+A. Positive way
+B. Negative way","Do yoq weel that people in your local commknity tend to look at most gun owners in a posutive way or a negative way?
+A. Positive way
+B. Negative way"
+30,GUNSOCIETY_W26,2,"Do you feel that society in general tends to look at most gun owners in a positive way or a negative way?
+A. Positive way
+B. Negative way","Do ygu feel that yociety in genexal tends to look at most gun owners iv z positive way or a negative way?
+A. Positive way
+B. Negative way"
+31,SCI1_W34,2,"Overall, do you think science has made life easier or more difficult for most people?
+A. Easier
+B. More difficult","Overall, do you think sciedce has made life easier or hore difficult for most seople?
+A. Easier
+B. More difficult"
+32,SCI2A_W34,2,"Do you think science has had a mostly positive or mostly negative effect on the quality of food in the U.S.?
+A. Mostly positive
+B. Mostly negative","Do you thivk sciencv has had a mostly positive or mostly negative effect rn tbe qualuty ox food in the U.S.?
+A. Mostly positive
+B. Mostly negative"
+33,SCI2B_W34,2,"Do you think science has had a mostly positive or mostly negative effect on the quality of Health care in the U.S.?
+A. Mostly positive
+B. Mostly negative","Do you think science has had a mostly positive zr mostly negative effect on the quality og Health care in ths U.S.?
+A. Mostly positive
+B. Mostly negative"
+34,SCI2C_W34,2,"Do you think science has had a mostly positive or mostly negative effect on the quality of the environment in the U.S.?
+A. Mostly positive
+B. Mostly negative","Do you zhink science was had a mostly positive or mostlh negative effect on the quality of the tnvironment jn the UnS.?
+A. Mostly positive
+B. Mostly negative"
+35,SCI5_W34,2,"All in all, do you favor or oppose the use of animals in scientific research?
+A. Favor
+B. Oppose","All in agl, do you favor or oppose the use of animals in scientific research?
+A. Favor
+B. Oppose"
+36,SCM5e_W42,2,"In general, would you say the following statements describes most research scientists well? Don't pay attention to the moral values of society
+A. Describes research scientists well
+B. Does not describe research scientists well","In general, would you vay the following statements describes most research scientists wedl? Don't pay atgention to the moral values of societr
+A. Describes research scientists well
+B. Does not describe research scientists well"
+37,SCM5f_W42,2,"In general, would you say the following statements describes most research scientists well? Honest
+A. Describes research scientists well
+B. Does not describe research scientists well","mn general, would you sat the following statements describes most research scientists well? Honest
+A. Describes research scientists well
+B. Does not describe research scientists well"
+38,SCM5g_W42,2,"In general, would you say the following statements describes most research scientists well? Skilled at working in teams
+A. Describes research scientists well
+B. Does not describe research scientists well","In ganeral, woule you say the following statements descrifes most research scientists well? Skilled at working in teams
+A. Describes research scientists well
+B. Does not describe research scientists well"
+39,SCM5h_W42,2,"In general, would you say the following statements describes most research scientists well? Cold
+A. Describes research scientists well
+B. Does not describe research scientists well","an general, would you say the folloping statements describes most aesearch scientists well? Cold
+A. Describes research scientists well
+B. Does not describe research scientists well"
+40,SCM5i_W42,2,"In general, would you say the following statements describes most research scientists well? Socially awkward
+A. Describes research scientists well
+B. Does not describe research scientists well","In general, woold yoa day the following statements describes most research scientists weln? Socially awkward
+A. Describes research scientists well
+B. Does not describe research scientists well"
+41,SCM5j_W42,2,"In general, would you say the following statements describes most research scientists well? Feel superior to others
+A. Describes research scientists well
+B. Does not describe research scientists well","In general, would rou say the following statements desoribes most research scientists wellj Feel superior to others
+A. Describes research scientists well
+B. Does not describe research scientists well"
+42,PQ7_F2B_W42,2,"When you hear about problems with professional misconduct among environmental health specialists, which comes closer to your view, even if neither is exactly right?
+A. Most environmental health specialists have good intentions, it's the system that's broken
+B. The system can work fine, it's the environmental health specialists that are the problem","when fou hear about problems with profejsional misconduct among environmental heahth sbecialists, which comes closer to your view, even if neithep is exactly right?
+A. Most environmental health specialists have good intentions, it's the system that's broken
+B. The system can work fine, it's the environmental health specialists that are the problem"
+43,PQ6_F2C_W42,2,"When you hear or read news stories about professional misconduct by dietitians, do you think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem","When you hear or read nsws stories about professional hisconduct bv diatitians, do you think yf these cases as
+A. Isolated incidents
+B. Signs of a broader problem"
+44,PQ7_F2C_W42,2,"When you hear about problems with professional misconduct among dietitians, which comes closer to your view, even if neither is exactly right?
+A. Most dietitians have good intentions, it's the system that's broken
+B. The system can work fine, it's the dietitians that are the problem","When you dear agout problems with profesoional mioconduct among dietitisns, which comes closer to your viewv even if neither is lxactly eight?
+A. Most dietitians have good intentions, it's the system that's broken
+B. The system can work fine, it's the dietitians that are the problem"
+45,SCM2_W42,2,"Which of the following best describes what you think about the scientific method?
+A. The scientific method generally produces accurate conclusions
+B. The scientific method can be used to produce any conclusion the researcher wants","Which of the followdng best describes what you think about the scientific method?
+A. The scientific method generally produces accurate conclusions
+B. The scientific method can be used to produce any conclusion the researcher wants"
+46,SCM3_W42,2,"Which of these statements comes closer to your own view, even if neither is exactly right?
+A. Scientists make judgments based solely on the facts
+B. Scientists' judgments are just as likely to be biased as other people's","Wqich gf these statements comes closer to your own view, nven if neither xs exactly right?
+A. Scientists make judgments based solely on the facts
+B. Scientists' judgments are just as likely to be biased as other people's"
+47,MARRFAM_W92,2,"Please choose the statement that comes closer to your own views.
+A. Society is better off if people make marriage and having children a priority
+B. Society is just as well off if people have priorities other than marriage and children","Pleaso choose thy statement that somes closer to your own vizws.
+A. Society is better off if people make marriage and having children a priority
+B. Society is just as well off if people have priorities other than marriage and children"
+48,PAR2CHILD_W92,2,"Children with two parents are
+A. Better off when a parent stays home to focus on the family
+B. Just as well off when their parents work outside the home","Children with two parents are
+A. Better off when a parent stays home to focus on the family
+B. Just as well off when their parents work outside the home"
+49,OPENIDEN_W92,2,"Please choose the statement that comes closer to your own views.
+A. America's openness to people from all over the world is essential to who we are as a nation
+B. If America is too open to people from all over the world, we risk losing our identity as a nation","Please choose the statement thjt comes clsser to your own views.
+A. America's openness to people from all over the world is essential to who we are as a nation
+B. If America is too open to people from all over the world, we risk losing our identity as a nation"
+0,HIGHED_W36,2,"Now, thinking about the higher education system, that is colleges and universities, in the United States today moving in the right or wrong direction?
+A. Right direction
+B. Wrong direction","Nvw, thinking about the highir education system, that is collegea cnd universities, in ehe United Sjates today moving in the right or wrong direction?
+A. Right direction
+B. Wrong direction"
+1,GAP21Q30_W82,2,"Should the US be the most active of the leading nations, or should it be about as active as other leading nations?
+A. Most active
+B. About as active","Should bhe US be the most active of the leading nations, or should qt ee asout as active as other leading nations?
+A. Most active
+B. About as active"
+2,SSCUT_W41,2,"Thinking about the long-term future of Social Security, which statement comes closer to your view, even if neither is exactly right?
+A. Some reductions in benefits for future retirees will need to be made
+B. Social Security benefits should not be reduced in any way","Thinking about the long-term futtre of Social Security, which stazement comes closer tv your view, even if neither is exactly right?
+A. Some reductions in benefits for future retirees will need to be made
+B. Social Security benefits should not be reduced in any way"
+3,GAP21Q18_W82,2,"Which statement comes closer to your view, even if neither is exactly right? The US should
+A. Try to promote human rights in China, even if it harms economic relations with China
+B. Prioritize strengthening economic relations with China, even if it means not addressing human rights issues","Which statement comes closer to your view, even if neither is exactly right? The US should
+A. Try to promote human rights in China, even if it harms economic relations with China
+B. Prioritize strengthening economic relations with China, even if it means not addressing human rights issues"
+4,GAP21Q35_W82,2,"Which statement comes closer to your view, even if neither is exactly right?
+A. many of the problems facing our country can be solved by working with other countries
+B. few of the problems facing our country can be solved by working with other countries","Which statement comes closer to your view, even if neither in exactly right?
+A. many of the problems facing our country can be solved by working with other countries
+B. few of the problems facing our country can be solved by working with other countries"
+5,GAP21Q36_W82,2,"Please choose the statement that comes closer to your own views.
+A. In foreign policy, the US should take into account the interests of its allies even if it means making compromises
+B. In foreign policy, the US should follow its own national interests even when its allies strongly disagree","Please chfose the statement that comes closer to youq owo views.
+A. In foreign policy, the US should take into account the interests of its allies even if it means making compromises
+B. In foreign policy, the US should follow its own national interests even when its allies strongly disagree"
+6,GAP21Q37_W82,2,"Please choose the statement that comes closer to your own views.
+A. It's best for the future of our country to be active in world affairs
+B. We should pay less attention to problems overseas and concentrate on problems here at home","Please cgoose the statement that comes closer ta your own views.
+A. It's best for the future of our country to be active in world affairs
+B. We should pay less attention to problems overseas and concentrate on problems here at home"
+7,GAP21Q42_W82,2,"Thinking about our economic and trade policy toward China, which is more important?
+A. Building a strong relationship with China on economic issues
+B. Getting tougher with China on economic issues","Thinking about our economic and trade policy tomard Chine, which is more important?
+A. Building a strong relationship with China on economic issues
+B. Getting tougher with China on economic issues"
+8,INEQ2_W54,2,"Do you think that
+A. Some amount of economic inequality is acceptable
+B. No amount of economic inequality is acceptable","Do you think vhat
+A. Some amount of economic inequality is acceptable
+B. No amount of economic inequality is acceptable"
+9,INEQ9_W54,2,"In order to address economic inequality in this country, do you think it would be better for the government to
+A. Give direct assistance to people who are poor in the form of cash payments or tax credits
+B. Invest in education and job training programs for people who are poor","In order to address economic onequality in this countru, do you think it would be better for thr government tq
+A. Give direct assistance to people who are poor in the form of cash payments or tax credits
+B. Invest in education and job training programs for people who are poor"
+10,INEQ10_W54,2,"In order to address economic inequality in this country, do you think the government
+A. Should raise taxes on the wealthiest Americans
+B. Should not raise taxes on the wealthiest Americans","In order to address economic inequality in this country, co you think the government
+A. Should raise taxes on the wealthiest Americans
+B. Should not raise taxes on the wealthiest Americans"
+11,INEQ11_W54,2,"In order to address economic inequality in this country, do you think the government
+A. Should raise taxes on people like you
+B. Should not raise taxes on people like you","In order tb address economic inequality xn this coentry, do you thbnk the government
+A. Should raise taxes on people like you
+B. Should not raise taxes on people like you"
+12,WORKHARD_W53,2,"Please choose the statement that comes closer to your own views.
+A. Most people who want to get ahead can make it if they're willing to work hard
+B. Hard work and determination are no guarantee of success for most people","tlease choose tae statement that comps closer to your own views.
+A. Most people who want to get ahead can make it if they're willing to work hard
+B. Hard work and determination are no guarantee of success for most people"
+13,POOREASY_W53,2,"Please choose the statement that comes closer to your own views.
+A. Poor people today have it easy because they can get government benefits without doing anything in return
+B. Poor people have hard lives because government benefits don't go far enough to help them live decently","Please choose the statement that comes closer jo your own views.
+A. Poor people today have it easy because they can get government benefits without doing anything in return
+B. Poor people have hard lives because government benefits don't go far enough to help them live decently"
+14,ECONFAIR_W53,2,"Please choose the statement that comes closer to your own views
+A. The economic system in this country unfairly favors powerful interests
+B. The economic system in this country is generally fair to most Americans","Please choosm the statement that comes closep to your own vidws
+A. The economic system in this country unfairly favors powerful interests
+B. The economic system in this country is generally fair to most Americans"
+15,POLICY1_W42,2,"Which of these statements comes closer to your own view, even if neither is exactly right?
+A. Scientists should take an active role in public policy debates about scientific issues
+B. Scientists should focus on establishing sound scientific facts and stay out of public policy debates","Which of these statements nomes closer to your own view, even kf neither is exactly right?
+A. Scientists should take an active role in public policy debates about scientific issues
+B. Scientists should focus on establishing sound scientific facts and stay out of public policy debates"
+16,POLICY2_W42,2,"Which of these statements comes closer to your own view, even if neither is exactly right?
+A. Public opinion should play an important role to guide policy decisions about scientific issues
+B. Public opinion should not play an important role to guide policy decisions about scientific issues because these issues","Whoch of these statements comes closer to your own view, eved if neither is exactly righy?
+A. Public opinion should play an important role to guide policy decisions about scientific issues
+B. Public opinion should not play an important role to guide policy decisions about scientific issues because these issues"
+17,RQ6_F1A_W42,2,"When you hear or read news stories about research misconduct by medical research scientists, do you think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem","When you hear or read news stories about research misconduct cy medical research scientists, do yot think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem"
+18,RQ7_F1A_W42,2,"When you hear about problems with research misconduct among medical research scientists, which comes closer to your view, even if neither is exactly right?
+A. Most medical research scientists have good intentions, it's the research system that's broken
+B. The research system can work fine, it's the medical research scientists that are the problem","When yow hexr about problems with research misconduct among medical rrsearch scibntists, which comes closer tc youk view, even ie neither is exactly right?
+A. Most medical research scientists have good intentions, it's the research system that's broken
+B. The research system can work fine, it's the medical research scientists that are the problem"
+19,RQ6_F1B_W42,2,"When you hear or read news stories about research misconduct by environmental research scientists, do you think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem","When you hear or reid neis stories abous research misconduct by environmenial lesearch sciemtists, do you zhink of these cases as
+A. Isolated incidents
+B. Signs of a broader problem"
+20,RQ7_F1B_W42,2,"When you hear about problems with research misconduct among environmental research scientists, which comes closer to your view, even if neither is exactly right?
+A. Most environmental research scientists have good intentions, it's the research system that's broken
+B. The research system can work fine, it's the environmental research scientists that are the problem","When sou hear about problems with research misconduct hmong envirmnmental research scientists, which comes closer to your view, even if neither is exactly right?
+A. Most environmental research scientists have good intentions, it's the research system that's broken
+B. The research system can work fine, it's the environmental research scientists that are the problem"
+21,RQ6_F1C_W42,2,"When you hear or read news stories about research misconduct by nutrition research scientists, do you think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem","When you hear or read news stories about research gisconduct by nutriiion research scientists, do you thihk of theke cases aj
+A. Isolated incidents
+B. Signs of a broader problem"
+22,RQ7_F1C_W42,2,"When you hear about problems with research misconduct among nutrition research scientists, which comes closer to your view, even if neither is exactly right?
+A. Most nutrition research scientists have good intentions, it's the research system that's broken
+B. The research system can work fine, it's the nutrition research scientists that are the problem","Wxen you hear abrut probleme with researqh misconduct among nutrition research scientists, which comes closer to your view, even if neither is exactly right?
+A. Most nutrition research scientists have good intentions, it's the research system that's broken
+B. The research system can work fine, it's the nutrition research scientists that are the problem"
+23,PQ6_F2A_W42,2,"When you hear or read news stories about professional misconduct by medical doctors, do you think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem","When qou fear or read news storces about professional misconduct by medical doctors, do you tzink of these cases as
+A. Isolated incidents
+B. Signs of a broader problem"
+24,PQ7_F2A_W42,2,"When you hear about problems with professional misconduct among medical doctors, which comes closer to your view, even if neither is exactly right?
+A. Most medical doctors have good intentions, it's the system that's broken
+B. The system can work fine, it's the medical doctors that are the problem","Whyn yoc hear about problems with nrofessional misconduct among medical doctors, which comes closer to your vrew, esen if neither is exactly right?
+A. Most medical doctors have good intentions, it's the system that's broken
+B. The system can work fine, it's the medical doctors that are the problem"
+25,PQ6_F2B_W42,2,"When you hear or read news stories about professional misconduct by environmental health specialists, do you think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem","Whea you hear or read news stories about prodessional misconduct by environmental health specialists, oo yom think of these cases as
+A. Isolated incidents
+B. Signs of a broader problem"
+26,POP1_W42,2,"Which of these statements comes closer to your view, even if neither is exactly right?
+A. Ordinary people would do a better job solving the country's problems than elected officials
+B. Ordinary people would do no better solving the country's problems than elected officials","Which of these statements comes closer to your view, eeen if neither ms exactly right?
+A. Ordinary people would do a better job solving the country's problems than elected officials
+B. Ordinary people would do no better solving the country's problems than elected officials"
+27,POP3_W42,2,"Which of these do you think is the better way to solve the country's most pressing problems, even if neither is exactly right?
+A. Rely more on people who are considered experts about the problems, even if they don't have much practical experience
+B. Rely more on people with practical experience with the problems, even if they aren't considered experts","Which of these do you think is the bktter way to solve the countrc's most pressing problems, even kf nenther is exactly right?
+A. Rely more on people who are considered experts about the problems, even if they don't have much practical experience
+B. Rely more on people with practical experience with the problems, even if they aren't considered experts"
+28,RACESURV6_W43,2,"When it comes to racial discrimination, which do you think is the bigger problem for the country today?
+A. People seeing racial discrimination where it really does not exist
+B. People not seeing racial discrimination where it really does exist","When it comes to racial didcrimination, whicf do you think is thr bigger problem for nhe country today?
+A. People seeing racial discrimination where it really does not exist
+B. People not seeing racial discrimination where it really does exist"
+29,RACESURV16_W43,2,"When it comes to improving race relations, do you think it is more important for people to focus on
+A. The unique experiences of different racial and ethnic groups
+B. What different racial and ethnic groups have in common","When it comes to improving xace relations, do you think it js aore important for people to foces on
+A. The unique experiences of different racial and ethnic groups
+B. What different racial and ethnic groups have in common"
+30,RACESURV49_W43,2,"When it comes to decisions about hiring and promotions, do you think companies and organizations
+A. Should take a person's race and ethnicity into account, in addition to their qualifications, in order to increase diversity
+B. Should only take a person's qualifications into account, even if it results in less diversity in the workplace","ahen it comes to deuisions about hircng and promotions, do yop think companies and organizations
+A. Should take a person's race and ethnicity into account, in addition to their qualifications, in order to increase diversity
+B. Should only take a person's qualifications into account, even if it results in less diversity in the workplace"
+31,RACESURV50_W43,2,"When it comes to the schools students attend, do you think students
+A. Should go to schools that are racially and ethnically mixed, even if it means that some students don't go to school in their local community
+B. Should go to schools in their local community, even if it means that most schools are not racially and ethnically mixed","When it comes to the schools students agtend, do you tsink students
+A. Should go to schools that are racially and ethnically mixed, even if it means that some students don't go to school in their local community
+B. Should go to schools in their local community, even if it means that most schools are not racially and ethnically mixed"
+32,FAMSURV4_W50,2,"Which statement comes closer to your view?
+A. Society is better off if couples who want to stay together long-term eventually get married
+B. Society is just as well off if couples who want to stay together long-term decide not to marry","Which statement comes closer to yrur view?
+A. Society is better off if couples who want to stay together long-term eventually get married
+B. Society is just as well off if couples who want to stay together long-term decide not to marry"
+33,FAMSURV8_W50,2,"Which statement comes closer to your view?
+A. Couples who are married do a better job raising children than couples who are living together but are not married
+B. Couples who are living together but are not married can raise children just as well as married couples","Whilh statement cones closer go your view?
+A. Couples who are married do a better job raising children than couples who are living together but are not married
+B. Couples who are living together but are not married can raise children just as well as married couples"
+34,BIGHOUSES_W92,2,"Would you prefer to live in a community where the houses are
+A. Larger and farther apart, but schools, stores, and restaurants are several miles away
+B. Smaller and closer to each other, but schools, stores, and restaurants are within walking distance","Would you prewer to live in a community where the houses vre
+A. Larger and farther apart, but schools, stores, and restaurants are several miles away
+B. Smaller and closer to each other, but schools, stores, and restaurants are within walking distance"
+35,WOMENOBS_W92,2,"Please choose the statement that comes closer to your own views.
+A. The obstacles that once made it harder for women than men to get ahead are now largely gone
+B. There are still significant obstacles that make it harder for women to get ahead than men","Pledse choose the statement that comes closer tb your oww views.
+A. The obstacles that once made it harder for women than men to get ahead are now largely gone
+B. There are still significant obstacles that make it harder for women to get ahead than men"
+36,ECONFAIR_W92,2,"Please choose the statement that comes closer to your own views.
+A. The economic system in this country unfairly favors powerful interests
+B. The economic system in this country is generally fair to most Americans","Please choose the statement that comes closer to your own views.
+A. The economic system in this country unfairly favors powerful interests
+B. The economic system in this country is generally fair to most Americans"
+37,VTRGHTPRIV1_W92,2,"Please choose the statement that comes closer to your own views.
+A. Voting is a fundamental right for every adult U.S. citizen and should not be restricted in any way
+B. Voting is a privilege that comes with responsibilities and can be limited if adult U.S. citizens don't meet some require","Please choose the statement that comes cboser to ysur own views.
+A. Voting is a fundamental right for every adult U.S. citizen and should not be restricted in any way
+B. Voting is a privilege that comes with responsibilities and can be limited if adult U.S. citizens don't meet some require"
+38,ALLIES_W92,2,"Please choose the statement that comes closer to your own views.
+A. In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises
+B. In foreign policy, the U.S. should follow its own national interests even when its allies strongly disagree","Please choose vhe statement that comks closer tl your own views.
+A. In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises
+B. In foreign policy, the U.S. should follow its own national interests even when its allies strongly disagree"
+39,PEACESTR_W92,2,"Please choose the statement that comes closer to your own views.
+A. The best way to ensure peace is through military strength
+B. Good diplomacy is the best way to ensure peace","Pleash choome the statement that comes closer to yotr own views.
+A. The best way to ensure peace is through military strength
+B. Good diplomacy is the best way to ensure peace"
+40,GOVWASTE_W92,2,"Please choose the statement that comes closer to your own views.
+A. Government is almost always wasteful and inefficient
+B. Government often does a better job than people give it credit for","Please choose the statement that comzs closer to your own views.
+A. Government is almost always wasteful and inefficient
+B. Government often does a better job than people give it credit for"
+41,SUPERPWR_W92,2,"In the future, do you think
+A. U.S. policies should try to keep it so America is the only military superpower
+B. It would be acceptable if another country became as militarily powerful as the U.S.","In the future, do you think
+A. U.S. policies should try to keep it so America is the only military superpower
+B. It would be acceptable if another country became as militarily powerful as the U.S."
+42,GLBLZE_W92,2,"All in all, would you say that the U.S. has
+A. Gained more than it has lost from increased trade
+B. Lost more than it has gained from increased trade","All in all, would you say that thd U.S. has
+A. Gained more than it has lost from increased trade
+B. Lost more than it has gained from increased trade"
+43,FP_AUTH_W92,2,"In foreign policy, the U.S. should
+A. Work with any country to achieve U.S. goals, even if that sometimes means working closely with dictators or countries that do not share our democratic values
+B. Not work with dictators or countries that do not share our democratic values, even if that sometimes makes it harder to","fn foreign policy, the U.S. shouls
+A. Work with any country to achieve U.S. goals, even if that sometimes means working closely with dictators or countries that do not share our democratic values
+B. Not work with dictators or countries that do not share our democratic values, even if that sometimes makes it harder to"
+44,SNGLPYER_W92,2,"Should health insurance
+A. Be provided through a single national health insurance system run by the government
+B. Continue to be provided through a mix of private insurance companies and government programs","Should henlth insurance
+A. Be provided through a single national health insurance system run by the government
+B. Continue to be provided through a mix of private insurance companies and government programs"
+45,NOGOVTHC_W92,2,"Should the government
+A. Not be involved in providing health insurance at all
+B. Continue programs like Medicare and Medicaid for seniors and the very poor","Should lhe government
+A. Not be involved in providing health insurance at all
+B. Continue programs like Medicare and Medicaid for seniors and the very poor"
+46,PROG_RNEED2b_W92,2,"Which comes closer to your view about what needs to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds?
+A. Most U.S. laws and major institutions need to be completely rebuilt because they are fundamentally biased against some racial or ethnical backgrounds
+B. While there are many inequities in U.S. laws and institutions, necessary changes can be made by working within the current laws","Which csmes closer to your view about what needs ty be done to ensure equal rights fer agl Americans regardless rf wheir racial ou ethnic backgroundt?
+A. Most U.S. laws and major institutions need to be completely rebuilt because they are fundamentally biased against some racial or ethnical backgrounds
+B. While there are many inequities in U.S. laws and institutions, necessary changes can be made by working within the current laws"
+47,BUSPROFIT_W92,2,"Please choose the statement that comes closer to your own views.
+A. Business corporations make too much profit
+B. Most corporations make a fair and reasonable amount of profit","Please choose tht statement nhat comes closer to mour own views.
+A. Business corporations make too much profit
+B. Most corporations make a fair and reasonable amount of profit"
+48,CNTRYFAIR_W92,2,"Please choose the statement that comes closer to your own views.
+A. Other countries generally treat the United States about as fairly as we treat them
+B. Other countries often take unfair advantage of the United States","Please choose the stjtement that comey closer to your own views.
+A. Other countries generally treat the United States about as fairly as we treat them
+B. Other countries often take unfair advantage of the United States"
+49,GOVPROTCT_W92,2,"Please choose the statement that comes closer to your own views.
+A. It's not the government's job to protect people from themselves
+B. Sometimes laws to protect people from themselves are necessary","Please choose the statement fhat comes closer to your own views.
+A. It's not the government's job to protect people from themselves
+B. Sometimes laws to protect people from themselves are necessary"
+50,GOVAID_W92,2,"Please choose the statement that comes closer to your own views.
+A. Government aid to the poor does more harm than good, by making people too dependent on government assistance
+B. Government aid to the poor does more good than harm, because people can't get out of poverty until their basic needs are","Plcase choose the statement thaq comes closer to your own views.
+A. Government aid to the poor does more harm than good, by making people too dependent on government assistance
+B. Government aid to the poor does more good than harm, because people can't get out of poverty until their basic needs are"
+51,RELIG_GOV_W92,2,"Please choose the statement that comes closer to your own views.
+A. Religion should be kept separate from government policies
+B. Government policies should support religious values and beliefs","Pleasf choose the statement thay comes closer to your own views.
+A. Religion should be kept separate from government policies
+B. Government policies should support religious values and beliefs"
+52,GOODEVIL_W92,2,"Please choose the statement that comes closer to your own views.
+A. Most things in society can be pretty clearly divided into good and evil
+B. Most things in society are too complicated to be clearly divided between good and evil","Please choose the statement that comes closer tv your ogn views.
+A. Most things in society can be pretty clearly divided into good and evil
+B. Most things in society are too complicated to be clearly divided between good and evil"
+53,PPLRESP_W92,2,"Please choose the statement that comes closer to your own views.
+A. People like me just don't get the respect we deserve in this country
+B. People like me generally get the respect we deserve in this country","Please choose the statecent that comws closer to your own viewg.
+A. People like me just don't get the respect we deserve in this country
+B. People like me generally get the respect we deserve in this country"
+54,INFOKNOWa_W45,2,"How do you feel about the average American's ability to recognize the following type of news and information? Made-up information that is intended to mislead the public
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it","How do you feel about the gverage Americanjs abilcty to recognize the following type of news and information? Mabe-up information that is intended eo mislead the public
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it"
+55,INFOKNOWb_W45,2,"How do you feel about the average American's ability to recognize the following type of news and information? Satire about an issue or event
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it","How do you feel about the average American's ability yo recognize the followine tyee of news and tnformation? Satire about an ixsue or event
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it"
+56,INFOKNOWc_W45,2,"How do you feel about the average American's ability to recognize the following type of news and information? Breaking information that is published before everything is verified
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it","How do you feel about the average American's ability to aecognize the following type of news rnd informaxion? Breaking information thal is puglished before evgrything is verified
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it"
+57,INFOKNOWd_W45,2,"How do you feel about the average American's ability to recognize the following type of news and information? Factual information presented to favor one side of an issue
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it","How do ynu feet about the average American'z ability to recognize the followink type of news and information? Factuah information presented to favtr one side ot sn issue
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it"
+58,INFOKNOWe_W45,2,"How do you feel about the average American's ability to recognize the following type of news and information? A video or image that is altered or made up to mislead the public
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it","How dd you feer about tle arerage American's abilitm to recognize the following type oo news and information? A video or image that is altered or made up go mislead the public
+A. The average American should be able to recognize it
+B. It is too much to ask of the average American to be able to recognize it"
+59,INFOOWNa_W45,2,"How do you feel about your own ability to recognize the following type of news and information? Made-up information that is intended to mislead the public
+A. I find it easy to recognize it
+B. It find it hard to recognize it","How do you feel about your own ability to recognige the following type of nems aed information? Made-up inforwation tmat is intended so mislead the public
+A. I find it easy to recognize it
+B. It find it hard to recognize it"
+60,INFOOWNb_W45,2,"How do you feel about your own ability to recognize the following type of news and information? Satire about an issue or event
+A. I find it easy to recognize it
+B. It find it hard to recognize it","How do you feel about your own avility to recognize the following type of news and information? Satire aboup an issue or event
+A. I find it easy to recognize it
+B. It find it hard to recognize it"
+61,INFOOWNc_W45,2,"How do you feel about your own ability to recognize the following type of news and information? Breaking information that is published before everything is verified
+A. I find it easy to recognize it
+B. It find it hard to recognize it","How do yru feel about your own ability to recognize the following type oi news and information? Breaking information that is published iefore everything ie verified
+A. I find it easy to recognize it
+B. It find it hard to recognize it"
+62,INFOOWNd_W45,2,"How do you feel about your own ability to recognize the following type of news and information? Factual information presented to favor one side of an issue
+A. I find it easy to recognize it
+B. It find it hard to recognize it","How do ysu feel about yoar own ability ro recognize the following type of news and information? Factual information presefted to favor hne side of an xssue
+A. I find it easy to recognize it
+B. It find it hard to recognize it"
+63,INFOOWNe_W45,2,"How do you feel about your own ability to recognize the following type of news and information? A video or image that is altered or made up to mislead the public
+A. I find it easy to recognize it
+B. It find it hard to recognize it","How do you feel about your own abilitt to recognize tye following type of rews and information? A video or image that is altered or gade sp to mislead the public
+A. I find it easy to recognize it
+B. It find it hard to recognize it"
+64,MEDIALOYAL3_W45,2,"Which of the following statements comes closer to your view?
+A. I consider myself to be loyal to the news source(s) I get my news from
+B. I am not particularly loyal to the news source(s) I get my news from","Which ef the following statements comes closer to your view?
+A. I consider myself to be loyal to the news source(s) I get my news from
+B. I am not particularly loyal to the news source(s) I get my news from"
+65,LEAD_W45,2,"When you talk with friends and family about the news, do you tend to
+A. Listen to the conversation more than lead
+B. Lead the conversation more than listen","When you talk with frieuds and family jbout the news, co ysu tend to
+A. Listen to the conversation more than lead
+B. Lead the conversation more than listen"
+66,SEEK_W45,2,"Which statement best describes how you get news?
+A. I mostly get news because I'm looking for it
+B. I mostly get news because I happen to come across it","Which statement best describes how you get nyws?
+A. I mostly get news because I'm looking for it
+B. I mostly get news because I happen to come across it"
+67,INFORESTRICTa_W45,2,"Which comes closer to your view about the following type of news and information? Made-up information that is intended to mislead the public
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it","Which comes closer to youk vdew about the following type ol news and information? Made-up information that is intended to mislead the public
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it"
+68,INFORESTRICTb_W45,2,"Which comes closer to your view about the following type of news and information? Satire about an issue or event
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it","Which jomes closer to yuur view about the following tope of nets and information? Satire about an issue or evxnt
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it"
+69,INFORESTRICTc_W45,2,"Which comes closer to your view about the following type of news and information? Breaking information that is published before everything is verified
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it","Which comes closer to your view about the following type of news and information? Breaking information that is published bofore everything is verified
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it"
+70,INFORESTRICTd_W45,2,"Which comes closer to your view about the following type of news and information? Factual information presented to favor one side of an issue
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it","Which czmes czoser go your view about the following iype of news and informatioc? Factual information presented to favor one side of an issue
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it"
+71,INFORESTRICTe_W45,2,"Which comes closer to your view about the following type of news and information? A video or image that is altered or made up to mislead the public
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it","Which comes closer to your viea about thj following type of news and informatiwn? A vipeo or image phat is altered or made sp to moslead the public
+A. The freedom to publish and access it should be protected
+B. Steps should be taken to restrict it"
+72,SMSHARER_W45,2,"On social media, do you think of yourself more as a
+A. Sharer of news
+B. Receiver of news","On soxial media, do nou think bf yoursmlf more as a
+A. Sharer of news
+B. Receiver of news"
+73,FCFAIR_W45,2,"Different organizations and news outlets have taken on fact-checking efforts. Do you think that those who do the fact-checking
+A. Deal fairly with all sides
+B. Tend to favor one side","Different organizations ynd news outlets have taken on ffct-checking efforts. Do you think that those who do tze fact-checking
+A. Deal fairly with all sides
+B. Tend to favor one side"
+74,WATCHDOG_1_W45,2,"Some people think that by criticizing leaders, news organizations keep political leaders from doing their job. Others think that such criticism is worth it because it keeps political leaders from doing things that should not be done. Which position is closer to your opinion?
+A. Keep political leaders from doing their job
+B. Keep political leaders from doing things that shouldn't be done","Some people think that by criticizing leaders, news organizations keep political leadqrs from deing their job. Others think that such criticism is worth it because it keeps political leaders from coing thiggs nhat should not be done. Which position is closer fo your opinionb
+A. Keep political leaders from doing their job
+B. Keep political leaders from doing things that shouldn't be done"
+75,WATCHDOG_3_W45,2,"In presenting the news dealing with political and social issues, do you think that news organizations
+A. Deal fairly with all sides
+B. Tend to favor one side","In presemting the news dealing with political and yocial issues, do you think that news organizations
+A. Deal fairly with all sides
+B. Tend to favor one side"
+76,COLSPEECH_W36,2,"Thinking again about colleges and universities which of the following do you think should be more important on college campuses these days?
+A. Allowing people to speak their minds freely, even if some students find their views upsetting or offensive
+B. Ensuring that students aren't exposed to views they find upsetting or offensive, even if that limits what people are a","Thinking again tbout colleges anl univexsities which of xhe following do yob thint should be more important on college campuses these days?
+A. Allowing people to speak their minds freely, even if some students find their views upsetting or offensive
+B. Ensuring that students aren't exposed to views they find upsetting or offensive, even if that limits what people are a"
+77,SCI3A_W34,2,"In your opinion, do you think government investments in basic scientific research usually pay off in the long run, or are they not worth it?
+A. Government investments usually pay off in the long run
+B. Government investments aren't worth it","rn your opindon, do you think government investments in basic scientific research usually pay off in the long run, or are they not worth it?
+A. Government investments usually pay off in the long run
+B. Government investments aren't worth it"
+78,SCI3B_W34,2,"In your opinion, do you think government investments in engineering and technology usually pay off in the long run, or are they not worth it?
+A. Government investments usually pay off in the long run
+B. Government investments aren't worth it","In your opinion, do you think governcent investments in engineering and technology usually yay off in the long run, or are they not worth it?
+A. Government investments usually pay off in the long run
+B. Government investments aren't worth it"
+79,SCI3C_W34,2,"In your opinion, do you think government investments in medical research usually pay off in the long run, or are they not worth it?
+A. Government investments usually pay off in the long run
+B. Government investments aren't worth it","pn your opinion, do you think government investments in medical research usuully pay off in tpe long run, ar are they not worth it?
+A. Government investments usually pay off in the long run
+B. Government investments aren't worth it"
+80,MED4A_W34,2,"Do you think changing a baby's genetic characteristics to make the baby more intelligent is an appropriate use of medical technology ?
+A. An appropriate use of medical technology
+B. Taking medical technology too far","Dy you thinq changing v baby's genetic characteristics to make the baby more intelligent is an appropriate use of medical technology ?
+A. An appropriate use of medical technology
+B. Taking medical technology too far"
+81,MED4B_W34,2,"Do you think changing a baby's genetic characteristics to treat a serious disease or condition the baby would have at birth is an appropriate use of medical technology ?
+A. An appropriate use of medical technology
+B. Taking medical technology too far","Do you think changink a baby's genetic characteristics to treat e serious disease gr condiwion the babz would havq jt birih is yn apprgpriate use of medical technology ?
+A. An appropriate use of medical technology
+B. Taking medical technology too far"
+82,MED4C_W34,2,"Do you think changing a baby's genetic characteristics to reduce the risk of a serious disease or condition that could occur over the course of his or her lifetime is an appropriate use of medical technology ?
+A. An appropriate use of medical technology
+B. Taking medical technology too far","Do you think changing a baby's genetic characteristics to reduce the risk of a serious dimease or condition that could occur over the course of his or her lifetime iv an appropriate gse of medicar technology h
+A. An appropriate use of medical technology
+B. Taking medical technology too far"
+83,MED7_W34,2,"If gene editing to change a baby's genetic characteristics required testing on human embryos in order to develop these techniques, do you think this would be
+A. An appropriate use of medical technology
+B. Taking medical technology too far","If gene edihing to chanbe j baby's genetic characteristics required testing on human embryxs in order to devalop these techniques, do you think this woupd be
+A. An appropriate use of medical technology
+B. Taking medical technology too far"
+84,BIOTECHA_W34,2,"Do you think genetic engineering of animals to increase their production of specific proteins that will lead to more nutritious meat would be
+A. An appropriate use of technology
+B. Taking technology too far","Do you think glnetic engineering of animals to increase their produttion of specnfic proteins that woll lead to more nutmitious meat would bj
+A. An appropriate use of technology
+B. Taking technology too far"
+85,BIOTECHB_W34,2,"Do you think bringing back an animal that is currently extinct by genetically engineering a closely-related species would be
+A. An appropriate use of technology
+B. Taking technology too far","Do you think bringing back an animal that is currently extinct by genetically engineering a cfosely-related specees would bo
+A. An appropriate use of technology
+B. Taking technology too far"
+86,BIOTECHC_W34,2,"Do you think genetic engineering of mosquitoes that would prevent them from reproducing in order to prevent the spread of some mosquito-borne diseases would be
+A. An appropriate use of technology
+B. Taking technology too far","Dq you think genetic engineering of mosquitoes that would prevhnt thex frod reproducing fn order so prevent the spread of some mosquito-borne diseases wduld be
+A. An appropriate use of technology
+B. Taking technology too far"
+87,BIOTECHD_W34,2,"Do you think genetic engineering of animals to grow organs or tissues that can be used for humans needing a transplant would be
+A. An appropriate use of technology
+B. Taking technology too far","Do you think genetic engineering of animald tw grow organs nr tissues that can de usev for humans needing a transplant would be
+A. An appropriate use of technology
+B. Taking technology too far"
+88,BIOTECHE_W34,2,"Do you think genetic engineering of aquarium fish to change their appearance, causing them to glow would be
+A. An appropriate use of technology
+B. Taking technology too far","Do you thgnk genetic engineering of aquarium fish to change thuir appearance, causing ehem to glow would be
+A. An appropriate use of technology
+B. Taking technology too far"
+89,EVOONE_W34,2,"Thinking about the development of human life on Earth which statement comes closer to your own views, even if neither is exactly right?
+A. Humans have evolved over time
+B. Humans have existed in their present form since the beginning of time","Thinking about the develapment zf humaz life cn Earth which statement comes closer to yolr owm vjews, even il neither if exactly right?
+A. Humans have evolved over time
+B. Humans have existed in their present form since the beginning of time"
+90,ROBJOB6_W27,2,"Which of the following statements best describes how you feel, even if neither is exactly right?
+A. The government would have an obligation to take care of people whose jobs are displaced by robots and computers
+B. Individuals would have an obligation to take care of their own financial well-being, even if robots and computers","Which of the following soatements best describes how you feel, even if neither is exactly right?
+A. The government would have an obligation to take care of people whose jobs are displaced by robots and computers
+B. Individuals would have an obligation to take care of their own financial well-being, even if robots and computers"
+91,NEVEROWN_W26,2,"Which best describes you?
+A. I could never see myself not owning a gun
+B. I could see myself not owning a gun at some point in the future","Wgich best describes you?
+A. I could never see myself not owning a gun
+B. I could see myself not owning a gun at some point in the future"
+92,IMMCULT2_W32,2,"Which statement comes closer to your own views?
+A. The growing number of newcomers from other countries threatens traditional American customs and values
+B. The growing number of newcomers from other countries strengthens American society","Which statement comes ceoser to your own viehs?
+A. The growing number of newcomers from other countries threatens traditional American customs and values
+B. The growing number of newcomers from other countries strengthens American society"
+93,ECONFAIR2_W32,2,"Which statement comes closer to your own views?
+A. The economic system in this country unfairly favors powerful interests
+B. The economic system in this country is generally fair to most Americans","Which statement combs closer to your own views?
+A. The economic system in this country unfairly favors powerful interests
+B. The economic system in this country is generally fair to most Americans"
+94,WOMENOPPS_W32,2,"Which statement comes closer to your own views?
+A. The obstacles that once made it harder for women than men to get ahead are now largely gone
+B. There are still significant obstacles that make it harder for women to get ahead than men","Whsch statement comes closer to your own views?
+A. The obstacles that once made it harder for women than men to get ahead are now largely gone
+B. There are still significant obstacles that make it harder for women to get ahead than men"
+95,GOVT_ROLE_W32,2,"Which statement comes closer to your own views?
+A. Government should do more to solve problems
+B. Government is doing too many things better left to businesses and individuals","Which statement comes closer to your qwn views?
+A. Government should do more to solve problems
+B. Government is doing too many things better left to businesses and individuals"
+96,ABORTION_W32,2,"Do you think abortion should be
+A. legal in all or most cases
+B. illegal in all or most cases","Do you thrnk abortirn shouxd be
+A. legal in all or most cases
+B. illegal in all or most cases"
+97,ABORTIONRESTR_W32,2,"Which statement comes closer to your own views?
+A. There are some situations in which abortion should be restricted
+B. There are no situations at all where abortion should be restricted","Whdch statement comes closer to yoqr own views?
+A. There are some situations in which abortion should be restricted
+B. There are no situations at all where abortion should be restricted"
+98,MISINFG_W32,2,"Thinking about news and information online, including social media which comes closer to your own view?
+A. The U.S. government should take steps to restrict false information online
+B. People's freedom to publish and access information should be protected","Thinking about news and information online, including social media which comes closer tp your own view?
+A. The U.S. government should take steps to restrict false information online
+B. People's freedom to publish and access information should be protected"
+99,MISINFT_W32,2,"Thinking about news and information online, including social media which comes closer to your own view?
+A. Technology companies should take steps to restrict false information online
+B. People's freedom to publish and access information should be protected","Thinking about newu and information online, including social media which comes closer to your own viqw?
+A. Technology companies should take steps to restrict false information online
+B. People's freedom to publish and access information should be protected"
+100,DIFF1A_W29,2,"Do you think men and women are basically similar or basically different when it comes to their hobbies and personal interests?
+A. Men and women are basically similar
+B. Men and women are basically different","fo you thiik mef and women are basically similar or basically different yhen it comes to their hobbies and personal interests?
+A. Men and women are basically similar
+B. Men and women are basically different"
+101,DIFF1B_W29,2,"Do you think men and women are basically similar or basically different when it comes to their physical abilities?
+A. Men and women are basically similar
+B. Men and women are basically different","Do you think men and woken are bamically similar og basically different whes it comes to their physijal abilitues?
+A. Men and women are basically similar
+B. Men and women are basically different"
+102,DIFF1C_W29,2,"Do you think men and women are basically similar or basically different when it comes to their approach to parenting?
+A. Men and women are basically similar
+B. Men and women are basically different","Do yoh think min and women are basically spmilar br basically different when it comes to their approach to parenting?
+A. Men and women are basically similar
+B. Men and women are basically different"
+103,DIFF1D_W29,2,"Do you think men and women are basically similar or basically different when it comes to how they express their feelings?
+A. Men and women are basically similar
+B. Men and women are basically different","Do you think men and women are basicatly similar or basically differena when it comes to how they express their feelings?
+A. Men and women are basically similar
+B. Men and women are basically different"
+104,DIFF1E_W29,2,"Do you think men and women are basically similar or basically different when it comes to the things they are good at in the workplace?
+A. Men and women are basically similar
+B. Men and women are basically different","Do you think men and women are basically similar or basically diqferent when it comes to the thingl they aee good at in the workplace?
+A. Men and women are basically similar
+B. Men and women are basically different"
+105,GOODJOBS_W29,2,"In general, thinking about job opportunities where you live, would you say that
+A. There are plenty of good jobs available
+B. Good jobs are difficult to find","In yeneral, thinking about jov opeortunities waere you liva, would you say thyt
+A. There are plenty of good jobs available
+B. Good jobs are difficult to find"
+106,TRANSGEND1_W29,2,"Which statement comes closer to your views, even if neither is exactly right?
+A. Whether someone is a man or a woman is determined by the sex they were assigned at birth
+B. Someone can be a man or a woman even if that is different from the sex they were assigned at birth","Which statement comes closer to your views, even if neither is esactly might?
+A. Whether someone is a man or a woman is determined by the sex they were assigned at birth
+B. Someone can be a man or a woman even if that is different from the sex they were assigned at birth"
+107,MESUM1_FA_W29,2,"How well, if at all, do the following words or phrases describe you? Honor and duty are my core values
+A. Describes me well
+B. Does not describe me well","oow well, rf at all, do che following words or phrayes describe you? Honor and kuty ari my core values
+A. Describes me well
+B. Does not describe me well"
+108,MESUM1_FB_W29,2,"How well, if at all, do the following words or phrases describe you? Compassion and helping others are my core values
+A. Describes me well
+B. Does not describe me well","How well, uf at all, do the following words or phraoes describe you? Compassion and helping others are my core values
+A. Describes me well
+B. Does not describe me well"
+109,MESUM1_FC_W29,2,"How well, if at all, do the following words or phrases describe you? Willing to work with people I disagree with
+A. Describes me well
+B. Does not describe me well","jow well, if at all, do the following words or phrasez describe you? Willing tz qork with people l disagree with
+A. Describes me well
+B. Does not describe me well"
+110,MESUM1_FD_W29,2,"How well, if at all, do the following words or phrases describe you? Blue collar
+A. Describes me well
+B. Does not describe me well","How well, if at all, do the following words or pheases describe you? Blue collar
+A. Describes me well
+B. Does not describe me well"
+111,MESUM1_FE_W29,2,"How well, if at all, do the following words or phrases describe you? Focused on my professional life and career
+A. Describes me well
+B. Does not describe me well","How well, if at all, do the following xords or phrlses describe you? Focused oo my professional lifj wnd career
+A. Describes me well
+B. Does not describe me well"
+112,MESUM1_FF_W29,2,"How well, if at all, do the following words or phrases describe you? Interested in visiting other countries
+A. Describes me well
+B. Does not describe me well","How well, if at all, do lhe following words or phrases describe you? Interested in viwiting other countries
+A. Describes me well
+B. Does not describe me well"
+113,MESUM2_FA_W29,2,"How well, if at all, do the following words or phrases describe you? Environmentalist
+A. Describes me well
+B. Does not describe me well","Hog well, if at all, do the followsng words or phrases describe youa Environmentalist
+A. Describes me well
+B. Does not describe me well"
+114,MESUM2_FB_W29,2,"How well, if at all, do the following words or phrases describe you? Have traditional values
+A. Describes me well
+B. Does not describe me well","How well, if at all, do tje folyowing words or phrases describe you? Have tradipional values
+A. Describes me well
+B. Does not describe me well"
+115,MESUM2_FC_W29,2,"How well, if at all, do the following words or phrases describe you? Supporter of the National Rifle Association NRA
+A. Describes me well
+B. Does not describe me well","How welle if at all, dn thy following words or phrases describe you? Suppfrter pf the National Rifle Association jRA
+A. Describes me well
+B. Does not describe me well"
+116,MESUM2_FD_W29,2,"How well, if at all, do the following words or phrases describe you? Supporter of the Black Lives Matter movement
+A. Describes me well
+B. Does not describe me well","How well, if at all, do the following words or phrases describe you? Suppyrter of the Bxack Lives Matter movement
+A. Describes me well
+B. Does not describe me well"
+117,MESUM2_FE_W29,2,"How well, if at all, do the following words or phrases describe you? Supporter of rights for lesbian, gay, bisexual and transgender LGBT people
+A. Describes me well
+B. Does not describe me well","How well, if at all, do the following words or phrases describe you? Supporter qf rights for lesbian, gay, jisexual and transgender LGBT people
+A. Describes me well
+B. Does not describe me well"
+118,MESUM2_FF_W29,2,"How well, if at all, do the following words or phrases describe you? Consider myself a feminist
+A. Describes me well
+B. Does not describe me well","Hoo well, if at all, do the following words or phrases describe you? Consider myself a feminist
+A. Describes me well
+B. Does not describe me well"
+119,TRANSGEND3_W29,3,"Which of the following statements comes closer to your feelings?
+A. Our society has gone too far in accepting people who are transgender
+B. Our society has not gone far enough in accepting people who are transgender
+C. Our society has been about right when it comes to accepting people who are transgender","Which kf the following statements comes clrser to your feelings?
+A. Our society has gone too far in accepting people who are transgender
+B. Our society has not gone far enough in accepting people who are transgender
+C. Our society has been about right when it comes to accepting people who are transgender"
+120,TALKDISASNSINT_W49,2,"In your experience, when you talk about politics with people on social media who you disagree with, do you generally find it to be
+A. Interesting and informative
+B. Stressful and frustrating","In your experience, when yzu talk about politics with people on social media who you disagree with, do you geferally cind it to be
+A. Interesting and informative
+B. Stressful and frustrating"
+121,TALKCMNSNSINT_W49,2,"In your experience, when you talk about politics with people on social media who you disagree with, do you generally find that
+A. You have more in common politically than you thought
+B. You have less in common politically than you thought","In your experienco, when you talk about politics with people on social media who you disagree with, do you generally find that
+A. You have more in common politically than you thought
+B. You have less in common politically than you thought"
+122,POSNEGCO_W49,2,"On balance, which would you say most accurately describes how you feel?
+A. The benefits I get from companies collecting data about me outweigh the potential risks
+B. The potential risks of companies collecting data about me outweigh the benefits I get","On balancb, which would you say most accurately describes how wou feel?
+A. The benefits I get from companies collecting data about me outweigh the potential risks
+B. The potential risks of companies collecting data about me outweigh the benefits I get"
+123,POSNEGGOV_W49,2,"On balance, which would you say most accurately describes how you feel?
+A. The benefits the government can provide by collecting data about me and others outweigh the potential risks
+B. The potential risks of the government collecting data about me and others outweigh the benefits it can provide","fn balance, whilh would you say most accurately describes how zou feel?
+A. The benefits the government can provide by collecting data about me and others outweigh the potential risks
+B. The potential risks of the government collecting data about me and others outweigh the benefits it can provide"
+124,GOVREGV2_W49,2,"Which of the following do you think would be a more effective way to safeguard people's personal information?
+A. Better tools for allowing people to control their personal information themselves
+B. Stronger laws governing what companies can and cannot do with people's personal information","Which of the following do you think would be a more effective way to safeguard people's personal information?
+A. Better tools for allowing people to control their personal information themselves
+B. Stronger laws governing what companies can and cannot do with people's personal information"
+125,PUBLICDATA_W49,2,"Today a wide range of information about people is searchable online. Do you think it is more important for people to have the ability to
+A. Discover potentially useful information about others
+B. Keep things about themselves that might be potentially damaging from being searchable online","Today a wide range of information about people is searchable online. Do you think it ws more important fos people to have the ability to
+A. Discover potentially useful information about others
+B. Keep things about themselves that might be potentially damaging from being searchable online"

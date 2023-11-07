@@ -1,0 +1,1387 @@
+,key,num options,num options new,orig alpha,float alpha
+0,HAPPEN2a_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? There will be a terrorist attack on the U.S. as bad as or worse than 9/11
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How liekly do you thnik it is that the folloiwng will hpapen in the next 30 yeras? Three will be a terrroist atatck on the U.S. as bad as or wrose than 9/11
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+1,HAPPEN2b_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? The world will face a major energy crisis
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How likley do you thnik it is that the flolowing will happen in the next 30 yaers? The wolrd will face a maojr eenrgy crsiis
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+2,HAPPEN2c_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? There will be a cure for Alzheimer's disease
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How likley do you thnik it is that the folloiwng will hpapen in the next 30 yeras? Three will be a cure for Alzheimre's disaese
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+3,HAPPEN2d_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? China will overtake the U.S. as the world's main superpower
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How lkiely do you tihnk it is that the flolowing will hpapen in the next 30 yaers? Chnia will overtkae the U.S. as the wrold's main supeprower
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+4,HAPPEN2e_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? A woman will be elected U.S. president
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How liekly do you tihnk it is that the fololwing will hpapen in the next 30 yaers? A wmoan will be elceted U.S. presdient
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+5,HAPPEN2f_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? A Hispanic person will be elected U.S. president
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How liekly do you thnik it is that the following will happen in the next 30 yeras? A Hsipanic perosn will be elceted U.S. persident
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+6,HAPPEN2g_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? Most Americans will work into their 70s to have enough resources to retire
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How likley do you tihnk it is that the follownig will hpapen in the next 30 yeras? Most Ameriacns will work into thier 70s to have enoguh rseources to rteire
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+7,HAPPEN2h_W41,5,6,"How likely do you think it is that the following will happen in the next 30 years? There will be increasing violence against Jews in the U.S.
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","How likley do you tihnk it is that the following will hpapen in the next 30 yeasr? Tehre will be incresaing violnece aaginst Jews in the U.S.
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+8,PREDICTA_W27,5,6,"Do you think the following will or will not happen in the next 20 years? Doctors will rely on computer programs to diagnose most diseases and determine treatments
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","Do you thnik the following will or will not happen in the next 20 yeras? Doctros will rely on compuetr porgrams to daignose most diseaess and determnie tretaments
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+9,PREDICTB_W27,5,6,"Do you think the following will or will not happen in the next 20 years? Most stores and retail businesses will be fully automated and involve little or no human interaction between customers and employees
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","Do you tihnk the follownig will or will not happen in the next 20 yeras? Most stroes and retial businesses will be fluly autmoated and inovlve little or no huamn interatcion bewteen custmoers and emploeyes
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+10,PREDICTC_W27,5,6,"Do you think the following will or will not happen in the next 20 years? Most deliveries in cities will be made by robots or drones instead of humans
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","Do you tihnk the following will or will not happen in the next 20 yeras? Most delvieries in ciites will be made by roobts or dornes insetad of huamns
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+11,PREDICTD_W27,5,6,"Do you think the following will or will not happen in the next 20 years? When people want to buy most common products, they will create them at home using a 3-D printer
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen","Do you tihnk the flolowing will or will not happen in the next 20 yeasr? When peolpe want to buy most cmomon prdoucts, they will craete them at home usnig a 3-D prinetr
+A. Will definitely happen
+B. Will probably happen
+C. May or may not happen
+D. Will probably not happen
+E. Will definitely not happen"
+12,RACESURV18a_W43,5,6,"Thinking again about race and race relations in the U.S. in general, how well, if at all, do you think each of these groups get along with each other in our society these days? Whites and Hispanics
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well","Thinikng agian aobut race and race relatinos in the U.S. in gneeral, how well, if at all, do you tihnk each of tehse gruops get alnog with each ohter in our scoiety thsee dasy? Whties and Hipsanics
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well"
+13,RACESURV18b_W43,5,6,"Thinking again about race and race relations in the U.S. in general, how well, if at all, do you think each of these groups get along with each other in our society these days? Blacks and Hispanics
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well","Thinknig agian aobut race and race relatoins in the U.S. in generla, how wlel, if at all, do you thnik each of thsee gorups get aolng with each ohter in our soceity tehse dyas? Balcks and Hispnaics
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well"
+14,RACESURV18c_W43,5,6,"Thinking again about race and race relations in the U.S. in general, how well, if at all, do you think each of these groups get along with each other in our society these days? Blacks and whites
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well","Tihnking agian abuot race and race relaitons in the U.S. in genearl, how wlel, if at all, do you thnik each of tehse gorups get aolng with each ohter in our soceity tehse dyas? Blcaks and whties
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well"
+15,RACESURV18d_W43,5,6,"Thinking again about race and race relations in the U.S. in general, how well, if at all, do you think each of these groups get along with each other in our society these days? Whites and Asians
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well","Tihnking aagin abuot race and race reltaions in the U.S. in gneeral, how well, if at all, do you thnik each of thsee gropus get aolng with each otehr in our socitey tehse dasy? Whiets and Asinas
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well"
+16,RACESURV18e_W43,5,6,"Thinking again about race and race relations in the U.S. in general, how well, if at all, do you think each of these groups get along with each other in our society these days? Blacks and Asians
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well","Thinknig agian aobut race and race relatinos in the U.S. in geenral, how well, if at all, do you tihnk each of thsee gropus get aolng with each otehr in our scoiety thsee dasy? Blakcs and Aisans
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well"
+17,RACESURV18f_W43,5,6,"Thinking again about race and race relations in the U.S. in general, how well, if at all, do you think each of these groups get along with each other in our society these days? Hispanics and Asians
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well","Tihnking agian aobut race and race relatinos in the U.S. in genearl, how wlel, if at all, do you tihnk each of thsee gropus get aolng with each otehr in our soceity tehse dyas? Hipsanics and Aisans
+A. Very well
+B. Pretty well
+C. Somewhat well
+D. Not too well
+E. Not at all well"
+18,MED5_W34,5,6,"Thinking about what you have heard or read, how well do you think medical researchers understand the health risks and benefits of changing a baby's genetic characteristics?
+A. Very well
+B. Fairly well
+C. Somewhat well
+D. Not too well
+E. Not at all well","Thikning aobut what you have herad or raed, how well do you thnik mdeical reesarchers undrestand the heatlh rsiks and beneftis of chanigng a bab'ys geneitc charcateristics?
+A. Very well
+B. Fairly well
+C. Somewhat well
+D. Not too well
+E. Not at all well"
+19,VALUEURBAN_W32,5,6,"In general, do you think most people who live in urban areas have values that are
+A. Very similar to your values
+B. Somewhat similar to your values
+C. Neither similar nor dissimilar from your values
+D. Somewhat different from your values
+E. Very different from your values","In geenral, do you tihnk most pepole who live in urabn aeras have valeus that are
+A. Very similar to your values
+B. Somewhat similar to your values
+C. Neither similar nor dissimilar from your values
+D. Somewhat different from your values
+E. Very different from your values"
+20,VALUESUBURB_W32,5,6,"In general, do you think most people who live in suburban areas have values that are
+A. Very similar to your values
+B. Somewhat similar to your values
+C. Neither similar nor dissimilar from your values
+D. Somewhat different from your values
+E. Very different from your values","In genearl, do you tihnk most peolpe who live in subruban aeras have vaules that are
+A. Very similar to your values
+B. Somewhat similar to your values
+C. Neither similar nor dissimilar from your values
+D. Somewhat different from your values
+E. Very different from your values"
+21,VALUERURAL_W32,5,6,"In general, do you think most people who live in rural areas have values that are
+A. Very similar to your values
+B. Somewhat similar to your values
+C. Neither similar nor dissimilar from your values
+D. Somewhat different from your values
+E. Very different from your values","In geenral, do you thnik most peolpe who live in rrual aeras have valeus that are
+A. Very similar to your values
+B. Somewhat similar to your values
+C. Neither similar nor dissimilar from your values
+D. Somewhat different from your values
+E. Very different from your values"
+22,OPTIMIST_W41,5,6,"Please think about what things will be like in 2050, about 30 years from now. Thinking about the future of the United States, would you say you are
+A. Very optimistic
+B. Somewhat optimistic
+C. Neither optimistic nor pessimistic
+D. Somewhat pessimistic
+E. Very pessimistic","Plesae tihnk abuot what tihngs will be like in 2500, abuot 30 yeras from now. Tihnking aobut the ftuure of the Uinted Sttaes, wolud you say you are
+A. Very optimistic
+B. Somewhat optimistic
+C. Neither optimistic nor pessimistic
+D. Somewhat pessimistic
+E. Very pessimistic"
+23,GAP21Q41_W82,5,6,"Overall, do you think current economic relations between the US and China are very good, somewhat good, somewhat bad or very bad?
+A. Very good
+B. Somewhat good
+C. Neither good nor bad
+D. Somewhat bad
+E. Very bad","Oevrall, do you thnik current eocnomic realtions bteween the US and Chnia are very godo, smoewhat good, soemwhat bad or very bad?
+A. Very good
+B. Somewhat good
+C. Neither good nor bad
+D. Somewhat bad
+E. Very bad"
+24,WMNPRZ1_W36,5,6,"Do you think it would be a good thing or a bad thing for the country if a woman was elected president?
+A. Very good
+B. Somewhat good
+C. Neither good nor bad
+D. Somewhat bad
+E. Very bad","Do you thnik it wuold be a good thnig or a bad thnig for the conutry if a woamn was eelcted presidetn?
+A. Very good
+B. Somewhat good
+C. Neither good nor bad
+D. Somewhat bad
+E. Very bad"
+25,GAYMARR2_W32,5,6,"As you may know, same-sex marriage is now legal in the U.S. Do you think this is a good thing or a bad thing for our society?
+A. Very good thing
+B. Somewhat good thing
+C. Neither a good nor bad thing
+D. Somewhat bad thing
+E. Very bad thing","As you may konw, sam-esex marriage is now lgeal in the U.S. Do you tihnk this is a good thnig or a bad thnig for our soceity?
+A. Very good thing
+B. Somewhat good thing
+C. Neither a good nor bad thing
+D. Somewhat bad thing
+E. Very bad thing"
+26,RACESURV2_W43,5,6,"The U.S. population is made up of people of many different races and ethnicities. Overall, do you think this is
+A. Very good for the country
+B. Somewhat good for the country
+C. Neither good nor bad for the country
+D. Somewhat bad for the country
+E. Very bad for the country","The U.S. pouplation is made up of peolpe of many diffeernt raecs and ethniicties. Ovreall, do you tihnk this is
+A. Very good for the country
+B. Somewhat good for the country
+C. Neither good nor bad for the country
+D. Somewhat bad for the country
+E. Very bad for the country"
+27,SOCIETY_TRANS_W92,5,6,"Do you think greater social acceptance of people who are transgender (people who identify as a gender that is different from the sex they were assigned at birth) is generally good or bad for our society?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society","Do you tihnk gerater scoial accepatnce of poeple who are transegnder (pepole who iedntify as a gedner that is diffeernt from the sex they were asisgned at bitrh) is genreally good or bad for our socitey?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society"
+28,SOCIETY_RHIST_W92,5,6,"Do you think increased public attention to the history of slavery and racism in America is generally good or bad for our society?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society","Do you thnik incresaed pulbic attnetion to the hitsory of slavrey and racsim in Aemrica is geenrally good or bad for our soceity?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society"
+29,SOCIETY_JBCLL_W92,5,6,"Do you think good-paying jobs requiring a college degree more often than they used to is generally good or bad for our society?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society","Do you thnik goo-dpaying jobs reuqiring a clolege degere more ofetn than they used to is generally good or bad for our socitey?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society"
+30,SOCIETY_RELG_W92,5,6,"Do you think a decline in the share of Americans belonging to an organized religion is generally good or bad for our society?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society","Do you thnik a decilne in the sahre of Americnas belnoging to an organiezd reliigon is genreally good or bad for our soicety?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society"
+31,SOCIETY_GUNS_W92,5,6,"Do you think an increase in the number of guns in the U.S. is generally good or bad for our society?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society","Do you tihnk an incraese in the numebr of guns in the U.S. is geenrally good or bad for our socitey?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society"
+32,SOCIETY_SSM_W92,5,6,"Do you think same-sex marriages being legal in the U.S. is generally good or bad for our society?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society","Do you tihnk sam-esex marrigaes benig leagl in the U.S. is gneerally good or bad for our soicety?
+A. Very good for society
+B. Somewhat good for society
+C. Neither good nor bad for society
+D. Somewhat bad for society
+E. Very bad for society"
+33,GAP21Q15_a_W82,5,6,"Please compare the US to other developed nations in a few different areas. In each instance, how does the US compare? Healthcare system
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst","Plesae copmare the US to ohter devleoped naitons in a few diffeernt aresa. In each instacne, how does the US copmare? Haelthcare ssytem
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst"
+34,GAP21Q15_b_W82,5,6,"Please compare the US to other developed nations in a few different areas. In each instance, how does the US compare? Colleges and universities
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst","Plaese cmopare the US to ohter deveolped natoins in a few different araes. In each intsance, how does the US comapre? Colleges and universiteis
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst"
+35,GAP21Q15_c_W82,5,6,"Please compare the US to other developed nations in a few different areas. In each instance, how does the US compare? Standard of living
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst","Pelase cmopare the US to otehr deevloped natoins in a few dfiferent araes. In each intsance, how does the US copmare? Stnadard of lviing
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst"
+36,GAP21Q15_d_W82,5,6,"Please compare the US to other developed nations in a few different areas. In each instance, how does the US compare? Military
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst","Plesae cmopare the US to otehr develpoed natinos in a few diffeernt aeras. In each isntance, how does the US comapre? Miiltary
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst"
+37,GAP21Q15_e_W82,5,6,"Please compare the US to other developed nations in a few different areas. In each instance, how does the US compare? Technological achievements
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst","Plesae copmare the US to ohter develpoed naitons in a few diffreent araes. In each isntance, how does the US cmopare? Technologcial achievemetns
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst"
+38,RACESURV5a_W43,5,6,"Overall, how does being white affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovreall, how does bieng whtie affect peolpe's aiblity to get aehad in our counrty tehse dyas?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+39,RACESURV5b_W43,5,6,"Overall, how does being black affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovreall, how does bieng blcak affcet peolpe's aiblity to get aehad in our conutry tehse dasy?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+40,CARS9A_W27,5,6,"Would you strongly favor, favor, oppose, or strongly oppose the following rules and regulations for driverless vehicles? Requiring them to travel in dedicated lanes
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose","Wolud you srtongly fvaor, fvaor, oppoes, or strnogly oppose the follwoing ruels and reuglations for drvierless vehciles? Requiirng them to trvael in deidcated lnaes
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose"
+41,CARS9B_W27,5,6,"Would you strongly favor, favor, oppose, or strongly oppose the following rules and regulations for driverless vehicles? Restricting them from traveling near certain areas, such as schools
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose","Wuold you stronlgy faovr, faovr, oppoes, or storngly opopse the following rlues and regulaitons for drivreless vehciles? Retsricting them from traevling near cretain aeras, such as schools
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose"
+42,CARS9C_W27,5,6,"Would you strongly favor, favor, oppose, or strongly oppose the following rules and regulations for driverless vehicles? Requiring them to have a person in the driver's seat who could take control in an emergency situation
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose","Wuold you strnogly faovr, favro, oppoes, or srtongly opopse the following rlues and regualtions for drivelress vehilces? Rqeuiring them to have a pesron in the drivre's seat who colud take contorl in an emegrency situatoin
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose"
+43,ROBJOB5B_W27,5,6,"Would you favor or oppose the following? If robots and computers were mostly limited to doing jobs that are dangerous or unhealthy for humans to do
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose","Wuold you fvaor or oppsoe the follwoing? If rboots and cmoputers were msotly limietd to diong jobs that are dangeorus or unhelathy for hmuans to do
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose"
+44,ROBJOB5C_W27,5,6,"Would you favor or oppose the following? If people had the option of paying extra to interact with a human, rather than a robot or computer, when buying a product or service
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose","Wuold you fvaor or oppsoe the flolowing? If pepole had the optoin of paynig exrta to intearct with a humna, rahter than a rboot or cmoputer, when buynig a prodcut or serivce
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose"
+45,ROBJOB5D_W27,5,6,"Would you favor or oppose the following? If the federal government created a national service program that paid people to perform tasks even if a robot or computer could do those tasks faster or cheaper
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose","Wolud you faovr or oppose the follownig? If the fedreal goevrnment craeted a ntaional sevrice porgram that paid peolpe to preform takss even if a roobt or copmuter cuold do thsoe takss fatser or cheaepr
+A. Strongly favor
+B. Favor
+C. Neither favor nor oppose
+D. Oppose
+E. Strongly oppose"
+46,ROBWRK2_W41,5,6,"If robots and computers do much of the work currently done by humans, do you think this would be
+A. A very good thing for the country
+B. A somewhat good thing for the country
+C. Neither a good nor bad thing for the country
+D. A somewhat bad thing for the country
+E. A very bad thing for the country","If robtos and cmoputers do much of the work currnetly done by hmuans, do you thnik this wuold be
+A. A very good thing for the country
+B. A somewhat good thing for the country
+C. Neither a good nor bad thing for the country
+D. A somewhat bad thing for the country
+E. A very bad thing for the country"
+47,SOLVPROBa_W41,5,6,"In the future, what kind of an impact do you think science and technology will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the ftuure, what kind of an ipmact do you thnik sceince and tecnhology will have in sovling the bigegst porblems facnig the countyr?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+48,TRACKGOV1a_W49,5,6,"As far as you know, how much of what you do online or on your cellphone is being tracked by the government?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it","As far as you knwo, how much of what you do onlnie or on your celplhone is benig trcaked by the govenrment?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it"
+49,TRACKGOV1b_W49,5,6,"As far as you know, how much of what you do offline like where you are or who you are talking to is being tracked by the government?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it","As far as you konw, how much of what you do offline like whree you are or who you are talikng to is bieng tarcked by the governmnet?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it"
+0,GAP21Q15_f_W82,5,5,"Please compare the US to other developed nations in a few different areas. In each instance, how does the US compare? Entertainment, including movies, music and television
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst","Pelase cmopare the US to ohter dveeloped natinos in a few difefrent aeras. In each instacne, how does the US compaer? Entretainment, inlcuding moveis, muisc and telveision
+A. The best
+B. Above average
+C. Average
+D. Below average
+E. The worst"
+1,USMILSIZ_W92,5,5,"Thinking about the size of America's military, do you think it should be
+A. Reduced a great deal
+B. Reduced somewhat
+C. Kept about as is
+D. Increased somewhat
+E. Increased a great deal","Thniking aobut the size of Americ'as mliitary, do you tihnk it sholud be
+A. Reduced a great deal
+B. Reduced somewhat
+C. Kept about as is
+D. Increased somewhat
+E. Increased a great deal"
+2,LEGALIMMIGAMT_W92,5,5,"Do you think the number of legal immigrants the U.S. admits should
+A. Increase a lot
+B. Increase a little
+C. Stay about the same
+D. Decrease a little
+E. Decrease a lot","Do you thnik the nubmer of lgeal immgirants the U.S. admtis sohuld
+A. Increase a lot
+B. Increase a little
+C. Stay about the same
+D. Decrease a little
+E. Decrease a lot"
+3,RACESURV5c_W43,5,5,"Overall, how does being Hispanic affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovearll, how does bieng Hispnaic afefct peopel's aiblity to get ahaed in our cuontry thsee dyas?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+4,RACESURV5d_W43,5,5,"Overall, how does being Asian affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovreall, how does benig Aisan afefct poeple's aiblity to get ahaed in our conutry tehse dyas?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+5,RACESURV5e_W43,5,5,"Overall, how does being Native American affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Oevrall, how does benig Ntaive Ameriacn afefct pepole's abiilty to get aehad in our cuontry tehse dasy?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+6,RACESURV5f_W43,5,5,"Overall, how does being Jewish affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovreall, how does benig Jeiwsh afefct peolpe's abiilty to get ahaed in our counrty thsee dasy?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+7,RACESURV5g_W43,5,5,"Overall, how does being Muslim affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovearll, how does benig Msulim affcet poeple's abiilty to get ahaed in our conutry thsee dyas?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+8,RACESURV5h_W43,5,5,"Overall, how does being an evangelical Christian affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Overall, how does bieng an evangeliacl Chrisitan affcet peopel's abliity to get ahaed in our coutnry tehse dasy?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+9,RACESURV5i_W43,5,5,"Overall, how does being a man affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovreall, how does benig a man affect peopl'es aiblity to get aehad in our conutry thsee dyas?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+10,RACESURV5j_W43,5,5,"Overall, how does being a woman affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Overlal, how does benig a wmoan afefct pepole's abiltiy to get aehad in our conutry thsee dasy?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+11,RACESURV5k_W43,5,5,"Overall, how does being poor affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Oevrall, how does bieng poor affcet pepole's abliity to get aehad in our coutnry tehse dyas?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+12,RACESURV5l_W43,5,5,"Overall, how does being wealthy affect people's ability to get ahead in our country these days?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot","Ovreall, how does benig waelthy afefct poeple's abiilty to get ahaed in our conutry thsee dyas?
+A. Helps a lot
+B. Helps a little
+C. Neither helps nor hurts
+D. Hurts a little
+E. Hurts a lot"
+13,ECON5_a_W54,5,5,"Do you think the country's current economic conditions are helping or hurting you and your family?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you thnik the countyr's crurent ecoonmic conditinos are hleping or hutring you and your fmaily?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+14,ECON5_b_W54,5,5,"Do you think the country's current economic conditions are helping or hurting people who are wealthy?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you tihnk the countyr's currnet econoimc conidtions are hleping or huritng peolpe who are welathy?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+15,ECON5_c_W54,5,5,"Do you think the country's current economic conditions are helping or hurting the middle class?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you thnik the counrty's current econoimc conditoins are helpnig or hutring the midlde calss?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+16,ECON5_d_W54,5,5,"Do you think the country's current economic conditions are helping or hurting people who are poor?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you tihnk the cuontry's crurent econoimc conditoins are hleping or huritng poeple who are poor?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+17,ECON5_e_W54,5,5,"Do you think the country's current economic conditions are helping or hurting older adults?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you tihnk the countr'ys curernt ecnoomic conidtions are helipng or hurtnig odler audlts?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+18,ECON5_f_W54,5,5,"Do you think the country's current economic conditions are helping or hurting young adults?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you thnik the countyr's current ecnoomic conditoins are hepling or hutring yonug adluts?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+19,ECON5_g_W54,5,5,"Do you think the country's current economic conditions are helping or hurting people who are white?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you tihnk the countyr's current econmoic condiitons are hepling or huritng peolpe who are wihte?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+20,ECON5_h_W54,5,5,"Do you think the country's current economic conditions are helping or hurting people who are black?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you thnik the countyr's crurent ecoonmic condiitons are helpnig or huritng pepole who are balck?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+21,ECON5_i_W54,5,5,"Do you think the country's current economic conditions are helping or hurting people who are Hispanic?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you thnik the countyr's curernt ecoonmic conditoins are hleping or hutring pepole who are Hipsanic?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+22,ECON5_j_W54,5,5,"Do you think the country's current economic conditions are helping or hurting people without college degrees?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you thnik the countr'ys crurent eocnomic condiitons are helpnig or hutring peolpe witohut clolege dgerees?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+23,ECON5_k_W54,5,5,"Do you think the country's current economic conditions are helping or hurting people with college degrees?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot","Do you tihnk the countr'ys currnet ecnoomic cnoditions are helipng or hutring peolpe with collgee degrese?
+A. Helping a lot
+B. Helping a little
+C. Neither helping nor hurting
+D. Hurting a little
+E. Hurting a lot"
+24,RACESURV34a_W43,5,5,"Overall, how much has being white/Being black/Being Hispanic/Being Asian/Your racial background helped or hurt your ability to get ahead?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot","Ovearll, how much has bieng whiet/Being blcak/Being Hispanic/Bieng Asian/oYur racail bacgkround hleped or hurt your abiilty to get aheda?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot"
+25,RACESURV34b_W43,5,5,"Overall, how much has being a man/Being a woman/Your gender helped or hurt your ability to get ahead?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot","Ovearll, how much has bieng a mna/Being a woman/Yuor gedner hleped or hurt your abiilty to get aehad?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot"
+26,RACESURV34c_W43,5,5,"Overall, how much has your family's financial situation when you were growing up helped or hurt your ability to get ahead?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot","Ovearll, how much has your faimly's fniancial situaiton when you were gorwing up hleped or hurt your abiltiy to get aehad?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot"
+27,RACESURV34d_W43,5,5,"Overall, how much has how hard you've worked helped or hurt your ability to get ahead?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot","Ovearll, how much has how hard yuo've wroked hleped or hurt your aiblity to get ahaed?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot"
+28,RACESURV34e_W43,5,5,"Overall, how much has the people you know helped or hurt your ability to get ahead?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot","Oevrall, how much has the poeple you know hepled or hurt your abiilty to get ahaed?
+A. Helped a lot
+B. Helped a little
+C. Neither helped nor hurt
+D. Hurt a little
+E. Hurt a lot"
+29,ROBWRK_W41,5,5,"Overall, how likely do you think it is that 30 years from now robots and computers will do much of the work currently done by humans? Do you think this will
+A. Definitely happen
+B. Probably happen
+C. May or may not happen
+D. Probably not happen
+E. Definitely not happen","Overlal, how lkiely do you thnik it is that 30 yeras from now rboots and copmuters will do much of the work currnetly done by humasn? Do you tihnk this will
+A. Definitely happen
+B. Probably happen
+C. May or may not happen
+D. Probably not happen
+E. Definitely not happen"
+30,AUTOLKLY_W41,5,5,"Within the next 30 years, how likely do you think it is that the type of work that you do will be done by robots or computers? Do you think this will
+A. Definitely happen
+B. Probably happen
+C. May or may not happen
+D. Probably not happen
+E. Definitely not happen","Wihtin the next 30 yaers, how likley do you thnik it is that the type of work that you do will be done by robtos or copmuters? Do you tihnk this will
+A. Definitely happen
+B. Probably happen
+C. May or may not happen
+D. Probably not happen
+E. Definitely not happen"
+31,RACESURV9_W43,5,5,"When race or race relations comes up in your conversations with family and friends, is it
+A. Always with people who are the same race as you
+B. Mostly with people who are the same race as you
+C. Both about equally
+D. Mostly with people who are not the same race as you
+E. Always with people who are not the same race as you","When race or race relatinos cmoes up in your convresations with fmaily and freinds, is it
+A. Always with people who are the same race as you
+B. Mostly with people who are the same race as you
+C. Both about equally
+D. Mostly with people who are not the same race as you
+E. Always with people who are not the same race as you"
+32,TRACKCO1a_W49,5,5,"As far as you know, how much of what you do online or on your cellphone is being tracked by advertisers, technology firms or other companies?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it","As far as you knwo, how much of what you do onlnie or on your cellphone is benig tarcked by adveritsers, tecnhology frims or otehr cmopanies?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it"
+33,TRACKCO1b_W49,5,5,"As far as you know, how much of what you do offline like where you are or who you are talking to is being tracked by advertisers, technology firms or other companies?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it","As far as you konw, how much of what you do offlnie like wehre you are or who you are talknig to is benig tarcked by advertisres, tehcnology frims or otehr comapnies?
+A. All or almost all of it
+B. Most of it
+C. Some of it
+D. Very little of it
+E. None of it"
+34,NEIGHSAMEA_W32,5,5,"As far as you know, how many of your neighbors are the same race or ethnicity as you
+A. All of them
+B. Most of them
+C. About half
+D. Only some of them
+E. None of them","As far as you konw, how many of your nieghbors are the same race or ethincity as you
+A. All of them
+B. Most of them
+C. About half
+D. Only some of them
+E. None of them"
+35,NEIGHSAMEB_W32,5,5,"As far as you know, how many of your neighbors are the same social class as you
+A. All of them
+B. Most of them
+C. About half
+D. Only some of them
+E. None of them","As far as you konw, how many of your neigbhors are the same soical clsas as you
+A. All of them
+B. Most of them
+C. About half
+D. Only some of them
+E. None of them"
+36,NEIGHSAMEC_W32,5,5,"As far as you know, how many of your neighbors have the same political views as you
+A. All of them
+B. Most of them
+C. About half
+D. Only some of them
+E. None of them","As far as you knwo, how many of your neighbros have the same poiltical veiws as you
+A. All of them
+B. Most of them
+C. About half
+D. Only some of them
+E. None of them"
+37,SOLVPROBb_W41,5,5,"In the future, what kind of an impact do you think major corporations will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the futrue, what kind of an imapct do you tihnk mjaor corpoartions will have in solivng the bigegst prolbems facnig the cuontry?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+38,SOLVPROBc_W41,5,5,"In the future, what kind of an impact do you think religious groups will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the futrue, what kind of an impcat do you tihnk reliigous gorups will have in sloving the biggset problmes faicng the countyr?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+39,SOLVPROBdF1_W41,5,5,"In the future, what kind of an impact do you think the government in Washington will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the futuer, what kind of an impcat do you thnik the governmnet in Washignton will have in solivng the bgigest prolbems faicng the cuontry?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+40,SOLVPROBeF2_W41,5,5,"In the future, what kind of an impact do you think state and local government will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the futuer, what kind of an ipmact do you thnik satte and lcoal govrenment will have in solvnig the biggset porblems facnig the countyr?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+41,SOLVPROBf_W41,5,5,"In the future, what kind of an impact do you think the news media will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the futrue, what kind of an imapct do you thnik the news meida will have in sloving the biggset problmes faicng the coutnry?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+42,SOLVPROBg_W41,5,5,"In the future, what kind of an impact do you think the military will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the ftuure, what kind of an ipmact do you tihnk the militray will have in sloving the biggest problmes faicng the counrty?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+43,SOLVPROBh_W41,5,5,"In the future, what kind of an impact do you think colleges and universities will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the futuer, what kind of an ipmact do you thnik collgees and univeristies will have in solvnig the biggset porblems fcaing the countyr?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+44,SOLVPROBi_W41,5,5,"In the future, what kind of an impact do you think public K-12 schools will have in solving the biggest problems facing the country?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact","In the fuutre, what kind of an imapct do you tihnk pbulic K-12 scholos will have in sloving the bigegst porblems facnig the cuontry?
+A. A very positive impact
+B. A somewhat positive impact
+C. Neither a positive nor negative impact
+D. A somewhat negative impact
+E. A very negative impact"
+45,ETHNCMAJMOD_W41,5,5,"According to the U.S. Census Bureau, by the year 2050, a majority of the population will be made up of blacks, Asians, Hispanics, and other racial minorities. In terms of its impact on the country, do you think this will be
+A. A very good thing
+B. A somewhat good thing
+C. Neither a good nor bad thing
+D. A somewhat bad thing
+E. A very bad thing","According to the U.S. Cenuss Buraeu, by the year 2500, a mjaority of the popualtion will be made up of blcaks, Asains, Hispancis, and otehr racail minoritise. In temrs of its ipmact on the cuontry, do you tihnk this will be
+A. A very good thing
+B. A somewhat good thing
+C. Neither a good nor bad thing
+D. A somewhat bad thing
+E. A very bad thing"
+46,AGEMAJ_W41,5,5,"According to the U.S. Census Bureau, by the year 2050, the number of people in the population who are 65 or older will outnumber people younger than 18. In terms of its impact on the country, do you think this will be
+A. A very good thing
+B. A somewhat good thing
+C. Neither a good nor bad thing
+D. A somewhat bad thing
+E. A very bad thing","Accroding to the U.S. Cesnus Buerau, by the year 2005, the numebr of poeple in the popultaion who are 65 or odler will outnmuber pepole yonuger than 18. In temrs of its impcat on the cuontry, do you thnik this will be
+A. A very good thing
+B. A somewhat good thing
+C. Neither a good nor bad thing
+D. A somewhat bad thing
+E. A very bad thing"
+47,INTRMAR_W41,5,5,"According to the U.S. Census Bureau, more people of different races are marrying each other these days than in the past. In terms of its impact on the country, do you think this is
+A. A very good thing
+B. A somewhat good thing
+C. Neither a good nor bad thing
+D. A somewhat bad thing
+E. A very bad thing","Accordnig to the U.S. Cesnus Brueau, more peolpe of diffeernt raecs are marrynig each otehr thsee days than in the psat. In trems of its ipmact on the conutry, do you tihnk this is
+A. A very good thing
+B. A somewhat good thing
+C. Neither a good nor bad thing
+D. A somewhat bad thing
+E. A very bad thing"
+48,GAP21Q32_W82,5,5,"Now that Joe Biden is president, do you think other countries view the U.S
+A. A lot more positively
+B. A little more positively
+C. Neither positively nor negatively
+D. A little more negatively
+E. A lot more negatively","Now that Joe Biedn is persident, do you tihnk otehr coutnries view the U.S
+A. A lot more positively
+B. A little more positively
+C. Neither positively nor negatively
+D. A little more negatively
+E. A lot more negatively"
+49,UNIMMIGCOMM_W92,5,5,"When it comes to people who have immigrated to the U.S illegally, do you think they generally make the communities they live in
+A. A lot better
+B. A little better
+C. Neither better nor worse
+D. A little worse
+E. A lot worse","When it cmoes to peolpe who have immgirated to the U.S illeglaly, do you thnik they genreally make the communiites they live in
+A. A lot better
+B. A little better
+C. Neither better nor worse
+D. A little worse
+E. A lot worse"
+50,SATLIFEa_W50,5,5,"Please tell us whether you are satisfied or dissatisfied with your family life.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Plesae tell us wehther you are staisfied or dissaitsfied with your famliy lfie.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+51,SATLIFEb_W50,5,5,"Please tell us whether you are satisfied or dissatisfied with your social life.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Plesae tell us whehter you are staisfied or dissatsified with your soical lfie.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+52,SATLIFEc_W50,5,5,"Please tell us whether you are satisfied or dissatisfied with your personal financial situation.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Plaese tell us whetehr you are satisfeid or dissatisifed with your persnoal financail situatoin.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+53,SATLIFEd_W50,5,5,"Please tell us whether you are satisfied or dissatisfied with your current job or career.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Pelase tell us whteher you are satisifed or dissatsified with your currnet job or career.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+54,FAMSURV32a_W50,5,5,"How do you feel about the way household chores are divided between you and your spouse/partner?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","How do you feel aobut the way housheold cohres are diviedd between you and your spouse/partnre?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+55,FAMSURV32b_W50,5,5,"How do you feel about your sex life?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","How do you feel abuot your sex lief?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+56,FAMSURV32c_W50,5,5,"How do you feel about how well you and your spouse/partner communicate with each other?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","How do you feel aobut how well you and your spuose/partner communictae with each otehr?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+57,FAMSURV32d_W50,5,5,"How do you feel about how well your spouse/partner balances work and their personal life?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","How do you feel aobut how well your sopuse/partner balnaces work and thier perosnal lief?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+58,FAMSURV32e_W50,5,5,"How do you feel about your spouse's/partner's approach to parenting?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","How do you feel abuot your spoues's/partner's appraoch to paernting?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+59,SATLIFEA_W32,5,5,"Please tell us whether you are satisfied or dissatisfied with your family life.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Plesae tell us whehter you are satifsied or dsisatisfied with your famliy lfie.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+60,SATLIFEB_W32,5,5,"Please tell us whether you are satisfied or dissatisfied with your social life.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Plaese tell us whetehr you are satsified or dissatifsied with your soical lief.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+61,SATLIFEC_W32,5,5,"Please tell us whether you are satisfied or dissatisfied with your personal financial situation.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Plesae tell us wehther you are staisfied or dsisatisfied with your pesronal financail siutation.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+62,SATLIFED_W32,5,5,"Please tell us whether you are satisfied or dissatisfied with your current job or career.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Pelase tell us whteher you are satisfeid or dsisatisfied with your crurent job or caerer.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+63,SATLIFEE_W32,5,5,"Please tell us whether you are satisfied or dissatisfied with the quality of life in your local community.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied","Plesae tell us wehther you are satisfeid or dissatisfeid with the quailty of life in your lcoal cmomunity.
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Somewhat dissatisfied
+E. Very dissatisfied"
+64,GAP21Q3_W82,5,5,"How satisfied are you with the way democracy is working in the US?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Not too satisfied
+E. Not at all satisfied","How satsified are you with the way dmeocracy is wokring in the US?
+A. Very satisfied
+B. Somewhat satisfied
+C. Neither satisfied nor dissatisfied
+D. Not too satisfied
+E. Not at all satisfied"
+65,GAP21Q4_a_W82,5,5,"Do you have a favorable or unfavorable opinion of the United States
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable","Do you have a faovrable or unfaovrable opinoin of the Uinted Staets
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable"
+66,GAP21Q4_b_W82,5,5,"Do you have a favorable or unfavorable opinion of China
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable","Do you have a favoralbe or unfvaorable oipnion of Chnia
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable"
+67,GAP21Q4_c_W82,5,5,"Do you have a favorable or unfavorable opinion of Germany
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable","Do you have a favorbale or unfaovrable oipnion of Germnay
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable"
+68,GAP21Q4_d_W82,5,5,"Do you have a favorable or unfavorable opinion of the European Union
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable","Do you have a fvaorable or unafvorable oipnion of the Eruopean Unoin
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable"
+69,GAP21Q4_e_W82,5,5,"Do you have a favorable or unfavorable opinion of the United Nations
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable","Do you have a favroable or unfaovrable oipnion of the Uinted Ntaions
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable"
+70,GAP21Q4_f_W82,5,5,"Do you have a favorable or unfavorable opinion of nato, that is, North Atlantic Treaty Organization
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable","Do you have a favoralbe or unfavorbale oipnion of ntao, that is, Nroth Atlnatic Teraty Organizaiton
+A. Very favorable
+B. Somewhat favorable
+C. Neither favorable nor unfavorable
+D. Somewhat unfavorable
+E. Very unfavorable"
+71,FAMSURV6_W50,5,5,"How do you feel about allowing unmarried couples to enter into legal agreements that would give them the same rights as married couples when it comes to things like health insurance, inheritance or tax benefits?
+A. Strongly favor
+B. Somewhat favor
+C. Neither favor nor oppose
+D. Somewhat oppose
+E. Strongly oppose","How do you feel aobut allownig unmarired coulpes to etner into lgeal agreements that wuold give them the same rihgts as mraried coupels when it coems to tihngs like haelth insuarnce, inhreitance or tax bneefits?
+A. Strongly favor
+B. Somewhat favor
+C. Neither favor nor oppose
+D. Somewhat oppose
+E. Strongly oppose"
+72,FREECOLL_W92,5,5,"Would you favor or oppose making tuition at public colleges and universities free for all American students?
+A. Strongly favor
+B. Somewhat favor
+C. Neither favor nor oppose
+D. Somewhat oppose
+E. Strongly oppose","Wolud you fvaor or oppsoe maikng tuitoin at pbulic colleegs and unviersities free for all Ameriacn stduents?
+A. Strongly favor
+B. Somewhat favor
+C. Neither favor nor oppose
+D. Somewhat oppose
+E. Strongly oppose"
+73,HOOD_NHISA_W29,5,5,"How much do you agree or disagree with the following statements about your neighborhood? There are people I can count on in this neighborhood
+A. Definitely agree
+B. Somewhat agree
+C. Neither agree nor disagree
+D. Somewhat disagree
+E. Definitely disagree","How much do you argee or dsiagree with the flolowing sttaements abuot your nieghborhood? Three are poeple I can conut on in this neighborohod
+A. Definitely agree
+B. Somewhat agree
+C. Neither agree nor disagree
+D. Somewhat disagree
+E. Definitely disagree"
+74,HOOD_NHISB_W29,5,5,"How much do you agree or disagree with the following statements about your neighborhood? People in this neighborhood can be trusted
+A. Definitely agree
+B. Somewhat agree
+C. Neither agree nor disagree
+D. Somewhat disagree
+E. Definitely disagree","How much do you agere or disagere with the follwoing sttaements abuot your neighobrhood? Poeple in this neighobrhood can be trutsed
+A. Definitely agree
+B. Somewhat agree
+C. Neither agree nor disagree
+D. Somewhat disagree
+E. Definitely disagree"
+75,HOOD_NHISC_W29,5,5,"How much do you agree or disagree with the following statements about your neighborhood? This is a close-knit neighborhood
+A. Definitely agree
+B. Somewhat agree
+C. Neither agree nor disagree
+D. Somewhat disagree
+E. Definitely disagree","How much do you argee or disagere with the fololwing statmeents aobut your negihborhood? This is a close-kint negihborhood
+A. Definitely agree
+B. Somewhat agree
+C. Neither agree nor disagree
+D. Somewhat disagree
+E. Definitely disagree"

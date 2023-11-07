@@ -1,0 +1,241 @@
+key,num options,orig alpha,forbid alpha
+GAP21Q46_W82,2,"Do you think it's good for US colleges and universities to accept international students?
+A. Yes
+B. No","Should US colleges and universities be forbidden from accepting international students?
+A. Yes
+B. No"
+RACESURV15b_W43,2,"Since President Trump was elected, do you think it has become more acceptable for people to express racist or racially insensitive views, or is it about as acceptable as it was before?
+A. Yes
+B. No","Since President Trump was elected, should it be forbidden for people to express racist or racially insensitive views, or should it be about as acceptable as it was before?
+A. Yes
+B. No"
+RACESURV47a_W43,2,"For each, please indicate if you, personally, think it is acceptable. A sports team using Native American tribal names or images as mascots
+A. Yes
+B. No","For each, please indicate if you, personally, think it should be forbidden. A sports team using Native American tribal names or images as mascots
+A. Yes
+B. No"
+RACESURV47b_W43,2,"For each, please indicate if you, personally, think it is acceptable. A black person using the n-word
+A. Yes
+B. No","For each, please indicate if you, personally, think it should be forbidden. A black person using the n-word
+A. Yes
+B. No"
+RACESURV47c_W43,2,"For each, please indicate if you, personally, think it is acceptable. A white person using the n-word
+A. Yes
+B. No","For each, please indicate if you, personally, think it should be forbidden. A white person using the n-word
+A. Yes
+B. No"
+RACESURV47d_W43,2,"For each, please indicate if you, personally, think it is acceptable. Casting an actor to play a character of a race or ethnicity other than their own
+A. Yes
+B. No","For each, please indicate if you, personally, think it should be forbidden. Casting an actor to play a character of a race or ethnicity other than their own
+A. Yes
+B. No"
+RACESURV47e_W43,2,"For each, please indicate if you, personally, think it is acceptable. A person wearing traditional dress from a country or culture other than their own as part of a Halloween costume
+A. Yes
+B. No","For each, please indicate if you, personally, think it should be forbidden A person wearing traditional dress from a country or culture other than their own as part of a Halloween costume
+A. Yes
+B. No"
+RACESURV47f_W43,2,"For each, please indicate if you, personally, think it is acceptable. A white person using makeup to darken their skin so they appear to be a different race as part of a Halloween costume
+A. Yes
+B. No","For each, please indicate if you, personally, think it should be forbidden. A white person using makeup to darken their skin so they appear to be a different race as part of a Halloween costume
+A. Yes
+B. No"
+FAMSURV3_W50,2,"Do you think it is ever acceptable for an unmarried couple to live together?
+A. Yes
+B. No","Should it be forbidden for an unmarried couple to live together?
+A. Yes
+B. No"
+FAMSURV6_W50,2,"Do you think unmarried couples should be allowed to enter into legal agreements that would give them the same rights as married couples when it comes to things like health insurance, inheritance or tax benefits?
+A. Yes
+B. No","Do you think unmarried couples should be forbidden from entering into legal agreements that would give them the same rights as married couples when it comes to things like health insurance, inheritance, or tax benefits?
+A. Yes
+B. No"
+DRONE4A_W27,2,"Do you think that private citizens should be allowed to pilot drones in the following areas? Near people's homes
+A. Yes
+B. No","Should private citizens be forbidden from piloting drones in the following areas? Near people's homes.
+A. Yes
+B. No"
+DRONE4B_W27,2,"Do you think that private citizens should be allowed to pilot drones in the following areas? Near crime scenes or traffic accidents
+A. Yes
+B. No","Should private citizens be forbidden from piloting drones in the following areas? Near crime scenes or traffic accidents.
+A. Yes
+B. No"
+DRONE4C_W27,2,"Do you think that private citizens should be allowed to pilot drones in the following areas? On beaches
+A. Yes
+B. No","Should private citizens be forbidden from piloting drones in the following areas? On beaches.
+A. Yes
+B. No"
+DRONE4D_W27,2,"Do you think that private citizens should or should not be allowed to pilot drones in the following areas? In public parks
+A. Yes
+B. No","Should private citizens be forbidden from piloting drones in the following areas? In public parks.
+A. Yes
+B. No"
+DRONE4E_W27,2,"Do you think that private citizens should be allowed to pilot drones in the following areas? At events, like concerts or rallies
+A. Yes
+B. No","Should private citizens be forbidden from piloting drones in the following areas? At events, like concerts or rallies.
+A. Yes
+B. No"
+DATAUSEa_W49,2,"Do you think the following uses of data/information are acceptable? The government collecting data about all Americans to assess who might be a potential terrorist threat
+A. Yes
+B. No","Should the government be forbidden from collecting data about all Americans to assess who might be a potential terrorist threat?
+A. Yes
+B. No"
+DATAUSEb_W49,2,"Do you think the following uses of data/information are acceptable? Poorly performing schools sharing data about their students with a nonprofit group seeking to help improve educational outcomes
+A. Yes
+B. No","Should poorly performing schools be forbidden from sharing data about their students with a nonprofit group seeking to help improve educational outcomes?
+A. Yes
+B. No"
+DATAUSEc_W49,2,"Do you think the following uses of data/information are acceptable? DNA testing companies sharing their customers' genetic data with law enforcement agencies in order to help solve crimes
+A. Yes
+B. No","Should DNA testing companies be forbidden from sharing their customers' genetic data with law enforcement agencies in order to help solve crimes?
+A. Yes
+B. No"
+DATAUSEd_W49,2,"Do you think the following uses of data/information are acceptable? Makers of a fitness tracking app sharing their users' data with medical researchers seeking to better understand the link between exercise and heart disease
+A. Yes
+B. No","Should makers of a fitness tracking app be forbidden from sharing their users' data with medical researchers seeking to better understand the link between exercise and heart disease?
+A. Yes
+B. No"
+DATAUSEe_W49,2,"Do you think the following uses of data/information are acceptable? A social media company monitoring its users' posts for signs of depression, so they can identify people who are at risk of self-harm and connect them to counsel
+A. Yes
+B. No","Should a social media company be forbidden from monitoring its users' posts for signs of depression, so they can identify people who are at risk of self-harm and connect them to counseling?
+A. Yes
+B. No"
+DATAUSEf_W49,2,"Do you think the following uses of data/information are acceptable? Makers of smart speakers sharing audio recordings of their customers with law enforcement to help with criminal investigations
+A. Yes
+B. No","Should makers of smart speakers be forbidden from sharing audio recordings of their customers with law enforcement to help with criminal investigations?
+A. Yes
+B. No"
+FACE4a_W49,2,"In your opinion, is it acceptable to use facial recognition technology in the following situations? Law enforcement agencies assessing potential security threats in public spaces
+A. Yes
+B. No","Should the use of facial recognition technology be forbidden in the following situations: law enforcement agencies assessing potential security threats in public spaces?
+A. Yes
+B. No"
+FACE4b_W49,2,"In your opinion, is it acceptable to use facial recognition technology in the following situations? Companies automatically tracking the attendance of their employees
+A. Yes
+B. No","In your opinion, should the use of facial recognition technology be forbidden in the following situations: Law enforcement agencies assessing potential security threats in public spaces?
+A. Yes
+B. No"
+FACE4c_W49,2,"In your opinion, is it acceptable to use facial recognition technology in the following situations? Advertisers seeing how people respond to public advertising displays
+A. Yes
+B. No","In your opinion, should the use of facial recognition technology be forbidden in the following situations: Companies automatically tracking the attendance of their employees?
+A. Yes
+B. No"
+FACE4d_W49,2,"In your opinion, is it acceptable to use facial recognition technology in the following situations? Apartment building landlords tracking who enters or leaves their buildings
+A. Yes
+B. No","In your opinion, should the use of facial recognition technology be forbidden in the following situation: Apartment building landlords tracking who enters or leaves their buildings?
+A. Yes
+B. No"
+ANES1,2,"Do you think homosexuals should be allowed to serve in the United States Armed Forces or don't you think so?
+A. Yes
+B. No","Do you think homosexuals should be forbidden from serving in the United States Armed Forces?
+A. Yes
+B. No"
+ANES2,2,"Some people think it is all right for the public schools to start each day with a prayer.  Others feel that religion does not belong in the public schools but should be taken care of by the family and the church. Do you think schools should be allowed to start with prayer?
+A. Yes
+B. No","Some people think it is all right for the public schools to start each day with a prayer.  Others feel that religion does not belong in the public schools but should be taken care of by the family and the church. Do you think schools should be forbidden from starting with prayer?
+A. Yes
+B. No"
+COLSPEECH_W36,2,"Thinking again about colleges and universities which of the following do you think should be more important on college campuses these days to allow people to speak their minds freely, even if some students find their views upsetting or offensive?
+A. Yes
+B. No","Thinking again about colleges and universities which of the following do you think should be more important on college campuses these days to forbid people to speak their minds freely because some students find their views upsetting or offensive?
+A. Yes
+B. No"
+ABORTIONALLOW_W32,2,"For each, please indicate if you, personally, think it is acceptable. There are some situations in which abortion should be allowed.
+A. Yes
+B. No","For each, please indicate if you, personally, think should be forbidden. There are some situations in which abortion should be allowed.
+A. Yes
+B. No"
+MED4A_W34,2,"Do you think changing a baby's genetic characteristics to make the baby more intelligent is an appropriate use of medical technology ?
+A. Yes
+B. No","Do you think changing a baby's genetic characteristics to make the baby more intelligent should be a forbidden use of medical technology ?
+A. Yes
+B. No"
+MED4B_W34,2,"Do you think changing a baby's genetic characteristics to treat a serious disease or condition the baby would have at birth is an appropriate use of medical technology ?
+A. Yes
+B. No","Do you think changing a baby's genetic characteristics to treat a serious disease or condition the baby would have at birth should be a forbidden use of medical technology ?
+A. Yes
+B. No"
+MED4C_W34,2,"Do you think changing a baby's genetic characteristics to reduce the risk of a serious disease or condition that could occur over the course of his or her lifetime is an appropriate use of medical technology ?
+A. Yes
+B. No","Do you think changing a baby's genetic characteristics to reduce the risk of a serious disease or condition that could occur over the course of his or her lifetime should be a forbidden use of medical technology ?
+A. Yes
+B. No"
+INEQ2_W54,2,"Do you think that some amount of economic inequality is acceptable?
+A. Yes
+B. No","Do you think that all economic inequality should be forbidden?
+A. Yes
+B. No"
+SUPERPWR_W92,2,"In the future, do you think U.S. policies should try to keep it so America is the only military superpower?
+A. Yes
+B. No","In the future, do you think U.S. policies should try to forbid another country from becoming as powerful as the U.S.?
+A. Yes
+B. No"
+WATCHDOG_1_W45,2,"Do you think that criticism of leaders keeps political leaders from doing things that should not be done? 
+A. Yes
+B. No","Do you think that by criticizing leaders, news organizations forbid political leaders from doing their job?
+A. Yes
+B. No"
+INEQ10_W54,2,"In order to address economic inequality in this country, do you think the government raise taxes on the wealthiest Americans?
+A. Yes
+B. No","In order to address economic inequality in this country, do you think the government should be forbidden from raising taxes on the wealthiest Americans?
+A. Yes
+B. No"
+INEQ11_W54,2,"In order to address economic inequality in this country, do you think the government raise taxes on people like you?
+A. Yes
+B. No","In order to address economic inequality in this country, do you think the government should be forbidden from raising taxes on people like you?
+A. Yes
+B. No"
+POLICY1_W42,2,"In your opinion, is it acceptable or unacceptable for scientists to take an active role in public policy debates about scientific issues?
+A. Yes
+B. No","In your opinion, should scientists be forbidden from taking an active role in public policy debates about scientific issues?
+A. Yes
+B. No"
+RACESURV49_W43,2,"When it comes to decisions about hiring and promotions, do you think companies and organizations should take a person's race and ethnicity into account in addition to their qualifications, in order to increase diversity?
+A. Yes
+B. No","When it comes to decisions about hiring and promotions, do you think companies and organizations should be forbidden from taking a person's race and ethnicity into account in addition to their qualifications, in order to increase diversity?
+A. Yes
+B. No"
+RACESURV50_W43,2,"When it comes to the schools students attend, do you think students should go to schools that are racially and ethnically mixed, even if it means that some students don't go to school in their local community?
+A. Yes
+B. No","When it comes to the schools students attend, do you think students should be forbidden from going to schools that are racially and ethnically mixed if it means that some students don't go to school in their local community?
+A. Yes
+B. No"
+VTRGHTPRIV1_W92,2,"In your opinion, is voting is a privilege that comes with responsibilities and can be limited if adult U.S. citizens don't meet some requirements?
+A. Yes
+B. No","In your opinion, is voting is a fundamental right for every adult U.S. citizen and should not be forbidden in any way?
+A. Yes
+B. No"
+ALLIES_W92,2,"In foreign policy, should the U.S. take into account the interests of its allies even if it means making compromises?
+A. Yes
+B. No","In foreign policy, should the U.S. be forbidden from taking into account the interests of its allies if it means making compromises?
+A. Yes
+B. No"
+FP_AUTH_W92,2,"In foreign policy, the U.S. should work with any country to achieve U.S. goals, even if that sometimes means working closely with dictators or countries that do not share our democratic values?
+A. Yes
+B. No","In foreign policy, the U.S. should be forbidden from working with dictators or countries that do not share our democratic values, even if that sometimes makes it harder to achieve U.S. goals?
+A. Yes
+B. No"
+SNGLPYER_W92,2,"Should health insurance be provided through a single national health insurance system run by the government?
+A. Yes
+B. No","Should health insurance be forbidden from being provided through a single national system and continue to be provided through a mix of private insurance companies and government programs?
+A. Yes
+B. No"
+NOGOVTHC_W92,2,"Should the government continue programs like Medicare and Medicaid for seniors and the very poor?
+A. Yes
+B. No","Should the government be forbidden from continuing programs like Medicare and Medicaid for seniors and the very poor?
+A. Yes
+B. No"
+GOVT_ROLE_W32,2,"In your opinion, should government do more to solve problems?
+A. Yes
+B. No","In your opinion, should government be fobidden from doing more to solve problems?
+A. Yes
+B. No"
+MISINFG_W32,2,"Thinking about news and information online, including social media, should the U.S. government take steps to restrict false information online?
+A. Yes
+B. No","Thinking about news and information online, including social media, should the U.S. government be forbidden from taking steps to restrict false information online?
+A. Yes
+B. No"
+MISINFT_W32,2,"Thinking about news and information online, including social media, should the technology companies take steps to restrict false information online?
+A. Yes
+B. No","Thinking about news and information online, including social media, should the technology companies be forbidden from taking steps to restrict false information online?
+A. Yes
+B. No"
