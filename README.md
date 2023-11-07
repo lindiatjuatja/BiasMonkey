@@ -1,5 +1,14 @@
 # BiasMonkey
-This repository contains the data and analysis code for our paper:\
+
+As large language models (LLMs) become more capable, more people have become interested in using LLMs as proxies for humans in real-world tasks where subjective labels are desired, such as in surveys and opinion polling.
+One widely-cited barrier to the adoption of LLMs is their sensitivity to prompt wording---but interestingly, humans also display sensitivities to instruction changes in the form of response biases.
+But are the sensitivities and biases displayed by LLMs the same or different from those displayed by humans?
+
+BiasMonkey is a framework that answers this question -- it allows you to evaluate whether LLMs exhibit human-like response biases in survey questionnaires.
+You can find more details in our paper below, or browse the dataset and results from our experiments below.
+We'd be happy if you try out BiasMonkey on your own LLMs or survey questions, and please feel free to get in contact via the issues page if you encounter any issues.
+
+Paper:\
 **[Do LLMs exhibit human-like response biases? A case study in survey design]()**\
 *Lindia Tjuatja\*, Valerie Chen\*, Sherry Tongshuang Wu, Ameet Talwalkar, Graham Neubig*
 
