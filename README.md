@@ -17,13 +17,13 @@ Paper:\
 
 
 ## Contents
-* [Dataset](https://github.com/lindiatjuatja/BiasMonkey/tree/main/prompts)
+* [Dataset](https://github.com/lindiatjuatja/BiasMonkey/tree/master/prompts)
     * The original and modified questions used in our study can be found in [here](https://github.com/lindiatjuatja/BiasMonkey/tree/main/prompts).
     * Original Pew questions were acquired from the [OpinionsQA dataset](https://worksheets.codalab.org/worksheets/0x6fb693719477478aac73fc07db333f69) (Santurkar et al. 2023)
-* [LLM Responses](https://github.com/lindiatjuatja/BiasMonkey/tree/main/results)
+* [LLM Responses](https://github.com/lindiatjuatja/BiasMonkey/tree/master/results)
     * Raw responses from LLMs are in `results/<model>/*.pickle`.
     * Formatted responses that are used in the analysis scripts are in `results/<model>/csv/`. The script to generate these files from the raw responses is `format_results.py`.
-* [Analysis](https://github.com/lindiatjuatja/BiasMonkey/tree/main/analysis)
+* [Analysis](https://github.com/lindiatjuatja/BiasMonkey/tree/master/analysis)
     * Main results
         * `full_analysis.ipynb`: Generates results for all models across response biases and non-bias perturbations.
         * `correlation_human_behavior.ipynb`: Computes human and model distributions for all relevant questions and wasserstein distance between the two distributions.
