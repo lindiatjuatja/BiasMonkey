@@ -37,12 +37,12 @@ def get_groups(bias_type):
     elif "allow_forbid" in bias_type:
         first_group = "orig alpha"
         second_group = "forbid alpha"
-        first_options=['a']
+        first_options=['b']
         
         if 'key_typo' in bias_type or 'middle_random' in bias_type or 'letter_swap' in bias_type:
-            second_options = ['a']
+            second_options = ['b']
         else:
-            second_options=['b']
+            second_options=['a']
     else:
         raise ValueError(f"Invalid bias type: {bias_type}")
         
@@ -65,19 +65,22 @@ def run_stat_test(model, bias_type):
         file = bias_type+'-sample.csv'
     
     scores = {}
+
+    exclude_list = ['GAP21Q46_W82', 'RACESURV15b_W43', 'DRONE4D_W27', 'ABORTIONALLOW_W32', 'INEQ10_W54', 'INEQ11_W54', 'POLICY1_W42', 'GOVT_ROLE_W32']
     
     with open(os.path.join(root, file), newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         first_group, second_group, first_options, second_options = get_groups(file)
         for row in reader:
             
-            if row["key"] not in scores:
-                scores[row["key"]] = 0
+            if ('allow_forbid' in bias_type and row["key"] not in exclude_list) or ('allow_forbid' not in bias_type):
+                if row["key"] not in scores:
+                    scores[row["key"]] = 0
 
-            if row["group"] == first_group and row["response"] in first_options:
-                scores[row["key"]] += 1
-            if row["group"] == second_group and row["response"] in second_options:
-                scores[row["key"]] += -1
+                if row["group"] == first_group and row["response"] in first_options:
+                    scores[row["key"]] += 1
+                if row["group"] == second_group and row["response"] in second_options:
+                    scores[row["key"]] += -1
             
     values = list(scores.values())
     values = [value/50*100 for value in values]
