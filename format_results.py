@@ -54,15 +54,18 @@ def format_df(filename: str) -> pd.DataFrame:
         q_variations_df = all_data_df[all_data_df["key"] == key]
         for col, group in zip(cols, groups):
             q_row = q_variations_df[q_variations_df["type"] == col].squeeze()
+            try:
+                responses = list(q_row.responses.split(","))
+                num_model_responses = len(responses)
+                if num_model_responses < num_responses:
+                    num_responses = num_model_responses
+            except:
+                print(q_row)
             key_col += [key] * num_responses
             groups_col += [group] * num_responses
             num_options_col += [q_row.num_options] * num_responses
             # if there are > 50 responses, only take the first 50
-            try:
-                responses = list(q_row.responses.split(","))[:num_responses]
-            except:
-                print(q_row)
-            all_responses += responses
+            all_responses += responses[:num_responses]
 
     upper_responses = all_responses.copy()
     all_responses = []
