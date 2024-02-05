@@ -24,12 +24,7 @@ Paper:\
     * Raw responses from LLMs are in `results/<model>/*.pickle`.
     * Formatted responses that are used in the analysis scripts are in `results/<model>/csv/`. The script to generate these files from the raw responses is `format_results.py`.
 * [Analysis](https://github.com/lindiatjuatja/BiasMonkey/tree/master/analysis)
-    * Main results
-        * `full_analysis.ipynb`: Generates results for all models across response biases and non-bias perturbations.
-        * `correlation_human_behavior.ipynb`: Computes human and model distributions for all relevant questions and wasserstein distance between the two distributions.
-    * Additional results
-        * `uncertainty_analysis.ipynb`: Generate uncertainty measures for all models across response biases and non-bias perturbations. 
-        * `topic_analysis.ipynb`: Visualizes model behavior broken down by topic.
-        * `steering_analysis.ipynb`: Analyzes the effect of steering model behavior.
-        * `ext_gen_analysis.ipynb`: Analyzes the effect of extended generation. 
+    * `full_analysis.ipynb`: Generates results for all models across response biases and non-bias perturbations.
+    * `correlation_human_behavior.ipynb`: Computes human and model distributions for all relevant questions and wasserstein distance between the two distributions.
+    * `uncertainty_analysis.ipynb`: Generate uncertainty measures for all models across response biases and non-bias perturbations.
     
