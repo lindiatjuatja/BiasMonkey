@@ -54,15 +54,7 @@ def run_stat_test(model, bias_type):
     
     root = '../results/'+model+'/csv'
     
-    if 'key_typo' in bias_type or 'middle_random' in bias_type or 'letter_swap' in bias_type:
-        file = bias_type+'.csv' 
-    elif model == 'llama2-7b' or model == 'llama2-13b' or model=='llama2-70b' or model =='gpt-3.5-turbo-instruct'\
-    or 'ext_gen' in model or model == 'llama2-70b-chat' or model == 'llama2-7b-chat' or model =='llama2-13b-chat':
-        file = bias_type+'.csv'
-    elif "reword" in bias_type:
-        file = bias_type+'.csv'
-    else:
-        file = bias_type+'-sample.csv'
+    file = bias_type+".csv"
     
     scores = {}
 
@@ -94,14 +86,8 @@ def get_entropies(model, bias_type):
         
     root = '../results/'+model+'/'
     
-    if 'key_typo' in bias_type or 'middle_random' in bias_type or 'letter_swap' in bias_type:
-        file = bias_type+'.pickle' 
-    elif model == 'llama2-7b' or model == 'llama2-13b' or model=='llama2-70b' or model =='gpt-3.5-turbo-instruct'\
-    or 'ext_gen' in model or model == 'llama2-70b-chat' or model == 'llama2-7b-chat' or model == 'llama2-13b-chat':
-        file = bias_type+'.pickle'
-    else:
-        file = bias_type+'-sample.pickle'
-    
+    file = bias_type+'.pickle' 
+
     first_group, second_group, first_options, second_options = get_groups(file)
     
     df = pd.read_pickle(os.path.join(root, file))
@@ -141,3 +127,47 @@ def get_entropies(model, bias_type):
         new_entropy.append(subset_df.loc[subset_df['type'] == first_group, 'entropy'].item())
 
     return round(np.mean(orig_entropy),2), round(np.var(orig_entropy),2), round(np.mean(new_entropy),2), round(np.var(new_entropy),2)       
+
+def get_indiv_entropies(model, bias_type):
+    
+        
+    root = '../results/'+model+'/'
+        
+    file = bias_type+".pickle"
+    
+    first_group, second_group, first_options, second_options = get_groups(file)
+    
+    df = pd.read_pickle(os.path.join(root, file))
+    
+    entropies = []
+    norm_counts = []
+
+    for index, row in df.iterrows():
+                
+        num_options = row['num_options']
+        if 'odd_even' == bias_type and row['type'] == 'no middle alpha':
+            num_options = 4
+        elif 'opinion_float' == bias_type and row['type'] == 'float alpha':
+            num_options = 6
+        
+        temp = row['responses'].replace(" ", "").split(',')
+        cnts = Counter(temp)
+        cnts = sorted(cnts.items(), key=itemgetter(0))
+        final_counts = [itm_count for letter, itm_count in cnts]
+        norm_final_counts = [itm_count / sum(final_counts) for itm_count in final_counts]
+        entropies.append(entropy(norm_final_counts)/np.log(num_options))
+        
+        norm_counts.append(norm_final_counts)
+    
+    df['entropy'] = entropies
+    df['norm counts'] = norm_counts
+  
+    entps = {}
+
+    for key in df['key'].unique():
+        
+        subset_df = df[df['key']==key][['key', 'type', 'entropy', 'norm counts']]
+        entps[key] = subset_df.loc[subset_df['type'] == second_group, 'entropy'].item()
+    
+    return entps.keys(), entps.values()
+    
