@@ -14,17 +14,27 @@ Paper:\
 
 <img src="https://github.com/lindiatjuatja/BiasMonkey/blob/master/monkey.png?raw=true" width="400"/>
 
+## Usage
 
+First, install the requirements:
+```bash
+pip install -r requirements.txt
+```
 
-## Contents
-* [Dataset](https://github.com/lindiatjuatja/BiasMonkey/tree/master/prompts)
-    * The original and modified questions used in our study can be found in [here](https://github.com/lindiatjuatja/BiasMonkey/tree/main/prompts).
-    * Original Pew questions were acquired from the [OpinionsQA dataset](https://worksheets.codalab.org/worksheets/0x6fb693719477478aac73fc07db333f69) (Santurkar et al. 2023)
-* [LLM Responses](https://github.com/lindiatjuatja/BiasMonkey/tree/master/results)
-    * Raw responses from LLMs are in `results/<model>/*.pickle`.
-    * Formatted responses that are used in the analysis scripts are in `results/<model>/csv/`. The script to generate these files from the raw responses is `format_results.py`.
-* [Analysis](https://github.com/lindiatjuatja/BiasMonkey/tree/master/analysis)
-    * `full_analysis.ipynb`: Generates results for all models across response biases and non-bias perturbations.
-    * `correlation_human_behavior.ipynb`: Computes human and model distributions for all relevant questions and wasserstein distance between the two distributions.
-    * `uncertainty_analysis.ipynb`: Generate uncertainty measures for all models across response biases and non-bias perturbations.
-    
+Then you can run the scripts in the [analysis](https://github.com/lindiatjuatja/BiasMonkey/tree/master/analysis) directory:
+
+* `full_analysis.ipynb`: Generates results for all models across response biases and non-bias perturbations.
+* `correlation_human_behavior.ipynb`: Computes human and model distributions for all relevant questions and wasserstein distance between the two distributions.
+* `uncertainty_analysis.ipynb`: Generate uncertainty measures for all models across response biases and non-bias perturbations.
+
+## Dataset
+
+You can browse the [dataset](https://github.com/lindiatjuatja/BiasMonkey/tree/master/prompts) used in the paper:
+
+* The original and modified questions used in our study can be found in [here](https://github.com/lindiatjuatja/BiasMonkey/tree/main/prompts).
+* Original Pew questions were acquired from the [OpinionsQA dataset](https://worksheets.codalab.org/worksheets/0x6fb693719477478aac73fc07db333f69) (Santurkar et al. 2023)
+
+You can also view the [LLM Responses](https://github.com/lindiatjuatja/BiasMonkey/tree/master/results):
+
+* Raw responses from LLMs are in `results/<model>/*.pickle`.
+* Formatted responses that are used in the analysis scripts are in `results/<model>/csv/`. The script to generate these files from the raw responses is `format_results.py`.
